@@ -106,6 +106,7 @@ def test_all_sources_fail_keeps_old_data(tmp_path, monkeypatch):
 
 def test_source_status_mapping():
     assert hunter.source_status({"cryptorank": "need_key"}, "cryptorank") == "need_key"
+    assert hunter.source_status({"cryptorank": "plan_limited"}, "cryptorank") == "plan_limited"
     assert hunter.source_status({"binance": "HTTP 403"}, "binance") == "error"
     assert hunter.source_status({}, "okx") == "ok"
 
