@@ -11,7 +11,7 @@ from scan import sources_scrape as scrape  # noqa: E402
 
 ALL_SOURCE_NAMES = {
     "binance", "bybit", "okx",
-    "indodax", "tokocrypto", "pintu", "campaigns",
+    "indodax", "tokocrypto", "pintu", "pintu_promo",
     "cryptorank_drop", "airdrops_io", "defillama", "cryptorank_unlock",
 }
 
@@ -71,8 +71,8 @@ def _patch_all_failing(monkeypatch):
     )
     monkeypatch.setattr(
         scrape,
-        "fetch_campaigns",
-        _fail_factory(scrape.source_errors, "campaigns"),
+        "fetch_pintu_promos",
+        _fail_factory(scrape.source_errors, "pintu_promo"),
     )
 
 
