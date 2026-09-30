@@ -17,6 +17,7 @@ from scan.sources_scrape import (
     fetch_tokocrypto,
     fetch_pintu,
     fetch_campaigns,
+    fetch_pintu_promos,
     source_errors,
 )
 
@@ -485,3 +486,85 @@ def test_new_fetchers_never_raise(monkeypatch):
     ):
         assert fn() == []
         assert name in source_errors
+
+
+# --- Pintu promos (Task 9: replaces dead Binance/Bybit campaign sources) ---
+
+PINTU_PROMO_HTML = """
+<html><body>
+<article id="post-292653" class="blog-post row align-items-center post-292653 post type-post status-publish format-standard has-post-thumbnail hentry category-promo">
+  <h2><a href="https://blog.pintu.co.id/id/posts/adu-analisa-chart-amd-september-2026">Siap Adu Analisa Chart AMD, Buktikan Analisamu &amp; Rebut Total Hadiah Rp2 Juta!</a></h2>
+  <span>September 25, 2026</span>
+  <p>Hi Teman Pintu, Chart Arena is here! Ikuti dan menangkan hadiah menarik.</p>
+</article>
+<article id="post-292057" class="blog-post row align-items-center post-292057 post type-post status-publish format-standard has-post-thumbnail hentry category-promo">
+  <h2><a href="https://blog.pintu.co.id/id/posts/promo-earn-usdt-usdc-locked-90-september-2026">Promo Pintu Earn: Imbal Hasil USDT &amp; USDC Sampai Setara 4,5% per Tahun</a></h2>
+  <span>September 14, 2026</span>
+  <p>Dapatkan imbal hasil menarik untuk USDT dan USDC kamu.</p>
+</article>
+</body></html>
+"""
+
+
+def test_pintu_promos_parses_articles(monkeypatch):
+    monkeypatch.setattr(
+        sources_scrape, "_fetch_html", _mock_html(PINTU_PROMO_HTML)
+    )
+    # Same HTML for both pages -> dedupe collapses to 2 unique items.
+    items = fetch_pintu_promos()
+    assert len(items) == 2
+    first = items[0]
+    assert first["judul"] == (
+        "Siap Adu Analisa Chart AMD, Buktikan Analisamu & Rebut "
+        "Total Hadiah Rp2 Juta!"
+    )
+    assert first["url"] == (
+        "https://blog.pintu.co.id/id/posts/adu-analisa-chart-amd-september-2026"
+    )
+    assert first["kategori"] == "campaign"
+    assert first["exchange"] == "Pintu Promo"
+    assert first["reward"] == "Rp2 Juta"
+    assert first["deadline"] is None
+    assert "Chart Arena is here" in first["cara_ikut"]
+    second = items[1]
+    assert "4,5% per Tahun" in second["judul"]
+    assert second["reward"] is None  # no Rp mention in title/excerpt
+
+
+def test_pintu_promos_reward_from_excerpt(monkeypatch):
+    html = """
+    <html><body><article>
+      <h2><a href="https://blog.pintu.co.id/id/posts/x">Giveaway Tebak Skor</a></h2>
+      <span>September 21, 2026</span>
+      <p>Ikuti giveaway dan menangkan total hadiah senilai Rp6 Juta!</p>
+    </article></body></html>
+    """
+    monkeypatch.setattr(sources_scrape, "_fetch_html", _mock_html(html))
+    items = fetch_pintu_promos()
+    assert len(items) == 1
+    assert items[0]["reward"] == "Rp6 Juta"
+
+
+def test_pintu_promos_partial_page_failure_keeps_data(monkeypatch):
+    def _fake(url, source):
+        return PINTU_PROMO_HTML if "page/2" not in url else None
+
+    monkeypatch.setattr(sources_scrape, "_fetch_html", _fake)
+    items = fetch_pintu_promos()
+    assert len(items) == 2
+    # Data delivered despite one page failing -> source not reported failed.
+    assert "pintu_promo" not in source_errors
+
+
+def test_pintu_promos_never_raise(monkeypatch):
+    def _boom(url, source):
+        raise RuntimeError("net down")
+
+    monkeypatch.setattr(sources_scrape, "_fetch_html", _boom)
+    assert fetch_pintu_promos() == []
+    assert "pintu_promo" in source_errors
+    monkeypatch.setattr(
+        sources_scrape, "_fetch_html", _mock_html("<html>no articles</html>")
+    )
+    source_errors.clear()
+    assert fetch_pintu_promos() == []
