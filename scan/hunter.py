@@ -58,7 +58,11 @@ def _fetchers():
         ("airdrops_io", "airdrops", scrape, "fetch_airdrops_io"),
         ("defillama", "unlocks", scrape, "fetch_defillama_unlocks"),
         ("cryptorank_unlock", "unlocks", scrape, "fetch_cryptorank_unlocks"),
-        ("campaigns", "campaigns", scrape, "fetch_campaigns"),
+        # NOTE: fetch_campaigns (Binance /activity + Bybit activities API) is
+        # retired: Binance 403s (IP-block) and the Bybit API is
+        # country-blocked by CloudFront from this server. Campaigns now come
+        # from Pintu's public promo blog (no key needed).
+        ("pintu_promo", "campaigns", scrape, "fetch_pintu_promos"),
     ]
 
 
