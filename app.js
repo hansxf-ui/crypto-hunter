@@ -6,7 +6,7 @@
     { key: "listings",  el: "sec-listing",  title: "Listing Terbaru", icon: "\uD83D\uDCC8",
       empty: "Belum ada listing baru. Scanner jalan tiap jam \u2014 cek lagi nanti." },
     { key: "airdrops",  el: "sec-airdrop",  title: "Airdrop",          icon: "\uD83E\uDE82",
-      empty: "Belum ada airdrop terpantau. Butuh API key CryptoRank agar sumber ini hidup." },
+      empty: "Belum ada airdrop terpantau. Paket gratis CryptoRank tidak mencakup data drophunting (butuh paket Advanced, $149/bln)." },
     { key: "campaigns", el: "sec-campaign", title: "Campaign",        icon: "\uD83C\uDF81",
       empty: "Belum ada campaign terpantau. Sebagian sumber promo sedang diblokir dari server scan." },
     { key: "unlocks",   el: "sec-unlock",   title: "Token Unlocks",   icon: "\uD83D\uDD13",
@@ -16,7 +16,8 @@
   var SRC_NAMES = { binance: "Binance", bybit: "Bybit", okx: "OKX",
     indodax: "Indodax", tokocrypto: "Tokocrypto", pintu: "Pintu",
     cryptorank: "CryptoRank", campaigns: "Campaign" };
-  var SRC_LABEL = { ok: "live", error: "offline", need_key: "butuh API key" };
+  var SRC_LABEL = { ok: "live", error: "offline", need_key: "butuh API key",
+    plan_limited: "paket kurang" };
 
   var EX_COLORS = {
     Binance: "#F0B90B", Bybit: "#F7A600", OKX: "#7dd3fc",
@@ -119,7 +120,7 @@
     var html = "";
     Object.keys(meta.sources).forEach(function (k) {
       var st = meta.sources[k];
-      var cls = st === "ok" ? "ok" : (st === "need_key" ? "need_key" : "error");
+      var cls = st === "ok" ? "ok" : (st === "need_key" || st === "plan_limited" ? "need_key" : "error");
       html += '<span class="src ' + cls + '"><i></i>' + esc(SRC_NAMES[k] || k)
         + " \u00B7 " + esc(SRC_LABEL[st] || st) + "</span>";
     });
