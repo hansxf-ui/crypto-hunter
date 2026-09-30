@@ -10,8 +10,9 @@ from scan import sources_api as api  # noqa: E402
 from scan import sources_scrape as scrape  # noqa: E402
 
 ALL_SOURCE_NAMES = {
-    "binance", "bybit", "okx", "cryptorank",
+    "binance", "bybit", "okx",
     "indodax", "tokocrypto", "pintu", "campaigns",
+    "cryptorank_drop", "airdrops_io", "defillama", "cryptorank_unlock",
 }
 
 
@@ -35,10 +36,27 @@ def _patch_all_failing(monkeypatch):
     monkeypatch.setattr(
         api, "fetch_okx", _fail_factory(api.source_errors, "okx")
     )
+    # NOTE: api.fetch_cryptorank_drops is retired from the hourly run
+    # (free plan paywalls it); the website-table fetchers below replaced it.
     monkeypatch.setattr(
-        api,
-        "fetch_cryptorank_drops",
-        _fail_factory(api.source_errors, "cryptorank"),
+        scrape,
+        "fetch_cryptorank_drophunting",
+        _fail_factory(scrape.source_errors, "cryptorank_drop"),
+    )
+    monkeypatch.setattr(
+        scrape,
+        "fetch_airdrops_io",
+        _fail_factory(scrape.source_errors, "airdrops_io"),
+    )
+    monkeypatch.setattr(
+        scrape,
+        "fetch_defillama_unlocks",
+        _fail_factory(scrape.source_errors, "defillama"),
+    )
+    monkeypatch.setattr(
+        scrape,
+        "fetch_cryptorank_unlocks",
+        _fail_factory(scrape.source_errors, "cryptorank_unlock"),
     )
     monkeypatch.setattr(
         scrape, "fetch_indodax", _fail_factory(scrape.source_errors, "indodax")
