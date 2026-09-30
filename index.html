@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>Crypto Hunter — Radar Event Kripto</title>
+<meta name="description" content="Radar otomatis: listing exchange baru, airdrop, campaign, dan token unlocks. Update tiap jam.">
+<link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<header class="top">
+  <div class="top-in">
+    <div class="logo" aria-hidden="true">&#127919;</div>
+    <div class="title">
+      <h1>Crypto Hunter</h1>
+      <p><span class="live-dot"></span>Radar event kripto &middot; update tiap jam</p>
+    </div>
+    <div class="spacer"></div>
+    <div class="scanbox">
+      <div>Scan terakhir: <b id="last-scan">-</b></div>
+      <div>Berikutnya: <b id="next-scan">-</b></div>
+    </div>
+    <button id="btn-refresh" type="button" title="Muat ulang data">&#8635;</button>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="meta">
+    <span id="summary"><b>0</b> item terpantau</span>
+    <div id="sources"></div>
+  </div>
+
+  <nav class="chips" aria-label="Filter kategori">
+    <button class="chip active" type="button" data-f="all">Semua<small></small></button>
+    <button class="chip" type="button" data-f="listings">Listing<small></small></button>
+    <button class="chip" type="button" data-f="airdrops">Airdrop<small></small></button>
+    <button class="chip" type="button" data-f="campaigns">Campaign<small></small></button>
+    <button class="chip" type="button" data-f="unlocks">Unlocks<small></small></button>
+  </nav>
+
+  <div id="errbox" class="err" style="display:none"></div>
+
+  <section id="sec-listing">
+    <div class="sec-head"><h2>&#128200; Listing Terbaru</h2><span class="count"></span></div>
+    <div class="cards"><div class="skel"></div><div class="skel"></div><div class="skel"></div></div>
+  </section>
+
+  <section id="sec-airdrop">
+    <div class="sec-head"><h2>&#129681; Airdrop</h2><span class="count"></span></div>
+    <div class="cards"><div class="skel"></div></div>
+  </section>
+
+  <section id="sec-campaign">
+    <div class="sec-head"><h2>&#127881; Campaign</h2><span class="count"></span></div>
+    <div class="cards"><div class="skel"></div></div>
+  </section>
+
+  <section id="sec-unlock">
+    <div class="sec-head"><h2>&#128273; Token Unlocks</h2><span class="count"></span></div>
+    <div class="cards"><div class="skel"></div></div>
+  </section>
+
+  <noscript>
+    <div class="empty"><span class="big">&#128268;</span>
+      Dashboard ini butuh JavaScript untuk memuat data.<br>Aktifkan JavaScript lalu muat ulang halaman.</div>
+  </noscript>
+
+  <footer>
+    Crypto Hunter &middot; scan otomatis tiap jam dari bursa global &amp; Indonesia &middot;
+    data publik, bukan saran finansial
+  </footer>
+</div>
+
+<script src="./app.js"></script>
+</body>
+</html>
