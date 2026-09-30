@@ -55,10 +55,15 @@ def _fetchers():
 
 
 def source_status(errors: dict, name: str) -> str:
-    """Map a source's error entry to ok|error|need_key for meta.json."""
+    """Map a source's error entry to ok|error|need_key|plan_limited."""
     if name not in errors:
         return "ok"
-    return "need_key" if errors[name] == "need_key" else "error"
+    msg = errors[name]
+    if msg == "need_key":
+        return "need_key"
+    if msg == "plan_limited":
+        return "plan_limited"
+    return "error"
 
 
 def _write_json(path: str, payload) -> None:
