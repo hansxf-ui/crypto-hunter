@@ -190,3 +190,15 @@ def test_cryptorank_never_raises(monkeypatch):
     monkeypatch.setattr(sources_api, "_fetch_json", _boom)
     assert fetch_cryptorank_drops() == []
     assert "cryptorank" in source_errors
+
+
+def test_cryptorank_403_means_plan_limited(monkeypatch):
+    monkeypatch.setenv("CRYPTORANK_API_KEY", "dummy-key")
+
+    def _forbidden(url, source, headers=None, data=None):
+        sources_api._note(source, "HTTPError: HTTP Error 403: Forbidden")
+        return None
+
+    monkeypatch.setattr(sources_api, "_fetch_json", _forbidden)
+    assert fetch_cryptorank_drops() == []
+    assert source_errors.get("cryptorank") == "plan_limited"
