@@ -1,5 +1,5 @@
 {
-  "last_scan": "2026-09-30T14:32:22.587078+00:00",
+  "last_scan": "2026-09-30T22:45:06.771207+08:00",
   "sources": {
     "binance": "ok",
     "bybit": "error",
@@ -11,7 +11,7 @@
     "airdrops_io": "ok",
     "defillama": "ok",
     "cryptorank_unlock": "ok",
-    "campaigns": "error"
+    "pintu_promo": "ok"
   },
   "notes": "unlocks: DeFiLlama + CryptoRank website tables (free)"
 }
