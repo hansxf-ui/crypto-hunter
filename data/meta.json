@@ -1,5 +1,5 @@
 {
-  "last_scan": "2026-09-30T22:16:38.003379+08:00",
+  "last_scan": "2026-09-30T22:30:13.961252+08:00",
   "sources": {
     "binance": "ok",
     "bybit": "error",
@@ -7,8 +7,11 @@
     "indodax": "ok",
     "tokocrypto": "ok",
     "pintu": "ok",
-    "cryptorank": "plan_limited",
+    "cryptorank_drop": "ok",
+    "airdrops_io": "ok",
+    "defillama": "ok",
+    "cryptorank_unlock": "ok",
     "campaigns": "error"
   },
-  "notes": "unlocks: no fetcher yet (CryptoRank unlocks deferred — see spec)"
+  "notes": "unlocks: DeFiLlama + CryptoRank website tables (free)"
 }
