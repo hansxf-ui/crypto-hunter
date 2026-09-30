@@ -49,7 +49,15 @@ def _fetchers():
         ("indodax", "listings", scrape, "fetch_indodax"),
         ("tokocrypto", "listings", scrape, "fetch_tokocrypto"),
         ("pintu", "listings", scrape, "fetch_pintu"),
-        ("cryptorank", "airdrops", api, "fetch_cryptorank_drops"),
+        # NOTE: the CryptoRank *API* fetcher (api.fetch_cryptorank_drops) is
+        # retired from the hourly run: the free Sandbox plan 403s on the
+        # drophunting/unlocks endpoints ("plan_limited"). The same data is
+        # now collected from CryptoRank's public website tables below (no key
+        # needed). Re-register the API fetcher if the plan is ever upgraded.
+        ("cryptorank_drop", "airdrops", scrape, "fetch_cryptorank_drophunting"),
+        ("airdrops_io", "airdrops", scrape, "fetch_airdrops_io"),
+        ("defillama", "unlocks", scrape, "fetch_defillama_unlocks"),
+        ("cryptorank_unlock", "unlocks", scrape, "fetch_cryptorank_unlocks"),
         ("campaigns", "campaigns", scrape, "fetch_campaigns"),
     ]
 
@@ -91,9 +99,7 @@ def run_scan(data_dir: str) -> str:
     meta = {
         "last_scan": datetime.now().astimezone().isoformat(),
         "sources": statuses,
-        "notes": (
-            "unlocks: no fetcher yet (CryptoRank unlocks deferred — see spec)"
-        ),
+        "notes": "unlocks: DeFiLlama + CryptoRank website tables (free)",
     }
 
     all_failed = all(name in errors for name, _, _, _ in _fetchers())
@@ -106,6 +112,7 @@ def run_scan(data_dir: str) -> str:
         by_category["listings"]
         + by_category["airdrops"]
         + by_category["campaigns"]
+        + by_category["unlocks"]
     )
     old_snapshot = load_snapshot(os.path.join(data_dir, ".snapshot.json"))
     diffed = diff_new(old_snapshot, merged)
@@ -133,7 +140,10 @@ def run_scan(data_dir: str) -> str:
         os.path.join(data_dir, CATEGORY_FILES["campaigns"]),
         [by_id[i["id"]] for i in by_category["campaigns"]],
     )
-    _write_json(os.path.join(data_dir, CATEGORY_FILES["unlocks"]), [])
+    _write_json(
+        os.path.join(data_dir, CATEGORY_FILES["unlocks"]),
+        [by_id[i["id"]] for i in by_category["unlocks"]],
+    )
     _write_json(os.path.join(data_dir, "meta.json"), meta)
     save_snapshot(os.path.join(data_dir, ".snapshot.json"), diffed)
 
