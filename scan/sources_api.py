@@ -203,6 +203,11 @@ def fetch_cryptorank_drops() -> list[dict]:
         url = f"https://api.cryptorank.io/v2/drophunting/activities?{query}"
         payload = _fetch_json(url, "cryptorank", headers={"X-Api-Key": key})
         if payload is None:
+            err = source_errors.get("cryptorank", "")
+            if "403" in err:
+                # Key valid, but the plan (e.g. free Sandbox) does not
+                # include drophunting endpoints — not a transient error.
+                _note("cryptorank", "plan_limited")
             return []  # transport error already recorded by _fetch_json
         if not isinstance(payload, dict):
             raise ValueError("unexpected response shape")
