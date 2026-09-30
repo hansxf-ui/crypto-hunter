@@ -28,6 +28,10 @@ Endpoint notes (verified 2026-09-30):
   ("0 D 1 H 50 M"), converted to absolute deadlines at fetch time.
 - CryptoRank token unlocks: https://cryptorank.io/token-unlock (public
   website table with absolute dates).
+- Pintu promos: https://blog.pintu.co.id/id/category/promo (SSR WordPress
+  category; 10 articles/page, title + canonical link + date + excerpt in the
+  initial HTML). Replaces the Binance/Bybit campaign sources, both blocked
+  from this server (2026-09-30).
 
 Parsing rule: anchors + nearby dates. No deep selector chains — each
 source only filters links by host/path pattern.
@@ -43,6 +47,7 @@ import re
 import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta
+from html import unescape as _unescape
 
 from scan.schema import normalize
 
@@ -52,6 +57,7 @@ __all__ = [
     "fetch_tokocrypto",
     "fetch_pintu",
     "fetch_campaigns",
+    "fetch_pintu_promos",
     "fetch_cryptorank_drophunting",
     "fetch_airdrops_io",
     "fetch_defillama_unlocks",
@@ -343,7 +349,12 @@ def fetch_pintu() -> list[dict]:
 
 
 def fetch_campaigns() -> list[dict]:
-    """Campaigns: Binance promotions page + Bybit activities feed."""
+    """Campaigns: Binance promotions page + Bybit activities feed.
+
+    RETIRED from the hourly run (2026-09-30): Binance /activity returns 403
+    (IP-block) and the Bybit v5 announcements API is country-blocked by
+    CloudFront from this server. Kept for history; use fetch_pintu_promos.
+    """
 
     def _work():
         items: list[dict] = []
@@ -393,6 +404,84 @@ def fetch_campaigns() -> list[dict]:
         return _dedupe(items)
 
     return _safe_fetch("campaigns", _work)
+
+
+# ---------------------------------------------------------------------------
+# Pintu promo blog (replaces fetch_campaigns, 2026-09-30)
+# ---------------------------------------------------------------------------
+
+PINTU_PROMO_URL = "https://blog.pintu.co.id/id/category/promo"
+PINTU_PROMO_PAGE_2 = "https://blog.pintu.co.id/id/category/promo/page/2/"
+
+_PROMO_ARTICLE_RE = re.compile(r"<article.*?</article>", re.S)
+_PROMO_TITLE_RE = re.compile(
+    r'<h2[^>]*>\s*<a\s+href="([^"]+)"[^>]*>(.*?)</a>', re.S
+)
+_PROMO_P_RE = re.compile(r"<p>(.*?)</p>", re.S)
+_PROMO_REWARD_RE = re.compile(
+    r"Rp\s?[\d.,]+\s*(?:juta|miliar|ribu|rb)?", re.IGNORECASE
+)
+_PROMO_TAG_RE = re.compile(r"<[^>]+>")
+
+
+def _promo_reward(title: str, excerpt: str) -> str | None:
+    """Extract a "Rp..." prize mention from title, else excerpt."""
+    for text in (title, excerpt):
+        if not text:
+            continue
+        match = _PROMO_REWARD_RE.search(text)
+        if match:
+            return re.sub(r"\s+", " ", match.group(0)).strip().rstrip(".")
+    return None
+
+
+def fetch_pintu_promos() -> list[dict]:
+    """Campaigns: Pintu blog promo category (SSR WordPress, 2 pages).
+
+    Cards carry title/link/publish-date/excerpt; there is no per-card end
+    date, so deadline stays None. Reward is extracted from "Rp..." mentions
+    in the title/excerpt when present.
+    """
+    src = "pintu_promo"
+
+    def _work():
+        items: list[dict] = []
+        for page_url in (PINTU_PROMO_URL, PINTU_PROMO_PAGE_2):
+            page = _fetch_html(page_url, src)
+            if not page:
+                continue
+            for art in _PROMO_ARTICLE_RE.findall(page):
+                tm = _PROMO_TITLE_RE.search(art)
+                if not tm:
+                    continue
+                url = tm.group(1).strip()
+                title = _unescape(_PROMO_TAG_RE.sub("", tm.group(2))).strip()
+                if not title or not url.startswith("http"):
+                    continue
+                excerpt = ""
+                ps = _PROMO_P_RE.findall(art)
+                if ps:
+                    excerpt = _unescape(_PROMO_TAG_RE.sub("", ps[0]))
+                    excerpt = re.sub(r"\s+", " ", excerpt).strip()
+                item = normalize(
+                    {
+                        "judul": title,
+                        "url": url,
+                        "reward": _promo_reward(title, excerpt),
+                        "cara_ikut": excerpt[:160] or None,
+                    },
+                    "campaign",
+                    "Pintu Promo",
+                )
+                if item:
+                    items.append(item)
+        if items:
+            # One page may have failed while the other delivered: don't
+            # report the source as failed when we actually have data.
+            source_errors.pop(src, None)
+        return _dedupe(items)
+
+    return _safe_fetch(src, _work)
 
 
 # ---------------------------------------------------------------------------
