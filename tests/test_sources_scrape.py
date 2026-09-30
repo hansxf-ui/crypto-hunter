@@ -274,6 +274,19 @@ def test_indodax_skips_read_more_and_newsroom(monkeypatch):
     assert items[0]["judul"] == "MarsCoin (MARSCOIN) Listing di INDODAX"
 
 
+def test_indodax_skips_cloudflare_email_placeholder(monkeypatch):
+    html = """
+    <html><body>
+    <a href="https://blog.indodax.com/listing-marscoin/">MarsCoin (MARSCOIN) Listing di INDODAX</a>
+    <a href="/cdn-cgi/l/email-protection#abc123">[email&#160;protected]</a>
+    </body></html>
+    """
+    monkeypatch.setattr(sources_scrape, "_fetch_html", _mock_html(html))
+    items = fetch_indodax()
+    assert len(items) == 1
+    assert items[0]["judul"] == "MarsCoin (MARSCOIN) Listing di INDODAX"
+
+
 def test_pintu_tidies_doubled_card_text(monkeypatch):
     html = """
     <html><body>
