@@ -93,6 +93,10 @@ _DATE_WINDOW = 400  # chars around an anchor to hunt for a date
 _UNDOUBLE_RE = re.compile(r"^(.{15,}?)\s+\1$")
 #: Trailing English "Month D, YYYY" card-meta date (Pintu glues it on).
 _TRAILING_EN_DATE_RE = re.compile(r"\s+[A-Za-z]+\s+\d{1,2},\s*\d{4}$")
+# Cloudflare email-obfuscation placeholder text (e.g. "[email protected]",
+# possibly with raw HTML entities like "[email&#160;protected]")
+# — link text, not a real announcement title.
+_CF_EMAIL_RE = re.compile(r"\[\s*email[^\]]*protected\s*\]", re.IGNORECASE)
 
 _ID_MONTHS = {
     "januari": "January",
@@ -198,6 +202,8 @@ def _anchors(html: str, base_url: str):
         text = _undoubled(_clean_text(match.group(2)))
         if len(text) < 4:
             continue
+        if _CF_EMAIL_RE.search(text):
+            continue  # Cloudflare email placeholder, not a real title
         abs_url = urllib.parse.urljoin(base_url, href)
         start = max(0, match.start() - _DATE_WINDOW)
         end = min(len(html), match.end() + _DATE_WINDOW)
