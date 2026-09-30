@@ -6,23 +6,25 @@
     { key: "listings",  el: "sec-listing",  title: "Listing Terbaru", icon: "\uD83D\uDCC8",
       empty: "Belum ada listing baru. Scanner jalan tiap jam \u2014 cek lagi nanti." },
     { key: "airdrops",  el: "sec-airdrop",  title: "Airdrop",          icon: "\uD83E\uDE82",
-      empty: "Belum ada airdrop terpantau. Paket gratis CryptoRank tidak mencakup data drophunting (butuh paket Advanced, $149/bln)." },
+      empty: "Belum ada airdrop terpantau. Scanner jalan tiap jam \u2014 cek lagi nanti." },
     { key: "campaigns", el: "sec-campaign", title: "Campaign",        icon: "\uD83C\uDF81",
       empty: "Belum ada campaign terpantau. Sebagian sumber promo sedang diblokir dari server scan." },
     { key: "unlocks",   el: "sec-unlock",   title: "Token Unlocks",   icon: "\uD83D\uDD13",
-      empty: "Belum ada data unlocks. Fetcher unlocks belum tersedia \u2014 datang lagi nanti." }
+      empty: "Belum ada unlock terpantau. Scanner jalan tiap jam \u2014 cek lagi nanti." }
   ];
 
   var SRC_NAMES = { binance: "Binance", bybit: "Bybit", okx: "OKX",
     indodax: "Indodax", tokocrypto: "Tokocrypto", pintu: "Pintu",
-    cryptorank: "CryptoRank", campaigns: "Campaign" };
+    cryptorank_drop: "CryptoRank Drop", airdrops_io: "Airdrops.io",
+    defillama: "DeFiLlama", cryptorank_unlock: "CryptoRank Unlock",
+    campaigns: "Campaign" };
   var SRC_LABEL = { ok: "live", error: "offline", need_key: "butuh API key",
     plan_limited: "paket kurang" };
 
   var EX_COLORS = {
     Binance: "#F0B90B", Bybit: "#F7A600", OKX: "#7dd3fc",
     Indodax: "#60a5fa", Tokocrypto: "#fb923c", Pintu: "#c4b5fd",
-    CryptoRank: "#2dd4bf"
+    CryptoRank: "#2dd4bf", "Airdrops.io": "#f472b6", DeFiLlama: "#a3e635"
   };
 
   var state = { data: {}, meta: null, filter: "all", failed: [] };
