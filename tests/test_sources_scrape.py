@@ -297,3 +297,191 @@ def test_pintu_tidies_doubled_card_text(monkeypatch):
     items = fetch_pintu()
     assert len(items) == 1
     assert items[0]["judul"] == "Pintu Listing 2 Token Baru, 24 September 2026"
+
+
+# --- Airdrop & unlock website sources (2026-09-30) ---------------------------
+
+from scan.sources_scrape import (
+    fetch_cryptorank_drophunting,
+    fetch_airdrops_io,
+    fetch_defillama_unlocks,
+    fetch_cryptorank_unlocks,
+)
+
+
+CR_DROP_HTML = """
+<html><head><title>Crypto Airdrops: Up-to-Date Airdrops List 2026 | CryptoRank.io</title></head>
+<body><table><thead><tr><th>Name</th><th>Task Type</th><th>Updated Status</th>
+<th>Reward Type</th><th>Raise/Funds</th><th>Moni Score</th></tr></thead>
+<tbody>
+<tr><td><button>*</button></td>
+<td><a href="/drophunting/ekiden-activity1207"><p>Ekiden</p></a></td>
+<td><p>Cost : $ 60 Time : 25 min Mainnet, Trading</p></td>
+<td><p>Confirmed Sep 30, 2026</p></td>
+<td><p>Points</p></td>
+<td><p>$ 2.00M + 16</p></td>
+<td><p>481</p></td></tr>
+<tr><td><button>*</button></td>
+<td><a href="/drophunting/ecash-drivechains-activity1307"><p>eCash.com ECX</p></a></td>
+<td><p>Cost : $ 0 Time : 10 min Wallet</p></td>
+<td><p>Confirmed Sep 30, 2026</p></td>
+<td><p>Airdrop</p></td>
+<td><p>$ 8.00M</p></td>
+<td><p>134</p></td></tr>
+</tbody></table></body></html>
+"""
+
+CR_404_HTML = """
+<html><head><title>Page not found | CryptoRank.io</title></head>
+<body><h1>Page not found</h1></body></html>
+"""
+
+AIO_HTML = """
+<html><head><title>Crypto Airdrops 2026</title></head><body>
+<article><div class="inside-article"><div class='air-wrapper temperature-70'>
+<div class='droptemp'><span>70°</span></div>
+<div class='air-content-front'>
+<div class="card-status-row"><div class="status-indicator ongoing"><span class="status-dot"></span>Ongoing</div>
+<div class="badge-confirmed">Confirmed</div></div>
+<a href=https://airdrops.io/tastyco/><h3>TastyCo</h3></a>
+<ul class='front-drop-list'><li class='est-value'>Actions: <span>Sign in, Complete Quests and Refer Users</span></li></ul>
+</div></div></div></article>
+<article><div class="inside-article"><div class='air-wrapper temperature-60'>
+<div class='air-content-front'>
+<div class="card-status-row"><div class="status-indicator upcoming"><span class="status-dot"></span>Upcoming</div></div>
+<a href="https://airdrops.io/raycash/"><h3>Raycash</h3></a>
+<ul class='front-drop-list'><li class='est-value'>Actions: <span>Join Waitlist, Follow on X</span></li></ul>
+</div></div></div></article>
+</body></html>
+"""
+
+LLAMA_HTML = """
+<html><body><table><thead><tr><th>Name</th><th>Price</th><th>MCap</th>
+<th>Unlocked Supply</th><th>Prev. Unlock Analysis</th><th>7d Price Change After Unlock</th>
+<th>Next 24h Unlocks</th><th>Next Event</th></tr></thead>
+<tr><td><a href="/unlocks/celo">Add to watchlist Celo</a></td><td>$0.10</td>
+<td>$61.72m</td><td>60.54%</td><td></td><td>+10.83%</td><td>$157,927</td>
+<td>$51,983 Cliff Unlock 0.084% of float 0 D 1 H 50 M 2 S</td></tr>
+<tr><td><a href="/unlocks/canton">Add to watchlist Canton</a></td><td>$0.20</td>
+<td>$10m</td><td>20%</td><td></td><td></td><td></td>
+<td>$19.4m / week Weekly Unlock Rate 0.38% of float 0 D 10 H 55 M 44 S</td></tr>
+<tr><td><a href="/unlocks/kwenta">Add to watchlist Kwenta</a></td><td>$1.00</td>
+<td>$1m</td><td>50%</td><td></td><td></td><td></td>
+<td>179.57 Cliff Unlock 0 D 10 H 55 M 44 S</td></tr>
+<tr><td><a href="/unlocks/empty">Add to watchlist NoEvent</a></td><td>$1.00</td>
+<td>$1m</td><td>100%</td><td></td><td></td><td></td><td></td></tr>
+</table></body></html>
+"""
+
+CR_UNLOCK_HTML = """
+<html><head><title>Cryptocurrency Vesting: Tokens Unlock | CryptoRank.io</title></head>
+<body><table><thead><tr><th>Name</th><th>Price</th><th>Chg (24H)</th><th>Market Cap</th>
+<th>Circ. Supply</th><th>Unlocked</th><th>Locked</th><th>Next Unlock</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td></td>
+<td><a href="/price/bware-labs/vesting"><p>Bware Labs INFRA</p></a></td>
+<td>$ 0.04112</td><td>-25.2%</td><td>$ 205.91K</td><td>5.00M</td>
+<td>82.4% 17.7% INFRA 82.42M INFRA 17.65M</td>
+<td>1.00% of M. Cap ( $ 2.06K ) INFRA 50.15K Sep 30, 2026 Today</td></tr>
+<tr><td></td>
+<td><a href="/price/zora/vesting"><p>Zora ZORA</p></a></td>
+<td>$ 0.01</td><td>+1%</td><td>$ 1M</td><td>1M</td>
+<td>10% 90% ZORA 10M ZORA 90M</td>
+<td><div class="styles_blurred__7MgwC" aria-hidden="true">13.0 % of M. Cap ( $ 1.25M ) GORA 15.00M Jun 24 2025</div></td></tr>
+</tbody></table></body></html>
+"""
+
+
+def test_cryptorank_drophunting_parses_table(monkeypatch):
+    monkeypatch.setattr(sources_scrape, "_fetch_html", _mock_html(CR_DROP_HTML))
+    items = fetch_cryptorank_drophunting()
+    assert len(items) == 2
+    assert items[0]["judul"] == "Ekiden"
+    assert items[0]["url"] == "https://cryptorank.io/drophunting/ekiden-activity1207"
+    assert items[0]["kategori"] == "airdrops"
+    assert items[0]["exchange"] == "CryptoRank"
+    assert items[0]["reward"] == "Points"
+    assert "Confirmed Sep 30, 2026" in items[0]["cara_ikut"]
+    assert "Raise $ 2.00M + 16" in items[0]["cara_ikut"]
+    assert items[1]["judul"] == "eCash.com ECX"
+    assert items[1]["deadline"] is None  # status date is an update, not a deadline
+
+
+def test_cryptorank_drophunting_rejects_soft_404(monkeypatch):
+    monkeypatch.setattr(sources_scrape, "_fetch_html", _mock_html(CR_404_HTML))
+    items = fetch_cryptorank_drophunting()
+    assert items == []
+    assert "cryptorank_drop" in source_errors
+
+
+def test_airdrops_io_parses_cards(monkeypatch):
+    monkeypatch.setattr(sources_scrape, "_fetch_html", _mock_html(AIO_HTML))
+    items = fetch_airdrops_io()
+    assert len(items) == 2
+    assert items[0]["judul"] == "TastyCo"
+    assert items[0]["url"] == "https://airdrops.io/tastyco/"
+    assert items[0]["exchange"] == "Airdrops.io"
+    assert "Ongoing, Confirmed" in items[0]["cara_ikut"]
+    assert "Sign in, Complete Quests and Refer Users" in items[0]["cara_ikut"]
+    assert items[1]["judul"] == "Raycash"
+    assert "Upcoming" in items[1]["cara_ikut"]
+
+
+def test_defillama_unlocks_deadline_from_countdown(monkeypatch):
+    from datetime import datetime, timedelta
+    monkeypatch.setattr(sources_scrape, "_fetch_html", _mock_html(LLAMA_HTML))
+    before = datetime.now().astimezone()
+    items = fetch_defillama_unlocks()
+    after = datetime.now().astimezone()
+    # Row without a parseable upcoming event is skipped.
+    assert len(items) == 3
+    it = items[0]
+    assert it["judul"] == "Celo"
+    assert it["url"] == "https://defillama.com/unlocks/celo"
+    assert it["reward"] == "$51,983"
+    assert "Cliff Unlock" in it["cara_ikut"]
+    dl = datetime.fromisoformat(it["deadline"])
+    expect = timedelta(hours=1, minutes=50, seconds=2)
+    assert before + expect <= dl <= after + expect + timedelta(seconds=5)
+
+
+def test_defillama_unlocks_weekly_and_valueless_formats(monkeypatch):
+    monkeypatch.setattr(sources_scrape, "_fetch_html", _mock_html(LLAMA_HTML))
+    items = fetch_defillama_unlocks()
+    by_name = {it["judul"]: it for it in items}
+    weekly = by_name["Canton"]
+    assert "Weekly Unlock" in weekly["cara_ikut"]
+    assert weekly["reward"] == "$19.4m"
+    assert "0.38% of float" in weekly["cara_ikut"]
+    assert weekly["deadline"] is not None
+    valueless = by_name["Kwenta"]
+    assert valueless["reward"] is None
+    assert "Cliff Unlock" in valueless["cara_ikut"]
+
+
+def test_cryptorank_unlocks_parses_row(monkeypatch):
+    monkeypatch.setattr(sources_scrape, "_fetch_html", _mock_html(CR_UNLOCK_HTML))
+    items = fetch_cryptorank_unlocks()
+    # The blurred aria-hidden teaser row (Zora) is skipped: decoy data.
+    assert len(items) == 1
+    it = items[0]
+    assert it["judul"] == "Bware Labs INFRA"
+    assert it["url"] == "https://cryptorank.io/price/bware-labs/vesting"
+    assert it["kategori"] == "unlocks"
+    assert it["deadline"].startswith("2026-09-30")
+    assert it["reward"] == "$2.06K"
+    assert "INFRA 50.15K" in it["cara_ikut"]
+
+
+def test_new_fetchers_never_raise(monkeypatch):
+    def _boom(url, source):
+        raise RuntimeError("net down")
+    monkeypatch.setattr(sources_scrape, "_fetch_html", _boom)
+    for fn, name in (
+        (fetch_cryptorank_drophunting, "cryptorank_drop"),
+        (fetch_airdrops_io, "airdrops_io"),
+        (fetch_defillama_unlocks, "defillama"),
+        (fetch_cryptorank_unlocks, "cryptorank_unlock"),
+    ):
+        assert fn() == []
+        assert name in source_errors
