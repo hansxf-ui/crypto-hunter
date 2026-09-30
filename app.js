@@ -8,7 +8,7 @@
     { key: "airdrops",  el: "sec-airdrop",  title: "Airdrop",          icon: "\uD83E\uDE82",
       empty: "Belum ada airdrop terpantau. Scanner jalan tiap jam \u2014 cek lagi nanti." },
     { key: "campaigns", el: "sec-campaign", title: "Campaign",        icon: "\uD83C\uDF81",
-      empty: "Belum ada campaign terpantau. Sebagian sumber promo sedang diblokir dari server scan." },
+      empty: "Belum ada campaign terpantau. Scanner jalan tiap jam — cek lagi nanti." },
     { key: "unlocks",   el: "sec-unlock",   title: "Token Unlocks",   icon: "\uD83D\uDD13",
       empty: "Belum ada unlock terpantau. Scanner jalan tiap jam \u2014 cek lagi nanti." }
   ];
@@ -17,14 +17,15 @@
     indodax: "Indodax", tokocrypto: "Tokocrypto", pintu: "Pintu",
     cryptorank_drop: "CryptoRank Drop", airdrops_io: "Airdrops.io",
     defillama: "DeFiLlama", cryptorank_unlock: "CryptoRank Unlock",
-    campaigns: "Campaign" };
+    pintu_promo: "Pintu Promo" };
   var SRC_LABEL = { ok: "live", error: "offline", need_key: "butuh API key",
     plan_limited: "paket kurang" };
 
   var EX_COLORS = {
     Binance: "#F0B90B", Bybit: "#F7A600", OKX: "#7dd3fc",
     Indodax: "#60a5fa", Tokocrypto: "#fb923c", Pintu: "#c4b5fd",
-    CryptoRank: "#2dd4bf", "Airdrops.io": "#f472b6", DeFiLlama: "#a3e635"
+    CryptoRank: "#2dd4bf", "Airdrops.io": "#f472b6", DeFiLlama: "#a3e635",
+    "Pintu Promo": "#e879f9"
   };
 
   var state = { data: {}, meta: null, filter: "all", failed: [] };
