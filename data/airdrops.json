@@ -19,9 +19,21 @@
     "ditemukan": "2026-09-30T22:27:56.886417+08:00",
     "deadline": null,
     "reward": "Airdrop",
-    "cara_ikut": "Cost : $ 0 Time : 10 min Wallet Airdrop Status + 2 · Confirmed Sep 30, 2026 · Raise $ 8.00M",
+    "cara_ikut": "Cost : $ 0 Time : 10 min Hold + 2 · Confirmed Sep 30, 2026 · Raise $ 8.00M",
     "url": "https://cryptorank.io/drophunting/ecash-drivechains-activity1307",
     "is_new": false
+  },
+  {
+    "id": "76ebe986ff50d19d",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "QMS Network",
+    "ditemukan": "2026-09-30T16:32:14.852097+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "Cost : $ 0 Time : 16 min Testnet + 2 · Potential Sep 30, 2026 · Raise -",
+    "url": "https://cryptorank.io/drophunting/qms-network-activity1297",
+    "is_new": true
   },
   {
     "id": "15558960c34076bb",
@@ -48,16 +60,16 @@
     "is_new": false
   },
   {
-    "id": "7529952ae035e654",
+    "id": "df829389c4d8171d",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
-    "judul": "Upd predit.market",
-    "ditemukan": "2026-09-30T22:27:56.886722+08:00",
+    "judul": "predit.market",
+    "ditemukan": "2026-09-30T16:32:14.852385+00:00",
     "deadline": null,
-    "reward": "Points",
-    "cara_ikut": "Cost : $ 20 Time : 15 min Predictions, Social · Confirmed Sep 30, 2026 · Raise $ 2.80M",
+    "reward": "Whitelist",
+    "cara_ikut": "Sign up to view data · Potential Nov 28, 2025 · Raise $ 2.80M",
     "url": "https://cryptorank.io/drophunting/predit-market-activity1162",
-    "is_new": false
+    "is_new": true
   },
   {
     "id": "8dfac23d380da1f4",
@@ -225,18 +237,6 @@
     "reward": "Whitelist",
     "cara_ikut": "Sign up to view data · Inactive Dec 28, 2025 · Raise $ 30.00M + 13",
     "url": "https://cryptorank.io/drophunting/d-3-global-activity662",
-    "is_new": false
-  },
-  {
-    "id": "ec4ff61580c5b953",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "world.xyz",
-    "ditemukan": "2026-09-30T22:27:56.888108+08:00",
-    "deadline": null,
-    "reward": "Whitelist",
-    "cara_ikut": "Sign up to view data · Potential May 9, 2026 · Raise -",
-    "url": "https://cryptorank.io/drophunting/world-xyz-2-activity1230",
     "is_new": false
   },
   {
@@ -456,18 +456,6 @@
     "is_new": false
   },
   {
-    "id": "a87b929d3d009c14",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "VOICE",
-    "ditemukan": "2026-09-30T22:27:57.915176+08:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Sign Up, Complete Core Tasks and Mint VOICY Pass",
-    "url": "https://airdrops.io/voice/",
-    "is_new": false
-  },
-  {
     "id": "af5fa350bf39aa58",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -477,6 +465,18 @@
     "reward": null,
     "cara_ikut": "Ongoing — Connect X, Publish a Post, Refer Friends",
     "url": "https://airdrops.io/dow-protocol/",
+    "is_new": false
+  },
+  {
+    "id": "a87b929d3d009c14",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "VOICE",
+    "ditemukan": "2026-09-30T22:27:57.915176+08:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Sign Up, Complete Core Tasks and Mint VOICY Pass",
+    "url": "https://airdrops.io/voice/",
     "is_new": false
   },
   {
