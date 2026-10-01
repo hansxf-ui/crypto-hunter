@@ -1,5 +1,17 @@
 [
   {
+    "id": "fe858fa46f9c46ca",
+    "kategori": "campaign",
+    "exchange": "Pintu Promo",
+    "judul": "Spesial Pintu VIP: Trading Lagi, Dapatkan Cashback Hingga Rp2,5 Juta!",
+    "ditemukan": "2026-10-01T04:32:18.130424+00:00",
+    "deadline": null,
+    "reward": "Rp2,5 Juta",
+    "cara_ikut": "Pintu VIP Retention - Trading Cumulative Oktober 2026 VIP Only · 1 - 31 Oktober 2026 Cashback pasti untuk ratusan VIP,...",
+    "url": "https://blog.pintu.co.id/id/posts/trading-lagi-cashback-saham-us-oktober-2026",
+    "is_new": true
+  },
+  {
     "id": "8a5dbf1d798efb53",
     "kategori": "campaign",
     "exchange": "Pintu Promo",
@@ -225,18 +237,6 @@
     "reward": "Rp2,5 Juta",
     "cara_ikut": "Hi Teman Pintu, Yuk ikuti Daily Giveaway dari Pintu yang berlangsung mulai 13 - 17 Juli 2026. Mekanisme dan syarat dan...",
     "url": "https://blog.pintu.co.id/id/posts/daily-giveaway-juli-2026",
-    "is_new": false
-  },
-  {
-    "id": "eef71085109603bc",
-    "kategori": "campaign",
-    "exchange": "Pintu Promo",
-    "judul": "Siap Adu Mekanik Chart TSLAx, Buktikan Analisamu & Rebut Total Hadiah Rp2 Juta!",
-    "ditemukan": "2026-09-30T22:44:45.001919+08:00",
-    "deadline": null,
-    "reward": "Rp2 Juta",
-    "cara_ikut": "Hi Teman Pintu, Chart Arena is here! Kali ini kita naik level: bukan sekadar tebak harga, tapi adu analisa kamu soal...",
-    "url": "https://blog.pintu.co.id/id/posts/chart-arena-tesla-pintu-juli-2026",
     "is_new": false
   }
 ]
