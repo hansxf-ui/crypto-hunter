@@ -9,7 +9,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://www.binance.com/en/support/announcement/6bd26adeb6f742fe88eb72faca183566",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "69b2412c321b4e5a",
@@ -480,11 +480,11 @@
     "is_new": false
   },
   {
-    "id": "1d70aa4edaa4c05f",
+    "id": "061ada686ce28575",
     "kategori": "listing",
     "exchange": "Indodax",
-    "judul": "Cashback OVO Points hingga 20.000 OVO Points",
-    "ditemukan": "2026-10-01T06:32:11.571732+00:00",
+    "judul": "Dapatkan Cashback OVO Points hingga 20.000 OVO Points",
+    "ditemukan": "2026-10-01T07:32:12.809580+00:00",
     "deadline": "2026-01-10T00:00:00",
     "reward": null,
     "cara_ikut": null,
@@ -501,7 +501,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://blog.indodax.com/cashback-btc-okt26/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "1f5f627790af8188",
@@ -513,7 +513,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://blog.indodax.com/install-review-okt26/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "80360633d8419c3b",
@@ -1053,7 +1053,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/pengumuman-update-biaya-cfx-turun-2026",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "a95d1fe4ea69292b",
