@@ -1044,24 +1044,12 @@
     "is_new": false
   },
   {
-    "id": "22653eb698728510",
-    "kategori": "listing",
-    "exchange": "Pintu",
-    "judul": "Biaya CFX untuk Transaksi Spot di Pintu Turun 50% Mulai 1 Oktober 2026",
-    "ditemukan": "2026-10-01T01:32:15.942065+00:00",
-    "deadline": "2026-10-01T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://pintu.co.id/blog/pengumuman-update-biaya-cfx-turun-2026",
-    "is_new": true
-  },
-  {
     "id": "a95d1fe4ea69292b",
     "kategori": "listing",
     "exchange": "Pintu",
     "judul": "Pengumuman: Token STG Dikonversi Menjadi ZRO",
     "ditemukan": "2026-09-30T13:28:56.250547+00:00",
-    "deadline": "2026-10-01T00:00:00",
+    "deadline": "2026-09-25T00:00:00",
     "reward": null,
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/pengumuman-token-stg-dikonversi-menjadi-zro",
@@ -1162,5 +1150,17 @@
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/maintenance-deposit-bi-fast-ke-va-bank-nobu",
     "is_new": false
+  },
+  {
+    "id": "ccf2ca4260fb31ca",
+    "kategori": "listing",
+    "exchange": "Pintu",
+    "judul": "Fitur Baru PnL Analysis: Cek Untung Rugi Portofoliomu di Wallet Pintu",
+    "ditemukan": "2026-10-01T02:32:16.574778+00:00",
+    "deadline": "2026-09-02T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://pintu.co.id/blog/pnl-analysis-wallet-pintu",
+    "is_new": true
   }
 ]
