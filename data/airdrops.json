@@ -72,18 +72,6 @@
     "is_new": false
   },
   {
-    "id": "397f7967a2d1a625",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Bitvavo",
-    "ditemukan": "2026-09-30T22:27:57.914938+08:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Sign Up, Deposit and Trade to Earn",
-    "url": "https://airdrops.io/bitvavo/",
-    "is_new": false
-  },
-  {
     "id": "4e403b799d08cbba",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -156,16 +144,16 @@
     "is_new": false
   },
   {
-    "id": "c81206f123544836",
+    "id": "f98a03bbc3abe93b",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
-    "judul": "Nado",
-    "ditemukan": "2026-09-30T22:27:57.915074+08:00",
+    "judul": "Worldie",
+    "ditemukan": "2026-10-01T09:32:13.474889+00:00",
     "deadline": null,
     "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Deposit & Trade perps",
-    "url": "https://airdrops.io/nado/",
-    "is_new": false
+    "cara_ikut": "Ongoing — Join Waitlist & Discord, Claim Link & Refer Users",
+    "url": "https://airdrops.io/worldie/",
+    "is_new": true
   },
   {
     "id": "0dc45de9d5495455",
@@ -204,15 +192,15 @@
     "is_new": false
   },
   {
-    "id": "c13e21e3126d03f9",
+    "id": "a87b929d3d009c14",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
-    "judul": "Ondo Perps",
-    "ditemukan": "2026-09-30T22:27:57.915157+08:00",
+    "judul": "VOICE",
+    "ditemukan": "2026-09-30T22:27:57.915176+08:00",
     "deadline": null,
     "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Join & start Trading",
-    "url": "https://airdrops.io/ondo-perps/",
+    "cara_ikut": "Ongoing, Confirmed — Sign Up, Complete Core Tasks and Mint VOICY Pass",
+    "url": "https://airdrops.io/voice/",
     "is_new": false
   },
   {
@@ -228,15 +216,15 @@
     "is_new": false
   },
   {
-    "id": "a87b929d3d009c14",
+    "id": "c77ae7da7161cf45",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
-    "judul": "VOICE",
-    "ditemukan": "2026-09-30T22:27:57.915176+08:00",
+    "judul": "Nowa",
+    "ditemukan": "2026-09-30T22:27:57.915241+08:00",
     "deadline": null,
     "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Sign Up, Complete Core Tasks and Mint VOICY Pass",
-    "url": "https://airdrops.io/voice/",
+    "cara_ikut": "Ongoing, Confirmed — Complete Social Tasks, Trade, Stake & Refer to Earn",
+    "url": "https://airdrops.io/nowa/",
     "is_new": false
   },
   {
@@ -249,18 +237,6 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Fund Your Wallet, Play Games, Stake MNTD",
     "url": "https://airdrops.io/mint-io/",
-    "is_new": false
-  },
-  {
-    "id": "c77ae7da7161cf45",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Nowa",
-    "ditemukan": "2026-09-30T22:27:57.915241+08:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Complete Social Tasks, Trade, Stake & Refer to Earn",
-    "url": "https://airdrops.io/nowa/",
     "is_new": false
   },
   {
@@ -286,5 +262,41 @@
     "cara_ikut": "Ongoing, Confirmed — Sign up & Deposit USDC",
     "url": "https://airdrops.io/bulk/",
     "is_new": false
+  },
+  {
+    "id": "a44348b7b07cc955",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Push Chain",
+    "ditemukan": "2026-10-01T09:32:13.475125+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Sign Up, Complete Social Tasks, Quests and Refer Users",
+    "url": "https://airdrops.io/push-chain/",
+    "is_new": true
+  },
+  {
+    "id": "979c19549ae72d9a",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Sweep Finance",
+    "ditemukan": "2026-10-01T09:32:13.475144+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Complete Tasks, Stack XP, and Compete for SWEEP Rewards",
+    "url": "https://airdrops.io/sweep-finance/",
+    "is_new": true
+  },
+  {
+    "id": "2d3a6a79ade998cc",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Amadeus Protocol",
+    "ditemukan": "2026-10-01T09:32:13.475162+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Create Wallet, Complete Check-In, Finish Social Tasks",
+    "url": "https://airdrops.io/amadeus-protocol/",
+    "is_new": true
   }
 ]
