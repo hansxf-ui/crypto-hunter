@@ -480,6 +480,30 @@
     "is_new": false
   },
   {
+    "id": "6fe5800ce08b8ab5",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Liburan ke Bali, Phuket, atau Bangkok Mulai Rp1.499.000 dengan Promo INDODAX x Club Wyndham Asia",
+    "ditemukan": "2026-10-01T11:32:12.164865+00:00",
+    "deadline": "2026-01-10T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/promo-indodax-clubwyndham/",
+    "is_new": true
+  },
+  {
+    "id": "261b55c2438d65a2",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Nikmati Diskon 20% di GWK Cultural Park & Jendela Bali Restaurant dengan Akun INDODAX!",
+    "ditemukan": "2026-10-01T11:32:12.177369+00:00",
+    "deadline": "2026-01-10T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/promo-indodax-gwk/",
+    "is_new": true
+  },
+  {
     "id": "061ada686ce28575",
     "kategori": "listing",
     "exchange": "Indodax",
@@ -693,30 +717,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://blog.indodax.com/buy-hold-onl/",
-    "is_new": false
-  },
-  {
-    "id": "c03182dde495a295",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "Informasi Delisting 11 Aset Kripto",
-    "ditemukan": "2026-09-30T13:28:54.737923+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/informasi-delisting-11-aset-kripto/",
-    "is_new": false
-  },
-  {
-    "id": "73b8b4044a0c7aa7",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "INDODAX x Bluebird Group: Nikmati Diskon Perjalanan hingga Rp50.000!",
-    "ditemukan": "2026-09-30T13:28:54.738128+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/promo-taksi-bluebird/",
     "is_new": false
   },
   {
