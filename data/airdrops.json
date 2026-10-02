@@ -24,6 +24,18 @@
     "is_new": false
   },
   {
+    "id": "0eb2369a36aec090",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "New Titan (Canton)",
+    "ditemukan": "2026-10-02T14:32:21.053668+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "Cost : $ 0 Time : 16 min Fill The Form + 2 · Confirmed Oct 2, 2026 · Raise -",
+    "url": "https://cryptorank.io/drophunting/titan-canton-activity1330",
+    "is_new": true
+  },
+  {
     "id": "c2cc3794627fdce7",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
@@ -54,8 +66,8 @@
     "judul": "Melee",
     "ditemukan": "2026-10-02T01:32:13.933587+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "Cost : $ 0 Time : 30 min Predictions, Testnet + 2 · Potential Oct 1, 2026 · Raise $ 3.50M",
+    "reward": "Whitelist",
+    "cara_ikut": "Sign up to view data · Confirmed Nov 2, 2025 · Raise $ 3.50M",
     "url": "https://cryptorank.io/drophunting/melee-activity946",
     "is_new": false
   },
@@ -228,18 +240,6 @@
     "is_new": false
   },
   {
-    "id": "0d7bb945887640cf",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "New Elysium",
-    "ditemukan": "2026-10-02T01:32:13.934975+00:00",
-    "deadline": null,
-    "reward": "Whitelist",
-    "cara_ikut": "Sign up to view data · Distributed Jul 24, 2026 · Raise -",
-    "url": "https://cryptorank.io/drophunting/elysium-kinetiq-activity1325",
-    "is_new": false
-  },
-  {
     "id": "0056618e09687232",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -249,7 +249,7 @@
     "reward": null,
     "cara_ikut": "Ongoing — Join Waitlist, Claim Testnet Tokens, Trade",
     "url": "https://airdrops.io/titan-exchange/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "4d4a498bfbb551d0",
