@@ -432,18 +432,6 @@
     "is_new": false
   },
   {
-    "id": "a87b929d3d009c14",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "VOICE",
-    "ditemukan": "2026-09-30T22:27:57.915176+08:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Sign Up, Complete Core Tasks and Mint VOICY Pass",
-    "url": "https://airdrops.io/voice/",
-    "is_new": false
-  },
-  {
     "id": "af5fa350bf39aa58",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -453,6 +441,18 @@
     "reward": null,
     "cara_ikut": "Ongoing — Connect X, Publish a Post, Refer Friends",
     "url": "https://airdrops.io/dow-protocol/",
+    "is_new": false
+  },
+  {
+    "id": "a87b929d3d009c14",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "VOICE",
+    "ditemukan": "2026-09-30T22:27:57.915176+08:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Sign Up, Complete Core Tasks and Mint VOICY Pass",
+    "url": "https://airdrops.io/voice/",
     "is_new": false
   },
   {
@@ -480,18 +480,6 @@
     "is_new": false
   },
   {
-    "id": "1bc9888b3de59ec9",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Osero",
-    "ditemukan": "2026-09-30T22:27:57.915281+08:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Submit Details and Request Access to Private Beta",
-    "url": "https://airdrops.io/osero/",
-    "is_new": false
-  },
-  {
     "id": "a44348b7b07cc955",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -501,6 +489,18 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Sign Up, Complete Social Tasks, Quests and Refer Users",
     "url": "https://airdrops.io/push-chain/",
+    "is_new": false
+  },
+  {
+    "id": "1bc9888b3de59ec9",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Osero",
+    "ditemukan": "2026-09-30T22:27:57.915281+08:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Submit Details and Request Access to Private Beta",
+    "url": "https://airdrops.io/osero/",
     "is_new": false
   },
   {
