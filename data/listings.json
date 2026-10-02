@@ -480,6 +480,42 @@
     "is_new": false
   },
   {
+    "id": "0c3a49b8ccf46312",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Bulan Oktober Makin Seru! Ikut Kriptoween di Instagram dan Menangkan Rp2 Juta",
+    "ditemukan": "2026-10-02T07:32:15.038653+00:00",
+    "deadline": "2026-02-10T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/ig-kriptoween/",
+    "is_new": true
+  },
+  {
+    "id": "13189e6c497abd78",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Ikutan Kriptoween di X @INDODAX Bisa Dapat Total Rp2 Juta!",
+    "ditemukan": "2026-10-02T07:32:15.067945+00:00",
+    "deadline": "2026-02-10T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/x-kriptoween/",
+    "is_new": true
+  },
+  {
+    "id": "35e6098c3428789f",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "LOYALTY PROMO MINGGU INI!",
+    "ditemukan": "2026-10-02T07:32:15.068446+00:00",
+    "deadline": "2026-02-10T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/loyalty-promo-1okt/",
+    "is_new": true
+  },
+  {
     "id": "6fe5800ce08b8ab5",
     "kategori": "listing",
     "exchange": "Indodax",
@@ -682,42 +718,6 @@
     "cara_ikut": null,
     "url": "https://blog.indodax.com/listing-pm/",
     "is_new": false
-  },
-  {
-    "id": "9ee71afeb4aedf56",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "Ask Me Anything Bersama ANOA: Hadiah 17,04 ANOA Menanti!",
-    "ditemukan": "2026-09-30T13:28:54.737321+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/ama-anoa/",
-    "is_new": false
-  },
-  {
-    "id": "25c63ab44791a125",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "Perubahan Alamat Deposit Kusama (KSM) dan Polkadot (DOT)",
-    "ditemukan": "2026-09-30T13:28:54.737533+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/perubahan-alamat-deposit-ksm-dot/",
-    "is_new": false
-  },
-  {
-    "id": "56ed6fccd0655b04",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "Buy & Hold ONL",
-    "ditemukan": "2026-10-02T06:32:10.929024+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/buy-hold-onl/",
-    "is_new": true
   },
   {
     "id": "8b2f3eb199fa8da7",
