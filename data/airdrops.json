@@ -33,7 +33,7 @@
     "reward": "NFT",
     "cara_ikut": "Cost : $ 0 Time : 4 min Fill The Form · Potential Oct 2, 2026 · Raise -",
     "url": "https://cryptorank.io/drophunting/fomies-activity1326",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "683d03484b691a89",
@@ -69,7 +69,7 @@
     "reward": "Whitelist",
     "cara_ikut": "Sign up to view data · Reward Available Jan 23, 2026 · Raise -",
     "url": "https://cryptorank.io/drophunting/pacifica-activity978",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "abb2cf36aed6c997",
@@ -240,6 +240,18 @@
     "is_new": false
   },
   {
+    "id": "0056618e09687232",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Titan Exchange",
+    "ditemukan": "2026-10-02T11:32:18.368692+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Join Waitlist, Claim Testnet Tokens, Trade",
+    "url": "https://airdrops.io/titan-exchange/",
+    "is_new": true
+  },
+  {
     "id": "4d4a498bfbb551d0",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -384,18 +396,6 @@
     "is_new": false
   },
   {
-    "id": "f98a03bbc3abe93b",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Worldie",
-    "ditemukan": "2026-10-01T09:32:13.474889+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Join Waitlist & Discord, Claim Link & Refer Users",
-    "url": "https://airdrops.io/worldie/",
-    "is_new": false
-  },
-  {
     "id": "0dc45de9d5495455",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -456,18 +456,6 @@
     "is_new": false
   },
   {
-    "id": "c77ae7da7161cf45",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Nowa",
-    "ditemukan": "2026-09-30T22:27:57.915241+08:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Complete Social Tasks, Trade, Stake & Refer to Earn",
-    "url": "https://airdrops.io/nowa/",
-    "is_new": false
-  },
-  {
     "id": "4b9077be2509a3c9",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -480,15 +468,15 @@
     "is_new": false
   },
   {
-    "id": "a44348b7b07cc955",
+    "id": "c77ae7da7161cf45",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
-    "judul": "Push Chain",
-    "ditemukan": "2026-10-01T09:32:13.475125+00:00",
+    "judul": "Nowa",
+    "ditemukan": "2026-09-30T22:27:57.915241+08:00",
     "deadline": null,
     "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Sign Up, Complete Social Tasks, Quests and Refer Users",
-    "url": "https://airdrops.io/push-chain/",
+    "cara_ikut": "Ongoing, Confirmed — Complete Social Tasks, Trade, Stake & Refer to Earn",
+    "url": "https://airdrops.io/nowa/",
     "is_new": false
   },
   {
@@ -501,6 +489,18 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Submit Details and Request Access to Private Beta",
     "url": "https://airdrops.io/osero/",
+    "is_new": false
+  },
+  {
+    "id": "a44348b7b07cc955",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Push Chain",
+    "ditemukan": "2026-10-01T09:32:13.475125+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Sign Up, Complete Social Tasks, Quests and Refer Users",
+    "url": "https://airdrops.io/push-chain/",
     "is_new": false
   },
   {
