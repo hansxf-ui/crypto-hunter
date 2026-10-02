@@ -480,6 +480,18 @@
     "is_new": false
   },
   {
+    "id": "35e6098c3428789f",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "LOYALTY PROMO MINGGU INI!",
+    "ditemukan": "2026-10-02T04:32:12.461837+00:00",
+    "deadline": "2026-02-10T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/loyalty-promo-1okt/",
+    "is_new": true
+  },
+  {
     "id": "6fe5800ce08b8ab5",
     "kategori": "listing",
     "exchange": "Indodax",
@@ -708,18 +720,6 @@
     "is_new": false
   },
   {
-    "id": "56ed6fccd0655b04",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "Buy & Hold ONL",
-    "ditemukan": "2026-09-30T13:28:54.737719+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/buy-hold-onl/",
-    "is_new": false
-  },
-  {
     "id": "8b2f3eb199fa8da7",
     "kategori": "listing",
     "exchange": "Indodax",
@@ -742,6 +742,18 @@
     "cara_ikut": null,
     "url": "https://blog.indodax.com/#m-iq",
     "is_new": false
+  },
+  {
+    "id": "40dca50b9509b7b0",
+    "kategori": "listing",
+    "exchange": "Tokocrypto",
+    "judul": "Tokocrypto Adds 6 New Tokenized Stocks: CrowdStrike, Moderna, Salesforce, Seagate, and More",
+    "ditemukan": "2026-10-02T04:32:13.346268+00:00",
+    "deadline": "2026-09-30T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://support.tokocrypto.com/hc/en-us/articles/49321588314765-Tokocrypto-Adds-6-New-Tokenized-Stocks-CrowdStrike-Moderna-Salesforce-Seagate-and-More",
+    "is_new": true
   },
   {
     "id": "f62c387c4ccd999e",
@@ -1029,18 +1041,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://support.tokocrypto.com/hc/en-us/articles/41190055197453-Tokocrypto-Lists-New-Crypto-Assets-ZBT-GIGGLE-TURTLE-and-F",
-    "is_new": false
-  },
-  {
-    "id": "d067c250d3d6781c",
-    "kategori": "listing",
-    "exchange": "Tokocrypto",
-    "judul": "Tokocrypto New Crypto Asset Listing: Mira, YieldBasis, Enso, Euler, Morpho, Walrus, and BFUSD!",
-    "ditemukan": "2026-10-01T04:32:12.224591+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://support.tokocrypto.com/hc/en-us/articles/40822970968973-Tokocrypto-New-Crypto-Asset-Listing-Mira-YieldBasis-Enso-Euler-Morpho-Walrus-and-BFUSD",
     "is_new": false
   },
   {
