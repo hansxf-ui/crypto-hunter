@@ -24,40 +24,76 @@
     "is_new": false
   },
   {
+    "id": "5855125ec28ead4d",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "fomo",
+    "ditemukan": "2026-10-02T15:32:18.932505+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "Cost : $ 30 Time : 25 min Fill The Form + 2 · Potential Oct 2, 2026 · Raise $ 94.00M + 46",
+    "url": "https://cryptorank.io/drophunting/fomo-trading-activity1228",
+    "is_new": true
+  },
+  {
+    "id": "3b7a637b1f7a9470",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Meridian (prev. Ethereal)",
+    "ditemukan": "2026-10-02T15:32:18.932609+00:00",
+    "deadline": null,
+    "reward": "Points",
+    "cara_ikut": "Cost : $ 70 Time : 33 min Predictions + 6 · Confirmed Oct 2, 2026 · Raise -",
+    "url": "https://cryptorank.io/drophunting/ethereal-dex-activity684",
+    "is_new": true
+  },
+  {
+    "id": "d74a7c81e50069e6",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Upd Quip Network QUIP",
+    "ditemukan": "2026-10-02T15:32:18.932706+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "Cost : $ 1 Time : 50 min Testnet, Social + 4 · Confirmed Oct 2, 2026 · Raise -",
+    "url": "https://cryptorank.io/drophunting/quip-network-activity1093",
+    "is_new": true
+  },
+  {
     "id": "0eb2369a36aec090",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
     "judul": "New Titan (Canton)",
     "ditemukan": "2026-10-02T14:32:21.053668+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "Cost : $ 0 Time : 16 min Fill The Form + 2 · Confirmed Oct 2, 2026 · Raise -",
+    "reward": "Whitelist",
+    "cara_ikut": "Sign up to view data · Snapshot Sep 27, 2026 · Raise -",
     "url": "https://cryptorank.io/drophunting/titan-canton-activity1330",
+    "is_new": false
+  },
+  {
+    "id": "979476ba385bcdc5",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "New Fomies",
+    "ditemukan": "2026-10-02T15:32:18.932862+00:00",
+    "deadline": null,
+    "reward": "Whitelist",
+    "cara_ikut": "Sign up to view data · Potential Aug 15, 2026 · Raise -",
+    "url": "https://cryptorank.io/drophunting/fomies-activity1326",
     "is_new": true
   },
   {
-    "id": "c2cc3794627fdce7",
+    "id": "c0793f6548c52c0b",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
-    "judul": "Upd Fomies",
-    "ditemukan": "2026-10-02T10:32:20.332461+00:00",
+    "judul": "GoDark",
+    "ditemukan": "2026-10-02T15:32:18.932936+00:00",
     "deadline": null,
-    "reward": "NFT",
-    "cara_ikut": "Cost : $ 0 Time : 4 min Fill The Form · Potential Oct 2, 2026 · Raise -",
-    "url": "https://cryptorank.io/drophunting/fomies-activity1326",
-    "is_new": false
-  },
-  {
-    "id": "683d03484b691a89",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Upd GoDark",
-    "ditemukan": "2026-10-02T01:32:13.933473+00:00",
-    "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "Cost : $ 0 Time : 1 min Fill The Form · Potential Oct 1, 2026 · Raise -",
+    "reward": "Whitelist",
+    "cara_ikut": "Sign up to view data · Verification May 7, 2026 · Raise -",
     "url": "https://cryptorank.io/drophunting/godark-activity1127",
-    "is_new": false
+    "is_new": true
   },
   {
     "id": "7a0459db88cdf90e",
@@ -117,18 +153,6 @@
     "reward": "Whitelist",
     "cara_ikut": "Sign up to view data · Verification Mar 31, 2026 · Raise -",
     "url": "https://cryptorank.io/drophunting/polyester-activity1329",
-    "is_new": false
-  },
-  {
-    "id": "b65ddec9da390b0d",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Quip Network QUIP",
-    "ditemukan": "2026-10-02T01:32:13.934011+00:00",
-    "deadline": null,
-    "reward": "Whitelist",
-    "cara_ikut": "Sign up to view data · Snapshot Apr 12, 2026 · Raise -",
-    "url": "https://cryptorank.io/drophunting/quip-network-activity1093",
     "is_new": false
   },
   {
@@ -213,30 +237,6 @@
     "reward": "Whitelist",
     "cara_ikut": "Sign up to view data · Confirmed Dec 29, 2025 · Raise -",
     "url": "https://cryptorank.io/drophunting/voice-activity1288",
-    "is_new": false
-  },
-  {
-    "id": "7f1a4a3c20c93a4f",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "InventMoney",
-    "ditemukan": "2026-10-02T01:32:13.934827+00:00",
-    "deadline": null,
-    "reward": "Whitelist",
-    "cara_ikut": "Sign up to view data · Distributed Feb 17, 2026 · Raise $ 4.00M + 7",
-    "url": "https://cryptorank.io/drophunting/the-invention-network-activity1110",
-    "is_new": false
-  },
-  {
-    "id": "3f9ba3a5d8b032c7",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "DualMint",
-    "ditemukan": "2026-10-02T01:32:13.934900+00:00",
-    "deadline": null,
-    "reward": "Whitelist",
-    "cara_ikut": "Sign up to view data · Distributed Mar 10, 2026 · Raise -",
-    "url": "https://cryptorank.io/drophunting/dualmint-activity1286",
     "is_new": false
   },
   {
