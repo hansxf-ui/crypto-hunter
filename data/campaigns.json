@@ -12,6 +12,18 @@
     "is_new": false
   },
   {
+    "id": "e7b027ae58cb893b",
+    "kategori": "campaign",
+    "exchange": "Pintu Promo",
+    "judul": "Trading Pertama di Pintu, Dapatkan Bonus Pax Gold (PAXG) dan Saham US Hingga Rp70.000!",
+    "ditemukan": "2026-10-02T08:32:28.507780+00:00",
+    "deadline": null,
+    "reward": "Rp70.000",
+    "cara_ikut": "Periode Promo 1 - 31 Oktober 2026WELCOME BONUS! Trading pertama di Pintu, berkesempatan dapat bonus Emas (PAXG) & US Stocks hingga...",
+    "url": "https://blog.pintu.co.id/id/posts/first-trade-bonus-emas-xstocks-october-2026",
+    "is_new": true
+  },
+  {
     "id": "8a5dbf1d798efb53",
     "kategori": "campaign",
     "exchange": "Pintu Promo",
@@ -225,18 +237,6 @@
     "reward": "Rp5 Juta",
     "cara_ikut": "Hi, Teman Pintu Ikuti giveaway Pintu Futures Lite dan menangkan total hadiah senilai Rp5juta! Cek mekanisme dan syarat ketentuan lengkapnya di...",
     "url": "https://blog.pintu.co.id/id/posts/giveaway-simplified-perps-juli-2026",
-    "is_new": false
-  },
-  {
-    "id": "aa4b60e577c649a6",
-    "kategori": "campaign",
-    "exchange": "Pintu Promo",
-    "judul": "Ikuti Daily Giveaway, Menangkan Total Hadiah Senilai Rp2,5 Juta!",
-    "ditemukan": "2026-09-30T22:44:45.001887+08:00",
-    "deadline": null,
-    "reward": "Rp2,5 Juta",
-    "cara_ikut": "Hi Teman Pintu, Yuk ikuti Daily Giveaway dari Pintu yang berlangsung mulai 13 - 17 Juli 2026. Mekanisme dan syarat dan...",
-    "url": "https://blog.pintu.co.id/id/posts/daily-giveaway-juli-2026",
     "is_new": false
   }
 ]
