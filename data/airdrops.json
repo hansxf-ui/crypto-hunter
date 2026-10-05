@@ -228,18 +228,6 @@
     "is_new": false
   },
   {
-    "id": "c77ae7da7161cf45",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Nowa",
-    "ditemukan": "2026-09-30T22:27:57.915241+08:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Complete Social Tasks, Trade, Stake & Refer to Earn",
-    "url": "https://airdrops.io/nowa/",
-    "is_new": false
-  },
-  {
     "id": "1bc9888b3de59ec9",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -249,6 +237,18 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Submit Details and Request Access to Private Beta",
     "url": "https://airdrops.io/osero/",
+    "is_new": false
+  },
+  {
+    "id": "c77ae7da7161cf45",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Nowa",
+    "ditemukan": "2026-09-30T22:27:57.915241+08:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Complete Social Tasks, Trade, Stake & Refer to Earn",
+    "url": "https://airdrops.io/nowa/",
     "is_new": false
   },
   {
@@ -286,5 +286,17 @@
     "cara_ikut": "Ongoing, Confirmed — Complete Tasks, Stack XP, and Compete for SWEEP Rewards",
     "url": "https://airdrops.io/sweep-finance/",
     "is_new": false
+  },
+  {
+    "id": "a114f8a45b46a735",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "TBook",
+    "ditemukan": "2026-10-05T06:32:23.179471+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Mint WISE Score, Complete Campaigns & Deposit to Earn",
+    "url": "https://airdrops.io/tbook/",
+    "is_new": true
   }
 ]
