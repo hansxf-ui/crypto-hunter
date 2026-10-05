@@ -45,7 +45,7 @@
     "reward": null,
     "cara_ikut": "Ongoing — Join Waitlist, Complete Social Tasks, Refer Users",
     "url": "https://airdrops.io/rwaperp/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "23f4dc5655a278b7",
@@ -228,18 +228,6 @@
     "is_new": false
   },
   {
-    "id": "1bc9888b3de59ec9",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Osero",
-    "ditemukan": "2026-09-30T22:27:57.915281+08:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Submit Details and Request Access to Private Beta",
-    "url": "https://airdrops.io/osero/",
-    "is_new": false
-  },
-  {
     "id": "c77ae7da7161cf45",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -249,6 +237,18 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Complete Social Tasks, Trade, Stake & Refer to Earn",
     "url": "https://airdrops.io/nowa/",
+    "is_new": false
+  },
+  {
+    "id": "1bc9888b3de59ec9",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Osero",
+    "ditemukan": "2026-09-30T22:27:57.915281+08:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Submit Details and Request Access to Private Beta",
+    "url": "https://airdrops.io/osero/",
     "is_new": false
   },
   {
