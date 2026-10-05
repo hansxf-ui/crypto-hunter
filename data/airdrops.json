@@ -36,6 +36,18 @@
     "is_new": false
   },
   {
+    "id": "88b163b8293a5857",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "RWAPerp",
+    "ditemukan": "2026-10-05T13:32:21.819396+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Join Waitlist, Complete Social Tasks, Refer Users",
+    "url": "https://airdrops.io/rwaperp/",
+    "is_new": true
+  },
+  {
     "id": "23f4dc5655a278b7",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -141,18 +153,6 @@
     "reward": null,
     "cara_ikut": "Ongoing — Connect Wallet, Deposit & Provide Liquidity",
     "url": "https://airdrops.io/fables/",
-    "is_new": false
-  },
-  {
-    "id": "9d00799d47eb3312",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Wick",
-    "ditemukan": "2026-09-30T22:27:57.915056+08:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Join Waitlist, Claim Referral Link, Invite Users",
-    "url": "https://airdrops.io/wick/",
     "is_new": false
   },
   {
@@ -297,6 +297,6 @@
     "reward": null,
     "cara_ikut": "Ongoing — Create Wallet, Complete Check-In, Finish Social Tasks",
     "url": "https://airdrops.io/amadeus-protocol/",
-    "is_new": true
+    "is_new": false
   }
 ]
