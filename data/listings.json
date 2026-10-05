@@ -1,245 +1,5 @@
 [
   {
-    "id": "3d4c941d56582638",
-    "kategori": "listing",
-    "exchange": "Binance",
-    "judul": "Binance Futures Will Launch USDⓈ-Margined CTUSDT Perpetual Contract (2026-10-01)",
-    "ditemukan": "2026-10-01T06:32:08.465050+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://www.binance.com/en/support/announcement/6bd26adeb6f742fe88eb72faca183566",
-    "is_new": false
-  },
-  {
-    "id": "69b2412c321b4e5a",
-    "kategori": "listing",
-    "exchange": "Binance",
-    "judul": "Binance Will Add 7 bStocks Tokenized Securities as Collateral Asset - 2026-09-30",
-    "ditemukan": "2026-09-30T13:28:52.946458+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://www.binance.com/en/support/announcement/1a94597986cf476f939609c02b87ee79",
-    "is_new": false
-  },
-  {
-    "id": "27febcdf2d0bc339",
-    "kategori": "listing",
-    "exchange": "Binance",
-    "judul": "Binance Exchange Adds Adobe (ADBEB), Forward Industries (FWDIB), Hewlett Packard (HPEB), PDD Holdings (PDDB), SharonAI (SHAZB), Wendy's (WENB) and Zoom (ZMB) bStocks Trading Pairs on Binance Spot/Convert - 2026-09-30",
-    "ditemukan": "2026-09-30T13:28:52.946519+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://www.binance.com/en/support/announcement/172e44302d6143578e40acc48570a2e5",
-    "is_new": false
-  },
-  {
-    "id": "1488d154a65a938c",
-    "kategori": "listing",
-    "exchange": "Binance",
-    "judul": "Binance Futures Will Launch Multiple TradFi USDⓈ-Margined Perpetual Contracts (2026-09-29)",
-    "ditemukan": "2026-09-30T13:28:52.946542+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://www.binance.com/en/support/announcement/0c6ea14ba89b451db6ec9ec364045d22",
-    "is_new": false
-  },
-  {
-    "id": "159965beacea5c8e",
-    "kategori": "listing",
-    "exchange": "Binance",
-    "judul": "Binance Adds 5 Stocks on Binance Stock Trading - 2026-09-28",
-    "ditemukan": "2026-09-30T13:28:52.946553+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://www.binance.com/en/support/announcement/d3a2cc0c1b5f42a2aee9a8bda2bd8e94",
-    "is_new": false
-  },
-  {
-    "id": "68d5e22ac6d9dbea",
-    "kategori": "listing",
-    "exchange": "Binance",
-    "judul": "Binance Futures Will Launch Multiple TradFi USDⓈ-Margined Perpetual Contracts (2026-09-28)",
-    "ditemukan": "2026-09-30T13:28:52.946564+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://www.binance.com/en/support/announcement/d4c5a66cdce246cc952d13bab215b688",
-    "is_new": false
-  },
-  {
-    "id": "c39151944b018d53",
-    "kategori": "listing",
-    "exchange": "Binance",
-    "judul": "Binance Will Add Hyperliquid (HYPE) on Earn, Buy Crypto, Convert, VIP Loan & Margin",
-    "ditemukan": "2026-09-30T13:28:52.946574+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://www.binance.com/en/support/announcement/1718842b00ee41479c763ef27b6312f0",
-    "is_new": false
-  },
-  {
-    "id": "5d40d7546e0c1132",
-    "kategori": "listing",
-    "exchange": "Binance",
-    "judul": "Binance Will List Hyperliquid (HYPE) with Seed Tag Applied",
-    "ditemukan": "2026-09-30T13:28:52.946582+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://www.binance.com/en/support/announcement/d49de208bb6d4a26b02677d7c3d89b5d",
-    "is_new": false
-  },
-  {
-    "id": "26162d7997ab87d6",
-    "kategori": "listing",
-    "exchange": "Binance",
-    "judul": "Binance Futures Will Launch OURAUSDT USDⓈ-Margined Perpetual Contract Pre-IPO Trading (2026-09-23)",
-    "ditemukan": "2026-09-30T13:28:52.946592+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://www.binance.com/en/support/announcement/8bd2b3a7684749bba472e71fc3ad8043",
-    "is_new": false
-  },
-  {
-    "id": "e6f56de18c035b52",
-    "kategori": "listing",
-    "exchange": "Binance",
-    "judul": "Binance Will Add 3 bStocks Tokenized Securities as Collateral Asset - 2026-09-23",
-    "ditemukan": "2026-09-30T13:28:52.946600+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://www.binance.com/en/support/announcement/c61f3c18a3004f968b53fb09841f7bc7",
-    "is_new": false
-  },
-  {
-    "id": "bb8d8917605f2b5e",
-    "kategori": "listing",
-    "exchange": "Binance",
-    "judul": "Binance Exchange Adds Axe Compute (AGPUB), AMC Entertainment (AMCB) and Cypherpunk Technologies (CYPHB) bStocks Trading Pairs on Binance Spot/Convert - 2026-09-23",
-    "ditemukan": "2026-09-30T13:28:52.946609+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://www.binance.com/en/support/announcement/3cc589ca05904ca28e6ddebeb14148db",
-    "is_new": false
-  },
-  {
-    "id": "4f2792b0fd7fa5e2",
-    "kategori": "listing",
-    "exchange": "Binance",
-    "judul": "Binance Margin Will Add New Pairs - 2026-09-23",
-    "ditemukan": "2026-09-30T13:28:52.946617+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://www.binance.com/en/support/announcement/4f6c7be7767b4e29bb837dea4650ac7a",
-    "is_new": false
-  },
-  {
-    "id": "181d9c447ae5677b",
-    "kategori": "listing",
-    "exchange": "Binance",
-    "judul": "Binance Futures Will Launch MOONSHOTUSDT USDⓈ-Margined Perpetual Contract Pre-IPO Trading (2026-09-22)",
-    "ditemukan": "2026-09-30T13:28:52.946629+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://www.binance.com/en/support/announcement/7379b99aa0f349a49c3b3feca1b4bbd6",
-    "is_new": false
-  },
-  {
-    "id": "3885737c118dd7f0",
-    "kategori": "listing",
-    "exchange": "Binance",
-    "judul": "Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-09-22",
-    "ditemukan": "2026-09-30T13:28:52.946637+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://www.binance.com/en/support/announcement/e92a42b474e344a69b620dcee1e9c987",
-    "is_new": false
-  },
-  {
-    "id": "d27440342fef4812",
-    "kategori": "listing",
-    "exchange": "Binance",
-    "judul": "Binance Adds 25 Stocks on Binance Stock Trading - 2026-09-21",
-    "ditemukan": "2026-09-30T13:28:52.946645+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://www.binance.com/en/support/announcement/a0adb246c4a24f108fd0d1f51dfd3d1d",
-    "is_new": false
-  },
-  {
-    "id": "5940ef3960a536ba",
-    "kategori": "listing",
-    "exchange": "Binance",
-    "judul": "Binance Futures Will Launch USDBRLUSDT USDⓈ-Margined TradFi Perpetual Contract (2026-09-21)",
-    "ditemukan": "2026-09-30T13:28:52.946654+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://www.binance.com/en/support/announcement/533eb2f3998a43e3a34df310998bee48",
-    "is_new": false
-  },
-  {
-    "id": "8050321cb4ab4bba",
-    "kategori": "listing",
-    "exchange": "Binance",
-    "judul": "Binance Futures Will List USDⓈ-M & COIN-M Quarterly 0326 Delivery Contracts",
-    "ditemukan": "2026-09-30T13:28:52.946664+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://www.binance.com/en/support/announcement/fcd1b50824c04192b80091599c452ee8",
-    "is_new": false
-  },
-  {
-    "id": "a97ab5887a99fdc0",
-    "kategori": "listing",
-    "exchange": "Binance",
-    "judul": "Binance Futures Will Launch Multiple USDⓈ-Margined Perpetual Contracts (2026-09-18)",
-    "ditemukan": "2026-09-30T13:28:52.946673+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://www.binance.com/en/support/announcement/3c2b63c9c3e44d40b8cec99961166fe8",
-    "is_new": false
-  },
-  {
-    "id": "b8e490e60b4c7520",
-    "kategori": "listing",
-    "exchange": "Binance",
-    "judul": "Binance Will Support the Broadcom (AVGO), Invesco QQQ Trust (QQQ), Meta (META), and Seagate (STX) Cash Dividend Distribution via bStocks",
-    "ditemukan": "2026-09-30T13:28:52.946683+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://www.binance.com/en/support/announcement/7df43402f0094e79b293bd7fbb574474",
-    "is_new": false
-  },
-  {
-    "id": "97fe76a948c7afb5",
-    "kategori": "listing",
-    "exchange": "Binance",
-    "judul": "Binance Will Add 2 bStocks Tokenized Securities as Collateral Asset - 2026-09-16",
-    "ditemukan": "2026-09-30T13:28:52.946692+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://www.binance.com/en/support/announcement/a5bf03abedaa4430b1fd04aa760e491b",
-    "is_new": false
-  },
-  {
     "id": "5e8dbce923f840f1",
     "kategori": "listing",
     "exchange": "OKX",
@@ -753,7 +513,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://support.tokocrypto.com/hc/en-us/articles/49321588314765-Tokocrypto-Adds-6-New-Tokenized-Stocks-CrowdStrike-Moderna-Salesforce-Seagate-and-More",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "f62c387c4ccd999e",
@@ -765,7 +525,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://support.tokocrypto.com/hc/en-us/articles/49245623487885-3-New-Tokens-Coming-to-Tokocrypto-on-September-30-2026-KMNO-NIL-and-OPG",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "a512b194e5a8a00b",
@@ -777,7 +537,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://support.tokocrypto.com/hc/en-us/articles/49011595995661-Tokocrypto-Adds-28-New-Tokenized-Stocks-Including-Apple-Amazon-Netflix-and-TSMC",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ffe531e4e672c389",
@@ -789,7 +549,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://support.tokocrypto.com/hc/en-us/articles/48664912777357-Tokocrypto-Expands-Tokenized-Stocks-Offering-with-22-New-Assets-Including-Meta-Microsoft-Alphabet-and-S-P-500-ETF",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "10a320794773f6c4",
@@ -801,7 +561,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://support.tokocrypto.com/hc/en-us/articles/47552210929421-New-Listing-Alert-Aerodrome-AERO-is-Now-Available-on-Tokocrypto",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "24fa2452fd696f3e",
@@ -813,7 +573,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://support.tokocrypto.com/hc/en-us/articles/47246175173133-Tokocrypto-Adds-New-Tokenized-Stocks-Strategy-Intel-AMD-and-iShares-MSCI-South-Korea-ETF",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "fc25327013070205",
@@ -825,7 +585,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://support.tokocrypto.com/hc/en-us/articles/47089724882701-New-Crypto-Asset-Listing-Re-Protocol-RE-Now-Available-on-Tokocrypto",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "85692ef7c7304bcc",
@@ -837,7 +597,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://support.tokocrypto.com/hc/en-us/articles/46850540988813-New-Listing-Tokocrypto-Introduces-Tokenized-Stocks",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "1642a329a7ac4768",
@@ -849,7 +609,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://support.tokocrypto.com/hc/en-us/articles/46832504226445-New-Listing-Tokocrypto-Adds-Gensyn-AI-USD-AI-CHIP-Genius-Terminal-GENIUS-and-Steem-STEEM",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "39f8375dfda68b93",
@@ -861,7 +621,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://support.tokocrypto.com/hc/en-us/articles/45425010296845-New-Listing-Sophon-SOPH-is-Now-Available-on-Tokocrypto",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "f31cf99efb68a1c9",
@@ -873,7 +633,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://support.tokocrypto.com/hc/en-us/articles/44886183465485-Tokocrypto-to-Support-Dai-DAI-Token-Swap-and-Rebranding-to-USDS-USDS",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "fb57991fd9ccd720",
@@ -885,7 +645,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://support.tokocrypto.com/hc/en-us/articles/44690145258253-New-Listing-Alert-Tether-Gold-XAU-is-Now-Available-on-Tokocrypto",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "bee3f080cd0483e9",
@@ -897,7 +657,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://support.tokocrypto.com/hc/en-us/articles/44351672552333-New-Asset-Listing-Katana-Network-KAT",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "e6cd366c3c910ec7",
@@ -909,7 +669,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://support.tokocrypto.com/hc/en-us/articles/44351634559629-New-Asset-Listing-Espresso-ESP-Fabric-Protocol-ROBO-and-Centrifuge-CFG",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "8676bc72aee17ff2",
@@ -921,7 +681,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://support.tokocrypto.com/hc/en-us/articles/44313872423309-New-Listing-Midnight-NIGHT-Now-Available-on-Tokocrypto",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "2b0fb1b44aee6c47",
@@ -933,7 +693,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://support.tokocrypto.com/hc/en-us/articles/44154324412557-Tokocrypto-Introduces-New-Trading-Pair-U-IDR",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "6a0d1d9e0bc21801",
@@ -945,7 +705,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://support.tokocrypto.com/hc/en-us/articles/43605393633293-Tokocrypto-Supports-MANTRA-OM-Token-Swap-Redenomination-and-Rebranding-to-MANTRA-MANTRA",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "828dbcd49444fe5d",
@@ -957,7 +717,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://support.tokocrypto.com/hc/en-us/articles/43494390935181-New-Listing-Ripple-USD-RLUSD-and-Zama-ZAMA-are-Now-Available-on-Tokocrypto",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "b50f7d1fd2b313bf",
@@ -969,7 +729,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://support.tokocrypto.com/hc/en-us/articles/43298386280333-New-Listing-Announcement-Sentient-SENT-is-Now-Available-on-Tokocrypto",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "e074aa83c5d025e5",
@@ -981,7 +741,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://support.tokocrypto.com/hc/en-us/articles/42876430925197-New-Listing-Alert-Tokocrypto-Welcomes-FOGO-U-%E5%B8%81%E5%AE%89%E4%BA%BA%E7%94%9F-BREV-and-ZKP",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "02f3fd1dc924305f",
@@ -993,7 +753,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://support.tokocrypto.com/hc/en-us/articles/42156552639245-New-Listing-APRO-AT-is-Now-Available-on-Tokocrypto",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "183566469bd55866",
@@ -1005,7 +765,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://support.tokocrypto.com/hc/en-us/articles/41676542660749-New-Listing-DRX-Token-DRX-is-Now-Available-on-Tokocrypto",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "3d561a8e8b307c23",
@@ -1017,7 +777,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://support.tokocrypto.com/hc/en-us/articles/41579696149261-Tokocrypto-Lists-New-Crypto-Asset-Kite-KITE",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "5462620ad5de32c2",
@@ -1029,7 +789,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://support.tokocrypto.com/hc/en-us/articles/41402494368013-Tokocrypto-Lists-Lorenzo-Protocol-BANK-and-Meteora-MET",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "707bdc1a8a34e37d",
@@ -1041,7 +801,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://support.tokocrypto.com/hc/en-us/articles/41190055197453-Tokocrypto-Lists-New-Crypto-Assets-ZBT-GIGGLE-TURTLE-and-F",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "22653eb698728510",
