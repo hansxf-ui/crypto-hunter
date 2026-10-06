@@ -180,18 +180,6 @@
     "is_new": false
   },
   {
-    "id": "a87b929d3d009c14",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "VOICE",
-    "ditemukan": "2026-09-30T22:27:57.915176+08:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Sign Up, Complete Core Tasks and Mint VOICY Pass",
-    "url": "https://airdrops.io/voice/",
-    "is_new": false
-  },
-  {
     "id": "04ac38bfdf619417",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -201,6 +189,18 @@
     "reward": null,
     "cara_ikut": "Ongoing — Create Account, Play Across the Casino, Sportsbook, Refer Users",
     "url": "https://airdrops.io/reels/",
+    "is_new": false
+  },
+  {
+    "id": "a87b929d3d009c14",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "VOICE",
+    "ditemukan": "2026-09-30T22:27:57.915176+08:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Sign Up, Complete Core Tasks and Mint VOICY Pass",
+    "url": "https://airdrops.io/voice/",
     "is_new": false
   },
   {
