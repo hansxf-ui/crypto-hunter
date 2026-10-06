@@ -1,5 +1,17 @@
 [
   {
+    "id": "3de0139fa162552d",
+    "kategori": "listing",
+    "exchange": "Binance",
+    "judul": "Binance Futures Will Launch Multiple TradFi USDⓈ-Margined Perpetual Contracts (2026-10-06)",
+    "ditemukan": "2026-10-06T06:32:13.768585+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://www.binance.com/en/support/announcement/ea19450f515843098a5d5e55fc6e3589",
+    "is_new": true
+  },
+  {
     "id": "3d4c941d56582638",
     "kategori": "listing",
     "exchange": "Binance",
@@ -225,18 +237,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://www.binance.com/en/support/announcement/7df43402f0094e79b293bd7fbb574474",
-    "is_new": false
-  },
-  {
-    "id": "97fe76a948c7afb5",
-    "kategori": "listing",
-    "exchange": "Binance",
-    "judul": "Binance Will Add 2 bStocks Tokenized Securities as Collateral Asset - 2026-09-16",
-    "ditemukan": "2026-10-06T00:34:05.471172+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://www.binance.com/en/support/announcement/a5bf03abedaa4430b1fd04aa760e491b",
     "is_new": false
   },
   {
@@ -489,7 +489,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://blog.indodax.com/relisting-sfi/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "00be07911aec46ec",
@@ -744,12 +744,24 @@
     "is_new": false
   },
   {
+    "id": "d4a63a3e87e3071e",
+    "kategori": "listing",
+    "exchange": "Pintu",
+    "judul": "Market Signal Telah Hadir di Pintu, Cek di Halaman Jelajah Sekarang",
+    "ditemukan": "2026-10-06T06:32:16.839916+00:00",
+    "deadline": "2026-10-06T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://pintu.co.id/blog/fitur-baru-market-signal-pintu-2026",
+    "is_new": true
+  },
+  {
     "id": "22653eb698728510",
     "kategori": "listing",
     "exchange": "Pintu",
     "judul": "Biaya CFX untuk Transaksi Spot di Pintu Turun 50% Mulai 1 Oktober 2026",
     "ditemukan": "2026-10-01T06:32:13.207163+00:00",
-    "deadline": "2026-10-01T00:00:00",
+    "deadline": "2026-10-06T00:00:00",
     "reward": null,
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/pengumuman-update-biaya-cfx-turun-2026",
@@ -849,18 +861,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/pintu-listing-6-token-baru-3september2026",
-    "is_new": false
-  },
-  {
-    "id": "6b58fdad41c5cda0",
-    "kategori": "listing",
-    "exchange": "Pintu",
-    "judul": "Maintenance Deposit BI-Fast ke VA Bank Nobu",
-    "ditemukan": "2026-09-30T13:28:56.251626+00:00",
-    "deadline": "2026-09-03T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://pintu.co.id/blog/maintenance-deposit-bi-fast-ke-va-bank-nobu",
     "is_new": false
   }
 ]
