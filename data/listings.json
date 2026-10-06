@@ -480,6 +480,18 @@
     "is_new": false
   },
   {
+    "id": "d34b874599b171fc",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Relisting Saffron.Finance (SFI)",
+    "ditemukan": "2026-10-06T05:32:16.256900+00:00",
+    "deadline": "2026-06-10T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/relisting-sfi/",
+    "is_new": true
+  },
+  {
     "id": "00be07911aec46ec",
     "kategori": "listing",
     "exchange": "Indodax",
@@ -705,18 +717,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://blog.indodax.com/migrasi-jaringan-lisk-lsk/",
-    "is_new": false
-  },
-  {
-    "id": "5970456448e7c4b7",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "Update Terkait Migrasi Jaringan Aset Kripto CoW Protocol (COW) BASE ke ERC20",
-    "ditemukan": "2026-09-30T13:28:54.736917+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/update-migrasi-jaringan-aset-cow/",
     "is_new": false
   },
   {
