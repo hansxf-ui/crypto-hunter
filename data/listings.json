@@ -744,18 +744,6 @@
     "is_new": false
   },
   {
-    "id": "fd8c799de87e6934",
-    "kategori": "listing",
-    "exchange": "Pintu",
-    "judul": "Pengumuman: Pembaruan Alamat Kontrak USDT Jaringan Optimism di Pintu",
-    "ditemukan": "2026-10-07T14:32:47.471189+00:00",
-    "deadline": "2026-10-06T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://pintu.co.id/blog/pembaruan-alamat-kontrak-usdt-jaringan-optimism-di-pintu",
-    "is_new": false
-  },
-  {
     "id": "d4a63a3e87e3071e",
     "kategori": "listing",
     "exchange": "Pintu",
@@ -861,6 +849,18 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/cara-membuat-investasi-rutin-auto-invest",
+    "is_new": false
+  },
+  {
+    "id": "3f13909398b4b7be",
+    "kategori": "listing",
+    "exchange": "Pintu",
+    "judul": "Pintu Listing 6 Token Baru, 3 September 2026",
+    "ditemukan": "2026-10-07T19:32:27.212329+00:00",
+    "deadline": "2026-09-14T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://pintu.co.id/blog/pintu-listing-6-token-baru-3september2026",
     "is_new": true
   }
 ]
