@@ -264,18 +264,6 @@
     "is_new": false
   },
   {
-    "id": "896f6dd235a6c5b8",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "BULK",
-    "ditemukan": "2026-09-30T22:27:57.915298+08:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Sign up & Deposit USDC",
-    "url": "https://airdrops.io/bulk/",
-    "is_new": false
-  },
-  {
     "id": "979c19549ae72d9a",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -285,6 +273,18 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Complete Tasks, Stack XP, and Compete for SWEEP Rewards",
     "url": "https://airdrops.io/sweep-finance/",
+    "is_new": false
+  },
+  {
+    "id": "896f6dd235a6c5b8",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "BULK",
+    "ditemukan": "2026-09-30T22:27:57.915298+08:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Sign up & Deposit USDC",
+    "url": "https://airdrops.io/bulk/",
     "is_new": false
   },
   {
