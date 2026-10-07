@@ -165,7 +165,7 @@
     "reward": null,
     "cara_ikut": "Ongoing — Sign Up, Trade & Collect Points",
     "url": "https://airdrops.io/arcus/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "f1a1a8661356f909",
@@ -177,7 +177,7 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Trade on Kraken Pro & Interact with Dapps",
     "url": "https://airdrops.io/ink-chain/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "0dc45de9d5495455",
@@ -249,7 +249,7 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Trade perps & refer friends",
     "url": "https://airdrops.io/variational/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "e72ae2bede5cf67c",
@@ -261,7 +261,7 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Deposit, Trade & refer friends to Earn Points",
     "url": "https://airdrops.io/extended/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "c81206f123544836",
@@ -273,7 +273,7 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Deposit & Trade perps",
     "url": "https://airdrops.io/nado/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "9a70d441452dea92",
@@ -285,7 +285,7 @@
     "reward": null,
     "cara_ikut": "Ongoing — Make Swaps to Collect XPs",
     "url": "https://airdrops.io/jumper-exchange/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ca7369ad81f2461d",
@@ -297,6 +297,6 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Claim free Loot, Play the game",
     "url": "https://airdrops.io/cambria/",
-    "is_new": true
+    "is_new": false
   }
 ]
