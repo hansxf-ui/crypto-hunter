@@ -9,7 +9,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://www.binance.com/en/support/announcement/a1a7996170f246da90ea49f199a61bcd",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "0a8f74f8710a0de2",
@@ -480,6 +480,18 @@
     "is_new": false
   },
   {
+    "id": "67c6f70f8d548018",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Live Trading Strategies Mingguan INDODAX Setiap Kamis!",
+    "ditemukan": "2026-10-07T05:32:18.613058+00:00",
+    "deadline": "2026-07-10T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/trading-strategies-mingguan-setiap-kamis/",
+    "is_new": true
+  },
+  {
     "id": "d34b874599b171fc",
     "kategori": "listing",
     "exchange": "Indodax",
@@ -708,18 +720,6 @@
     "is_new": false
   },
   {
-    "id": "4888335a731d24e2",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "Migrasi Jaringan Lisk (LSK) Mainnet ke ERC20",
-    "ditemukan": "2026-10-07T04:32:28.594462+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/migrasi-jaringan-lisk-lsk/",
-    "is_new": true
-  },
-  {
     "id": "8b2f3eb199fa8da7",
     "kategori": "listing",
     "exchange": "Indodax",
@@ -744,12 +744,48 @@
     "is_new": false
   },
   {
+    "id": "d192ed6027394c17",
+    "kategori": "listing",
+    "exchange": "Pintu",
+    "judul": "Pengumuman: Perubahan Metode Deposit melalui BRI",
+    "ditemukan": "2026-10-07T05:32:19.775645+00:00",
+    "deadline": "2026-10-06T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://pintu.co.id/blog/perubahan-metode-deposit-melalui-bri",
+    "is_new": true
+  },
+  {
+    "id": "fd8c799de87e6934",
+    "kategori": "listing",
+    "exchange": "Pintu",
+    "judul": "Pengumuman: Pembaruan Alamat Kontrak USDT Jaringan Optimism di Pintu",
+    "ditemukan": "2026-10-07T05:32:19.775978+00:00",
+    "deadline": "2026-10-06T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://pintu.co.id/blog/pembaruan-alamat-kontrak-usdt-jaringan-optimism-di-pintu",
+    "is_new": true
+  },
+  {
+    "id": "d4a63a3e87e3071e",
+    "kategori": "listing",
+    "exchange": "Pintu",
+    "judul": "Market Signal Telah Hadir di Pintu, Cek di Halaman Jelajah Sekarang",
+    "ditemukan": "2026-10-07T05:32:19.776127+00:00",
+    "deadline": "2026-10-06T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://pintu.co.id/blog/fitur-baru-market-signal-pintu-2026",
+    "is_new": true
+  },
+  {
     "id": "22653eb698728510",
     "kategori": "listing",
     "exchange": "Pintu",
     "judul": "Biaya CFX untuk Transaksi Spot di Pintu Turun 50% Mulai 1 Oktober 2026",
     "ditemukan": "2026-10-01T06:32:13.207163+00:00",
-    "deadline": "2026-10-01T00:00:00",
+    "deadline": "2026-10-06T00:00:00",
     "reward": null,
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/pengumuman-update-biaya-cfx-turun-2026",
@@ -825,42 +861,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/pembaruan-data-pengguna-2026-pelaksanaan-bertahap",
-    "is_new": false
-  },
-  {
-    "id": "c6dc84c7299325a4",
-    "kategori": "listing",
-    "exchange": "Pintu",
-    "judul": "Cara Membuat Investasi Rutin (Auto Invest) di Pintu",
-    "ditemukan": "2026-09-30T13:28:56.251406+00:00",
-    "deadline": "2026-09-16T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://pintu.co.id/blog/cara-membuat-investasi-rutin-auto-invest",
-    "is_new": false
-  },
-  {
-    "id": "3f13909398b4b7be",
-    "kategori": "listing",
-    "exchange": "Pintu",
-    "judul": "Pintu Listing 6 Token Baru, 3 September 2026",
-    "ditemukan": "2026-09-30T13:28:56.251521+00:00",
-    "deadline": "2026-09-14T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://pintu.co.id/blog/pintu-listing-6-token-baru-3september2026",
-    "is_new": false
-  },
-  {
-    "id": "6b58fdad41c5cda0",
-    "kategori": "listing",
-    "exchange": "Pintu",
-    "judul": "Maintenance Deposit BI-Fast ke VA Bank Nobu",
-    "ditemukan": "2026-10-07T02:32:52.294948+00:00",
-    "deadline": "2026-09-03T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://pintu.co.id/blog/maintenance-deposit-bi-fast-ke-va-bank-nobu",
     "is_new": false
   }
 ]
