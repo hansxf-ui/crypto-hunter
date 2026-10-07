@@ -1,5 +1,17 @@
 [
   {
+    "id": "0a8f74f8710a0de2",
+    "kategori": "listing",
+    "exchange": "Binance",
+    "judul": "Binance Exchange Adds JPMorgan Chase (JPMB), Eli Lilly (LLYB), Securitize Corp (SECZB) and StablecoinX Inc (USDEB) bStocks Trading Pairs on Binance Spot/Convert - 2026-10-07",
+    "ditemukan": "2026-10-07T03:32:13.738985+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://www.binance.com/en/support/announcement/9c34999b27234dfe9c43d2ac33cebde4",
+    "is_new": true
+  },
+  {
     "id": "3de0139fa162552d",
     "kategori": "listing",
     "exchange": "Binance",
@@ -225,18 +237,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://www.binance.com/en/support/announcement/3c2b63c9c3e44d40b8cec99961166fe8",
-    "is_new": false
-  },
-  {
-    "id": "b8e490e60b4c7520",
-    "kategori": "listing",
-    "exchange": "Binance",
-    "judul": "Binance Will Support the Broadcom (AVGO), Invesco QQQ Trust (QQQ), Meta (META), and Seagate (STX) Cash Dividend Distribution via bStocks",
-    "ditemukan": "2026-10-06T00:34:05.471165+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://www.binance.com/en/support/announcement/7df43402f0094e79b293bd7fbb574474",
     "is_new": false
   },
   {
@@ -480,6 +480,18 @@
     "is_new": false
   },
   {
+    "id": "67c6f70f8d548018",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Live Trading Strategies Mingguan INDODAX Setiap Kamis!",
+    "ditemukan": "2026-10-07T03:32:15.435063+00:00",
+    "deadline": "2026-07-10T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/trading-strategies-mingguan-setiap-kamis/",
+    "is_new": true
+  },
+  {
     "id": "d34b874599b171fc",
     "kategori": "listing",
     "exchange": "Indodax",
@@ -708,18 +720,6 @@
     "is_new": false
   },
   {
-    "id": "4888335a731d24e2",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "Migrasi Jaringan Lisk (LSK) Mainnet ke ERC20",
-    "ditemukan": "2026-09-30T13:28:54.736706+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/migrasi-jaringan-lisk-lsk/",
-    "is_new": false
-  },
-  {
     "id": "8b2f3eb199fa8da7",
     "kategori": "listing",
     "exchange": "Indodax",
@@ -861,6 +861,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/maintenance-deposit-bi-fast-ke-va-bank-nobu",
-    "is_new": true
+    "is_new": false
   }
 ]
