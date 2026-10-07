@@ -744,6 +744,30 @@
     "is_new": false
   },
   {
+    "id": "d192ed6027394c17",
+    "kategori": "listing",
+    "exchange": "Pintu",
+    "judul": "Pengumuman: Perubahan Metode Deposit melalui BRI",
+    "ditemukan": "2026-10-07T10:32:14.470215+00:00",
+    "deadline": "2026-10-06T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://pintu.co.id/blog/perubahan-metode-deposit-melalui-bri",
+    "is_new": true
+  },
+  {
+    "id": "fd8c799de87e6934",
+    "kategori": "listing",
+    "exchange": "Pintu",
+    "judul": "Pengumuman: Pembaruan Alamat Kontrak USDT Jaringan Optimism di Pintu",
+    "ditemukan": "2026-10-07T10:32:14.470554+00:00",
+    "deadline": "2026-10-06T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://pintu.co.id/blog/pembaruan-alamat-kontrak-usdt-jaringan-optimism-di-pintu",
+    "is_new": true
+  },
+  {
     "id": "d4a63a3e87e3071e",
     "kategori": "listing",
     "exchange": "Pintu",
@@ -838,29 +862,5 @@
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/pembaruan-data-pengguna-2026-pelaksanaan-bertahap",
     "is_new": false
-  },
-  {
-    "id": "c6dc84c7299325a4",
-    "kategori": "listing",
-    "exchange": "Pintu",
-    "judul": "Cara Membuat Investasi Rutin (Auto Invest) di Pintu",
-    "ditemukan": "2026-10-07T09:32:17.522157+00:00",
-    "deadline": "2026-09-16T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://pintu.co.id/blog/cara-membuat-investasi-rutin-auto-invest",
-    "is_new": true
-  },
-  {
-    "id": "3f13909398b4b7be",
-    "kategori": "listing",
-    "exchange": "Pintu",
-    "judul": "Pintu Listing 6 Token Baru, 3 September 2026",
-    "ditemukan": "2026-10-07T09:32:17.522311+00:00",
-    "deadline": "2026-09-14T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://pintu.co.id/blog/pintu-listing-6-token-baru-3september2026",
-    "is_new": true
   }
 ]
