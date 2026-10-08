@@ -480,6 +480,18 @@
     "is_new": false
   },
   {
+    "id": "3f82d7f49d756041",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Informasi Delisting 27 Aset Kripto",
+    "ditemukan": "2026-10-08T06:32:13.256437+00:00",
+    "deadline": "2026-08-10T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/delisting-okt26/",
+    "is_new": true
+  },
+  {
     "id": "67c6f70f8d548018",
     "kategori": "listing",
     "exchange": "Indodax",
@@ -708,18 +720,6 @@
     "is_new": false
   },
   {
-    "id": "4e6b4b59752d1d35",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "Penutupan Deposit & Withdrawal Aset Kripto MultiversX (EGLD)",
-    "ditemukan": "2026-09-30T13:28:54.736510+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/penutupan-deposit-withdrawal-multiversx-egld/",
-    "is_new": false
-  },
-  {
     "id": "8b2f3eb199fa8da7",
     "kategori": "listing",
     "exchange": "Indodax",
@@ -742,6 +742,42 @@
     "cara_ikut": null,
     "url": "https://blog.indodax.com/#m-iq",
     "is_new": false
+  },
+  {
+    "id": "4c55d7f756c1d7c9",
+    "kategori": "listing",
+    "exchange": "Pintu",
+    "judul": "Pengumuman: Delisting Token BLAST di Pintu",
+    "ditemukan": "2026-10-08T06:32:14.252456+00:00",
+    "deadline": "2026-10-07T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://pintu.co.id/blog/pengumuman-delisting-token-blast-di-pintu",
+    "is_new": true
+  },
+  {
+    "id": "d192ed6027394c17",
+    "kategori": "listing",
+    "exchange": "Pintu",
+    "judul": "Pengumuman: Perubahan Metode Deposit melalui BRI",
+    "ditemukan": "2026-10-08T06:32:14.252762+00:00",
+    "deadline": "2026-10-07T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://pintu.co.id/blog/perubahan-metode-deposit-melalui-bri",
+    "is_new": true
+  },
+  {
+    "id": "fd8c799de87e6934",
+    "kategori": "listing",
+    "exchange": "Pintu",
+    "judul": "Pengumuman: Pembaruan Alamat Kontrak USDT Jaringan Optimism di Pintu",
+    "ditemukan": "2026-10-08T06:32:14.252909+00:00",
+    "deadline": "2026-10-06T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://pintu.co.id/blog/pembaruan-alamat-kontrak-usdt-jaringan-optimism-di-pintu",
+    "is_new": true
   },
   {
     "id": "d4a63a3e87e3071e",
@@ -826,41 +862,5 @@
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/informasi-aset-delisting-di-akun-kamu",
     "is_new": false
-  },
-  {
-    "id": "4611f914b08584e1",
-    "kategori": "listing",
-    "exchange": "Pintu",
-    "judul": "Pembaruan Data Pengguna 2026: Pelaksanaan Bertahap dan Pembatasan Transaksi",
-    "ditemukan": "2026-10-08T05:32:10.614434+00:00",
-    "deadline": "2026-09-16T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://pintu.co.id/blog/pembaruan-data-pengguna-2026-pelaksanaan-bertahap",
-    "is_new": true
-  },
-  {
-    "id": "c6dc84c7299325a4",
-    "kategori": "listing",
-    "exchange": "Pintu",
-    "judul": "Cara Membuat Investasi Rutin (Auto Invest) di Pintu",
-    "ditemukan": "2026-10-08T05:32:10.614604+00:00",
-    "deadline": "2026-09-16T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://pintu.co.id/blog/cara-membuat-investasi-rutin-auto-invest",
-    "is_new": true
-  },
-  {
-    "id": "3f13909398b4b7be",
-    "kategori": "listing",
-    "exchange": "Pintu",
-    "judul": "Pintu Listing 6 Token Baru, 3 September 2026",
-    "ditemukan": "2026-10-08T05:32:10.614762+00:00",
-    "deadline": "2026-09-14T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://pintu.co.id/blog/pintu-listing-6-token-baru-3september2026",
-    "is_new": true
   }
 ]
