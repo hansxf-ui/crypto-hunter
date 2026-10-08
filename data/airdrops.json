@@ -1,5 +1,17 @@
 [
   {
+    "id": "9406c85cf94f87e5",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "PERPTools",
+    "ditemukan": "2026-10-08T11:32:50.052122+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Sign Up, Deposit, Trade and Refer Users",
+    "url": "https://airdrops.io/perptools/",
+    "is_new": true
+  },
+  {
     "id": "0056618e09687232",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -144,18 +156,6 @@
     "is_new": false
   },
   {
-    "id": "d9fabcd993de680e",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Fables",
-    "ditemukan": "2026-09-30T22:27:57.915036+08:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Connect Wallet, Deposit & Provide Liquidity",
-    "url": "https://airdrops.io/fables/",
-    "is_new": false
-  },
-  {
     "id": "de7b255a0625fc80",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -180,18 +180,6 @@
     "is_new": false
   },
   {
-    "id": "0dc45de9d5495455",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Axis Robotics",
-    "ditemukan": "2026-09-30T22:27:57.915097+08:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Complete Pre-Training Tasks, Sign Your Submissions & Refer to Earn",
-    "url": "https://airdrops.io/axis-robotics/",
-    "is_new": false
-  },
-  {
     "id": "378fa86420d03957",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -213,6 +201,18 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Fund Your Wallet, Play Games, Stake MNTD",
     "url": "https://airdrops.io/mint-io/",
+    "is_new": false
+  },
+  {
+    "id": "0dc45de9d5495455",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Axis Robotics",
+    "ditemukan": "2026-09-30T22:27:57.915097+08:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Complete Pre-Training Tasks, Sign Your Submissions & Refer to Earn",
+    "url": "https://airdrops.io/axis-robotics/",
     "is_new": false
   },
   {
@@ -276,6 +276,18 @@
     "is_new": false
   },
   {
+    "id": "1ecf7f4a7417e783",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Arc",
+    "ditemukan": "2026-10-08T11:32:50.052676+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Join Mainnet Activities",
+    "url": "https://airdrops.io/arc/",
+    "is_new": true
+  },
+  {
     "id": "9a70d441452dea92",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -285,18 +297,6 @@
     "reward": null,
     "cara_ikut": "Ongoing — Make Swaps to Collect XPs",
     "url": "https://airdrops.io/jumper-exchange/",
-    "is_new": false
-  },
-  {
-    "id": "ca7369ad81f2461d",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Cambria",
-    "ditemukan": "2026-10-07T13:33:13.168123+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Claim free Loot, Play the game",
-    "url": "https://airdrops.io/cambria/",
     "is_new": false
   }
 ]
