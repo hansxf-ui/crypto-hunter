@@ -1,5 +1,17 @@
 [
   {
+    "id": "167cac62a03f732a",
+    "kategori": "campaign",
+    "exchange": "Pintu Promo",
+    "judul": "Ikuti Giveaway Futures Lite di X, Menangkan Hadiah Senilai Rp2 Juta!",
+    "ditemukan": "2026-10-08T11:32:57.020058+00:00",
+    "deadline": null,
+    "reward": "Rp2 Juta",
+    "cara_ikut": "Hi Teman Pintu, Yuk ikutan giveaway Futures Lite yang berlangsung di X. Menangkan total hadiah senilai Rp2 juta dalam bentuk USDT!...",
+    "url": "https://blog.pintu.co.id/id/posts/explain-futures-lite-giveaway-x-oktober-2026",
+    "is_new": true
+  },
+  {
     "id": "2b5c404be3fb06ab",
     "kategori": "campaign",
     "exchange": "Pintu Promo",
@@ -225,18 +237,6 @@
     "reward": null,
     "cara_ikut": "Hi Teman Pintu, Ikuti giveaway merchandise Pintu Pro dan menangkan T-Shirt Pintu + E-Money khusus untuk kamu yang beruntung. Cek mekanisme,...",
     "url": "https://blog.pintu.co.id/id/posts/giveaway-merchandise-pro-juli-2026",
-    "is_new": false
-  },
-  {
-    "id": "e9a686eaa133387a",
-    "kategori": "campaign",
-    "exchange": "Pintu Promo",
-    "judul": "Join Giveaway Pintu Futures Lite, Menangkan Total Hadiah Senilai Rp5 Juta!",
-    "ditemukan": "2026-09-30T22:44:45.001843+08:00",
-    "deadline": null,
-    "reward": "Rp5 Juta",
-    "cara_ikut": "Hi, Teman Pintu Ikuti giveaway Pintu Futures Lite dan menangkan total hadiah senilai Rp5juta! Cek mekanisme dan syarat ketentuan lengkapnya di...",
-    "url": "https://blog.pintu.co.id/id/posts/giveaway-simplified-perps-juli-2026",
     "is_new": false
   }
 ]
