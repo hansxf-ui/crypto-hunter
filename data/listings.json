@@ -489,7 +489,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://blog.indodax.com/delisting-okt26/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "67c6f70f8d548018",
@@ -744,28 +744,16 @@
     "is_new": false
   },
   {
-    "id": "4c55d7f756c1d7c9",
-    "kategori": "listing",
-    "exchange": "Pintu",
-    "judul": "Pengumuman: Delisting Token BLAST di Pintu",
-    "ditemukan": "2026-10-08T06:32:14.252456+00:00",
-    "deadline": "2026-10-07T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://pintu.co.id/blog/pengumuman-delisting-token-blast-di-pintu",
-    "is_new": true
-  },
-  {
     "id": "d192ed6027394c17",
     "kategori": "listing",
     "exchange": "Pintu",
     "judul": "Pengumuman: Perubahan Metode Deposit melalui BRI",
     "ditemukan": "2026-10-08T06:32:14.252762+00:00",
-    "deadline": "2026-10-07T00:00:00",
+    "deadline": "2026-10-06T00:00:00",
     "reward": null,
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/perubahan-metode-deposit-melalui-bri",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "fd8c799de87e6934",
@@ -777,7 +765,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/pembaruan-alamat-kontrak-usdt-jaringan-optimism-di-pintu",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "d4a63a3e87e3071e",
@@ -862,5 +850,17 @@
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/informasi-aset-delisting-di-akun-kamu",
     "is_new": false
+  },
+  {
+    "id": "4611f914b08584e1",
+    "kategori": "listing",
+    "exchange": "Pintu",
+    "judul": "Pembaruan Data Pengguna 2026: Pelaksanaan Bertahap dan Pembatasan Transaksi",
+    "ditemukan": "2026-10-08T08:32:15.724901+00:00",
+    "deadline": "2026-09-16T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://pintu.co.id/blog/pembaruan-data-pengguna-2026-pelaksanaan-bertahap",
+    "is_new": true
   }
 ]
