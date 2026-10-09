@@ -24,16 +24,52 @@
     "is_new": false
   },
   {
-    "id": "65e70296a75ea933",
+    "id": "c517363104c24e58",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
-    "judul": "Upd Axis Robotics AXIS",
-    "ditemukan": "2026-10-09T13:32:21.585408+00:00",
+    "judul": "Upd Hollywood Hills",
+    "ditemukan": "2026-10-09T16:32:26.452877+00:00",
+    "deadline": null,
+    "reward": "Whitelist/Waitlist",
+    "cara_ikut": "Cost : $ 0 Time : 1 min Fill The Form · Potential Oct 9, 2026 · Raise -",
+    "url": "https://cryptorank.io/drophunting/hollywood-hills-activity1331",
+    "is_new": true
+  },
+  {
+    "id": "2394a29f3f3e2f80",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "New Papertrade",
+    "ditemukan": "2026-10-09T16:32:26.453129+00:00",
     "deadline": null,
     "reward": "Airdrop",
-    "cara_ikut": "Cost : $ 1 Time : 68 min Bounty Platforms + 4 · Confirmed Oct 9, 2026 · Raise $ 14.39M + 1",
+    "cara_ikut": "Cost : $ 50 Time : 5 min Trading · Potential Oct 9, 2026 · Raise -",
+    "url": "https://cryptorank.io/drophunting/papertrade-activity1337",
+    "is_new": true
+  },
+  {
+    "id": "1516f97d3ea1c5b5",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "New Catalyst",
+    "ditemukan": "2026-10-09T16:32:26.453437+00:00",
+    "deadline": null,
+    "reward": "Whitelist/Waitlist",
+    "cara_ikut": "Cost : $ 0 Time : 26 min Social + 1 · Confirmed Oct 9, 2026 · Raise $ 30.00M + 4",
+    "url": "https://cryptorank.io/drophunting/catalyst-app-activity1336",
+    "is_new": true
+  },
+  {
+    "id": "75d60a7ed97f8d22",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Axis Robotics AXIS",
+    "ditemukan": "2026-10-09T16:32:26.453680+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise $ 14.39M + 1",
     "url": "https://cryptorank.io/drophunting/axis-ai-activity1105",
-    "is_new": false
+    "is_new": true
   },
   {
     "id": "34fa5c94abd77caa",
@@ -42,8 +78,8 @@
     "judul": "Nodiens",
     "ditemukan": "2026-10-09T13:32:21.585675+00:00",
     "deadline": null,
-    "reward": "Points",
-    "cara_ikut": "Cost : $ 0 Time : 20 min Bounty Platforms · Confirmed Oct 7, 2026 · Raise -",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/nodiens-activity1260",
     "is_new": false
   },
@@ -54,8 +90,8 @@
     "judul": "Hit",
     "ditemukan": "2026-10-09T13:32:21.585925+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "Cost : $ 0 Time : 1 min Fill The Form + 3 · Potential Oct 7, 2026 · Raise -",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/hit-one-activity1118",
     "is_new": false
   },
@@ -201,42 +237,6 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise $ 48.61M",
     "url": "https://cryptorank.io/drophunting/jumper-exchange-activity1306",
-    "is_new": false
-  },
-  {
-    "id": "b7bad301cb753b47",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "QFEX",
-    "ditemukan": "2026-10-09T13:32:21.588629+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise $ 9.50M + 6",
-    "url": "https://cryptorank.io/drophunting/qfex-activity1117",
-    "is_new": false
-  },
-  {
-    "id": "ba1ca711cb131465",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "MINT MNTD",
-    "ditemukan": "2026-10-09T13:32:21.588799+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise -",
-    "url": "https://cryptorank.io/drophunting/mint-casino-activity1247",
-    "is_new": false
-  },
-  {
-    "id": "992e2d9eec2e0afe",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "The Pit App",
-    "ditemukan": "2026-10-09T13:32:21.588991+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise -",
-    "url": "https://cryptorank.io/drophunting/the-pit-app-activity1252",
     "is_new": false
   },
   {
