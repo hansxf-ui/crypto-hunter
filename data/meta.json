@@ -1,8 +1,8 @@
 {
-  "last_scan": "2026-10-10T22:32:32.097302+00:00",
+  "last_scan": "2026-10-10T23:32:30.869302+00:00",
   "sources": {
     "binance": "ok",
-    "bybit": "ok",
+    "bybit": "error",
     "okx": "ok",
     "indodax": "ok",
     "tokocrypto": "error",
