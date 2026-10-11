@@ -276,18 +276,6 @@
     "is_new": false
   },
   {
-    "id": "ca7369ad81f2461d",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Cambria",
-    "ditemukan": "2026-10-08T12:32:21.971766+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Claim free Loot, Play the game",
-    "url": "https://airdrops.io/cambria/",
-    "is_new": false
-  },
-  {
     "id": "1ecf7f4a7417e783",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -297,6 +285,18 @@
     "reward": null,
     "cara_ikut": "Ongoing — Join Mainnet Activities",
     "url": "https://airdrops.io/arc/",
+    "is_new": false
+  },
+  {
+    "id": "ca7369ad81f2461d",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Cambria",
+    "ditemukan": "2026-10-08T12:32:21.971766+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Claim free Loot, Play the game",
+    "url": "https://airdrops.io/cambria/",
     "is_new": false
   }
 ]
