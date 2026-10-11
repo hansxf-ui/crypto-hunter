@@ -5,11 +5,11 @@
     "exchange": "DeFiLlama",
     "judul": "Salty.IO",
     "ditemukan": "2026-10-11T10:32:25.285786+00:00",
-    "deadline": "2026-10-11T13:27:09.283345+00:00",
+    "deadline": "2026-10-11T13:27:03.686252+00:00",
     "reward": "$15.65",
     "cara_ikut": "Weekly Unlock",
     "url": "https://defillama.com/unlocks/salty.io",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "66ab8d69c60b64f7",
@@ -17,11 +17,11 @@
     "exchange": "DeFiLlama",
     "judul": "Solana",
     "ditemukan": "2026-10-11T10:32:25.285941+00:00",
-    "deadline": "2026-10-11T18:23:34.283345+00:00",
-    "reward": "$43.95m",
+    "deadline": "2026-10-11T18:23:28.686252+00:00",
+    "reward": "$43.89m",
     "cara_ikut": "Weekly Unlock · 0.068% of float",
     "url": "https://defillama.com/unlocks/solana",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "6e374c732264263d",
@@ -29,11 +29,11 @@
     "exchange": "DeFiLlama",
     "judul": "Celestia",
     "ditemukan": "2026-10-11T10:32:25.286070+00:00",
-    "deadline": "2026-10-11T21:16:56.283345+00:00",
-    "reward": "$108,278",
+    "deadline": "2026-10-11T21:16:50.686252+00:00",
+    "reward": "$106,435",
     "cara_ikut": "Cliff Unlock · 0.019% of float",
     "url": "https://defillama.com/unlocks/celestia",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "06395a7d86a737bf",
@@ -41,11 +41,11 @@
     "exchange": "DeFiLlama",
     "judul": "CLever",
     "ditemukan": "2026-10-11T10:32:25.286203+00:00",
-    "deadline": "2026-10-11T23:43:14.283345+00:00",
+    "deadline": "2026-10-11T23:43:08.686252+00:00",
     "reward": "$1,272",
     "cara_ikut": "Weekly Unlock · 0.43% of float",
     "url": "https://defillama.com/unlocks/clever",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "db16f41e800749de",
@@ -53,11 +53,11 @@
     "exchange": "DeFiLlama",
     "judul": "Aptos",
     "ditemukan": "2026-10-11T10:32:25.286324+00:00",
-    "deadline": "2026-10-12T00:42:34.283345+00:00",
-    "reward": "$9.48m",
+    "deadline": "2026-10-12T00:42:28.686252+00:00",
+    "reward": "$9.49m",
     "cara_ikut": "Cliff Unlock · 1.3% of float",
     "url": "https://defillama.com/unlocks/aptos",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "b6a55e48590c7335",
@@ -65,11 +65,11 @@
     "exchange": "DeFiLlama",
     "judul": "Canton",
     "ditemukan": "2026-10-11T10:32:25.286448+00:00",
-    "deadline": "2026-10-12T01:28:10.283345+00:00",
-    "reward": "$18.39m",
+    "deadline": "2026-10-12T01:28:04.686252+00:00",
+    "reward": "$18.13m",
     "cara_ikut": "Weekly Unlock · 0.38% of float",
     "url": "https://defillama.com/unlocks/canton",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "027a9762d2fae2d1",
@@ -77,11 +77,11 @@
     "exchange": "DeFiLlama",
     "judul": "BounceBit",
     "ditemukan": "2026-10-11T10:32:25.286582+00:00",
-    "deadline": "2026-10-12T02:59:50.283345+00:00",
-    "reward": "$297,082",
+    "deadline": "2026-10-12T02:59:44.686252+00:00",
+    "reward": "$291,638",
     "cara_ikut": "Cliff Unlock",
     "url": "https://defillama.com/unlocks/bouncebit",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "c5724fbe65bd99cd",
@@ -89,11 +89,11 @@
     "exchange": "DeFiLlama",
     "judul": "Pump",
     "ditemukan": "2026-10-11T10:32:25.286700+00:00",
-    "deadline": "2026-10-12T03:44:05.283345+00:00",
-    "reward": "$38.17m",
-    "cara_ikut": "Cliff Unlock · 1.49% of float",
+    "deadline": "2026-10-12T03:43:59.686252+00:00",
+    "reward": "$38.47m",
+    "cara_ikut": "Cliff Unlock · 1.48% of float",
     "url": "https://defillama.com/unlocks/pump",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "c6759c828eb3175e",
@@ -101,11 +101,11 @@
     "exchange": "DeFiLlama",
     "judul": "peaq",
     "ditemukan": "2026-10-11T10:32:25.286816+00:00",
-    "deadline": "2026-10-13T02:36:19.283345+00:00",
-    "reward": "$3.4m",
-    "cara_ikut": "Cliff Unlock · 3.2% of float",
+    "deadline": "2026-10-13T02:36:13.686252+00:00",
+    "reward": "$3.39m",
+    "cara_ikut": "Cliff Unlock · 3.19% of float",
     "url": "https://defillama.com/unlocks/peaq",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "3872e1c699c96382",
@@ -113,11 +113,11 @@
     "exchange": "DeFiLlama",
     "judul": "Sei",
     "ditemukan": "2026-10-11T10:32:25.286934+00:00",
-    "deadline": "2026-10-13T15:52:04.283345+00:00",
+    "deadline": "2026-10-13T15:51:58.686252+00:00",
     "reward": "$1.49m",
     "cara_ikut": "Cliff Unlock · 0.33% of float",
     "url": "https://defillama.com/unlocks/sei",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "0fc9b7e6d34b5aa3",
@@ -125,11 +125,11 @@
     "exchange": "DeFiLlama",
     "judul": "IOTA",
     "ditemukan": "2026-10-11T10:32:25.287051+00:00",
-    "deadline": "2026-10-14T01:28:10.283345+00:00",
-    "reward": "$621,329",
+    "deadline": "2026-10-14T01:28:04.686252+00:00",
+    "reward": "$619,052",
     "cara_ikut": "Cliff Unlock · 0.26% of float",
     "url": "https://defillama.com/unlocks/iota",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "98e7b1c53f9ca5de",
@@ -137,11 +137,11 @@
     "exchange": "DeFiLlama",
     "judul": "Alaya AI",
     "ditemukan": "2026-10-11T10:32:25.287176+00:00",
-    "deadline": "2026-10-14T11:42:01.283345+00:00",
-    "reward": "$1.86m",
+    "deadline": "2026-10-14T11:41:55.686252+00:00",
+    "reward": "$1.85m",
     "cara_ikut": "Cliff Unlock",
     "url": "https://defillama.com/unlocks/alaya-ai",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "7d40636b157f997e",
@@ -149,11 +149,11 @@
     "exchange": "DeFiLlama",
     "judul": "Starknet Bridge",
     "ditemukan": "2026-10-11T10:32:25.287296+00:00",
-    "deadline": "2026-10-14T14:28:43.283345+00:00",
-    "reward": "$24.63m",
+    "deadline": "2026-10-14T14:28:37.686252+00:00",
+    "reward": "$24.67m",
     "cara_ikut": "Cliff Unlock · 3.05% of float",
     "url": "https://defillama.com/unlocks/starknet-bridge",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "2b7d6175cb1b194e",
@@ -161,11 +161,11 @@
     "exchange": "DeFiLlama",
     "judul": "CyberConnect",
     "ditemukan": "2026-10-11T10:32:25.287415+00:00",
-    "deadline": "2026-10-14T15:52:04.283345+00:00",
-    "reward": "$183,154",
-    "cara_ikut": "Cliff Unlock · 0.83% of float",
+    "deadline": "2026-10-14T15:51:58.686252+00:00",
+    "reward": "$180,741",
+    "cara_ikut": "Cliff Unlock · 0.84% of float",
     "url": "https://defillama.com/unlocks/cyberconnect",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "bd9386a18bb4e0c5",
@@ -173,11 +173,11 @@
     "exchange": "DeFiLlama",
     "judul": "Canto",
     "ditemukan": "2026-10-11T10:32:25.287537+00:00",
-    "deadline": "2026-10-14T20:40:50.283345+00:00",
+    "deadline": "2026-10-14T20:40:44.686252+00:00",
     "reward": "$0",
     "cara_ikut": "Weekly Unlock · 0.0000000001% of float",
     "url": "https://defillama.com/unlocks/canto",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "7cc064aaca39152c",
@@ -185,11 +185,11 @@
     "exchange": "DeFiLlama",
     "judul": "Kwenta",
     "ditemukan": "2026-10-11T10:32:25.287628+00:00",
-    "deadline": "2026-10-15T01:28:10.283345+00:00",
+    "deadline": "2026-10-15T01:28:04.686252+00:00",
     "reward": null,
     "cara_ikut": "Cliff Unlock",
     "url": "https://defillama.com/unlocks/kwenta",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "e3801164c54ff8b6",
@@ -197,11 +197,11 @@
     "exchange": "DeFiLlama",
     "judul": "Equilibre",
     "ditemukan": "2026-10-11T10:32:25.287722+00:00",
-    "deadline": "2026-10-15T03:24:55.283345+00:00",
+    "deadline": "2026-10-15T03:24:49.686252+00:00",
     "reward": null,
     "cara_ikut": "Weekly Unlock",
     "url": "https://defillama.com/unlocks/equilibre",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "d852bfaf9c24e6c1",
@@ -209,11 +209,11 @@
     "exchange": "DeFiLlama",
     "judul": "Thala",
     "ditemukan": "2026-10-11T10:32:25.287842+00:00",
-    "deadline": "2026-10-15T03:28:10.283345+00:00",
-    "reward": "$713.75",
+    "deadline": "2026-10-15T03:28:04.686252+00:00",
+    "reward": "$715.67",
     "cara_ikut": "Weekly Unlock · 0.094% of float",
     "url": "https://defillama.com/unlocks/thala",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "f7d566ff7758eae6",
@@ -221,11 +221,11 @@
     "exchange": "DeFiLlama",
     "judul": "Connex",
     "ditemukan": "2026-10-11T10:32:25.287955+00:00",
-    "deadline": "2026-10-15T05:23:01.283345+00:00",
+    "deadline": "2026-10-15T05:22:55.686252+00:00",
     "reward": "$12.01m",
     "cara_ikut": "Cliff Unlock",
     "url": "https://defillama.com/unlocks/connex",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "14ade899d2f30cab",
@@ -233,11 +233,11 @@
     "exchange": "DeFiLlama",
     "judul": "Vector Finance",
     "ditemukan": "2026-10-11T10:32:25.288048+00:00",
-    "deadline": "2026-10-15T09:17:52.283345+00:00",
+    "deadline": "2026-10-15T09:17:46.686252+00:00",
     "reward": null,
     "cara_ikut": "Weekly Unlock",
     "url": "https://defillama.com/unlocks/vector-finance",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "a8c7e148783f92f7",
@@ -245,11 +245,11 @@
     "exchange": "DeFiLlama",
     "judul": "Arbitrum Foundation",
     "ditemukan": "2026-10-11T10:32:25.288177+00:00",
-    "deadline": "2026-10-15T15:28:43.283345+00:00",
-    "reward": "$18.02m",
-    "cara_ikut": "Cliff Unlock · 1.37% of float",
+    "deadline": "2026-10-15T15:28:37.686252+00:00",
+    "reward": "$18.24m",
+    "cara_ikut": "Cliff Unlock · 1.36% of float",
     "url": "https://defillama.com/unlocks/arbitrum-foundation",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "09f88595c7d28404",
@@ -257,11 +257,11 @@
     "exchange": "DeFiLlama",
     "judul": "Filecoin",
     "ditemukan": "2026-10-11T10:32:25.288277+00:00",
-    "deadline": "2026-10-16T01:28:10.283345+00:00",
-    "reward": "$290,074",
+    "deadline": "2026-10-16T01:28:04.686252+00:00",
+    "reward": "$288,195",
     "cara_ikut": "Weekly Unlock · 0.032% of float",
     "url": "https://defillama.com/unlocks/filecoin",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "2c050d804b371695",
@@ -269,10 +269,58 @@
     "exchange": "DeFiLlama",
     "judul": "Portal",
     "ditemukan": "2026-10-11T10:32:25.288392+00:00",
-    "deadline": "2026-10-16T01:28:10.283345+00:00",
-    "reward": "$880,484",
+    "deadline": "2026-10-16T01:28:04.686252+00:00",
+    "reward": "$874,231",
     "cara_ikut": "Cliff Unlock · 0.76% of float",
     "url": "https://defillama.com/unlocks/portal",
+    "is_new": false
+  },
+  {
+    "id": "55c7c9c05a49d007",
+    "kategori": "unlocks",
+    "exchange": "CryptoRank",
+    "judul": "Gods Unchained GODS",
+    "ditemukan": "2026-10-11T12:32:19.738017+00:00",
+    "deadline": "2026-10-11T00:00:00",
+    "reward": "$146.36K",
+    "cara_ikut": "GODS 6.28M · 1.33% of M. Cap",
+    "url": "https://cryptorank.io/price/gods-unchained/vesting",
+    "is_new": true
+  },
+  {
+    "id": "1c7c821d56f3cc94",
+    "kategori": "unlocks",
+    "exchange": "CryptoRank",
+    "judul": "Magic Square SQR",
+    "ditemukan": "2026-10-11T12:32:19.738180+00:00",
+    "deadline": "2026-10-11T00:00:00",
+    "reward": "$1.61K",
+    "cara_ikut": "SQR 20.55M · 2.16% of M. Cap",
+    "url": "https://cryptorank.io/price/magic-square/vesting",
+    "is_new": true
+  },
+  {
+    "id": "843c73d1e6d561e6",
+    "kategori": "unlocks",
+    "exchange": "CryptoRank",
+    "judul": "Delysium AGI",
+    "ditemukan": "2026-10-11T12:32:19.738290+00:00",
+    "deadline": "2026-10-11T00:00:00",
+    "reward": "$259.88K",
+    "cara_ikut": "AGI 42.47M · 1.63% of M. Cap",
+    "url": "https://cryptorank.io/price/delysium/vesting",
+    "is_new": true
+  },
+  {
+    "id": "379b2119a8879929",
+    "kategori": "unlocks",
+    "exchange": "CryptoRank",
+    "judul": "Reality Metaverse RMV",
+    "ditemukan": "2026-10-11T12:32:19.738403+00:00",
+    "deadline": "2026-10-11T00:00:00",
+    "reward": "$15.67K",
+    "cara_ikut": "RMV 8.86M · 1.09% of M. Cap",
+    "url": "https://cryptorank.io/price/reality-metaverse/vesting",
     "is_new": true
   }
 ]
