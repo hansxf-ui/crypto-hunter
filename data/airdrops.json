@@ -24,6 +24,30 @@
     "is_new": false
   },
   {
+    "id": "343e105b5df966c9",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "TBook",
+    "ditemukan": "2026-10-12T20:32:19.141647+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "Cost : $ 6 Time : 11 min Mint NFT, Social + 1 · Confirmed Oct 12, 2026 · Raise $ 10.00M + 7",
+    "url": "https://cryptorank.io/drophunting/tbook-activity974",
+    "is_new": true
+  },
+  {
+    "id": "65e70296a75ea933",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Upd Axis Robotics AXIS",
+    "ditemukan": "2026-10-12T20:32:19.141762+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "Cost : $ 1 Time : 68 min Bounty Platforms + 4 · Confirmed Oct 12, 2026 · Raise $ 14.39M + 1",
+    "url": "https://cryptorank.io/drophunting/axis-ai-activity1105",
+    "is_new": true
+  },
+  {
     "id": "c8183613385aeef0",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
@@ -33,7 +57,7 @@
     "reward": "Ambassador",
     "cara_ikut": "Cost : $ 0 Time : 3 min Wallet Airdrop Status + 2 · Confirmed Oct 12, 2026 · Raise -",
     "url": "https://cryptorank.io/drophunting/noah-ai-activity1165",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "20ea5b9121decef3",
@@ -42,22 +66,22 @@
     "judul": "New Proto",
     "ditemukan": "2026-10-12T19:32:17.317577+00:00",
     "deadline": null,
-    "reward": "Whitelist/Waitlist",
-    "cara_ikut": "Cost : $ 0 Time : 1 min Fill The Form · Potential Oct 12, 2026 · Raise -",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/proto-xyz-activity1339",
-    "is_new": true
+    "is_new": false
   },
   {
-    "id": "9c2ea16a0185d3aa",
+    "id": "9ddc95bf506ceffe",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
-    "judul": "Upd TxFlow",
-    "ditemukan": "2026-10-12T18:32:25.515514+00:00",
+    "judul": "TxFlow",
+    "ditemukan": "2026-10-12T20:32:19.142031+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "Cost : $ 31 Time : 55 min Trading + 2 · Confirmed Oct 12, 2026 · Raise -",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/txflow-activity1231",
-    "is_new": false
+    "is_new": true
   },
   {
     "id": "779e25d6785ca5b1",
@@ -192,18 +216,6 @@
     "is_new": false
   },
   {
-    "id": "75d60a7ed97f8d22",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Axis Robotics AXIS",
-    "ditemukan": "2026-10-12T15:32:19.671704+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise $ 14.39M + 1",
-    "url": "https://cryptorank.io/drophunting/axis-ai-activity1105",
-    "is_new": false
-  },
-  {
     "id": "34fa5c94abd77caa",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
@@ -225,18 +237,6 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/hit-one-activity1118",
-    "is_new": false
-  },
-  {
-    "id": "abb2cf36aed6c997",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Arcus",
-    "ditemukan": "2026-10-12T15:32:19.671915+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise -",
-    "url": "https://cryptorank.io/drophunting/arcus-activity1232",
     "is_new": false
   },
   {
@@ -468,18 +468,6 @@
     "is_new": false
   },
   {
-    "id": "b2c900f4ac3ab494",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Variational",
-    "ditemukan": "2026-10-07T13:33:13.168056+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Trade perps & refer friends",
-    "url": "https://airdrops.io/variational/",
-    "is_new": false
-  },
-  {
     "id": "e72ae2bede5cf67c",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -489,6 +477,18 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Deposit, Trade & refer friends to Earn Points",
     "url": "https://airdrops.io/extended/",
+    "is_new": false
+  },
+  {
+    "id": "b2c900f4ac3ab494",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Variational",
+    "ditemukan": "2026-10-07T13:33:13.168056+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Trade perps & refer friends",
+    "url": "https://airdrops.io/variational/",
     "is_new": false
   },
   {
