@@ -24,6 +24,30 @@
     "is_new": false
   },
   {
+    "id": "c8183613385aeef0",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Noah AI",
+    "ditemukan": "2026-10-12T19:32:17.317480+00:00",
+    "deadline": null,
+    "reward": "Ambassador",
+    "cara_ikut": "Cost : $ 0 Time : 3 min Wallet Airdrop Status + 2 · Confirmed Oct 12, 2026 · Raise -",
+    "url": "https://cryptorank.io/drophunting/noah-ai-activity1165",
+    "is_new": true
+  },
+  {
+    "id": "20ea5b9121decef3",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "New Proto",
+    "ditemukan": "2026-10-12T19:32:17.317577+00:00",
+    "deadline": null,
+    "reward": "Whitelist/Waitlist",
+    "cara_ikut": "Cost : $ 0 Time : 1 min Fill The Form · Potential Oct 12, 2026 · Raise -",
+    "url": "https://cryptorank.io/drophunting/proto-xyz-activity1339",
+    "is_new": true
+  },
+  {
     "id": "9c2ea16a0185d3aa",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
@@ -33,7 +57,7 @@
     "reward": "Airdrop",
     "cara_ikut": "Cost : $ 31 Time : 55 min Trading + 2 · Confirmed Oct 12, 2026 · Raise -",
     "url": "https://cryptorank.io/drophunting/txflow-activity1231",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "779e25d6785ca5b1",
@@ -42,10 +66,10 @@
     "judul": "Amadeus Protocol",
     "ditemukan": "2026-10-12T18:32:25.515609+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "Cost : $ 0 Time : 25 min Bounty Platforms + 2 · Confirmed Oct 12, 2026 · Raise -",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/amadeus-protocol-activity1274",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "b7e4c905b925d05d",
@@ -54,10 +78,10 @@
     "judul": "Incentiv CENT",
     "ditemukan": "2026-10-12T18:32:25.515698+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "No active tasks · Reward Available Oct 12, 2026 · Raise $ 28.10M",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise $ 28.10M",
     "url": "https://cryptorank.io/drophunting/incentiv-activity669",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "aea7aabb36520864",
@@ -69,7 +93,7 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/yield-fields-activity1312",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "7a366f40d377402f",
@@ -93,7 +117,7 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/fomies-activity1326",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "d3e0c760534c94f0",
@@ -213,30 +237,6 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/arcus-activity1232",
-    "is_new": false
-  },
-  {
-    "id": "f1b212abca3953c7",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "OmenX",
-    "ditemukan": "2026-10-12T15:32:19.671993+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise -",
-    "url": "https://cryptorank.io/drophunting/omenx-activity1143",
-    "is_new": false
-  },
-  {
-    "id": "3c1576f028eb1239",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "New Sirius Protocol",
-    "ditemukan": "2026-10-12T15:32:19.672063+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise -",
-    "url": "https://cryptorank.io/drophunting/sirius-protocol-activity1335",
     "is_new": false
   },
   {
