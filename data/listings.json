@@ -1,5 +1,17 @@
 [
   {
+    "id": "eae52ee78b4ba9c0",
+    "kategori": "listing",
+    "exchange": "Binance",
+    "judul": "Binance Futures Will Launch Multiple TradFi USDⓈ-Margined Perpetual Contracts (2026-10-12)",
+    "ditemukan": "2026-10-12T06:32:08.762283+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://www.binance.com/en/support/announcement/394e61b6f81e4a349272dcb9d78876d6",
+    "is_new": true
+  },
+  {
     "id": "d9785dce84288f09",
     "kategori": "listing",
     "exchange": "Binance",
@@ -225,18 +237,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://www.binance.com/en/support/announcement/533eb2f3998a43e3a34df310998bee48",
-    "is_new": false
-  },
-  {
-    "id": "8050321cb4ab4bba",
-    "kategori": "listing",
-    "exchange": "Binance",
-    "judul": "Binance Futures Will List USDⓈ-M & COIN-M Quarterly 0326 Delivery Contracts",
-    "ditemukan": "2026-10-06T00:34:05.471146+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://www.binance.com/en/support/announcement/fcd1b50824c04192b80091599c452ee8",
     "is_new": false
   },
   {
