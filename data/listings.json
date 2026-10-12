@@ -480,6 +480,18 @@
     "is_new": false
   },
   {
+    "id": "42078a6154083b06",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "AMA Community &#8211; Beyond the Hype: Memahami Narasi di Balik Pergerakan Crypto",
+    "ditemukan": "2026-10-12T04:32:11.547664+00:00",
+    "deadline": "2026-12-10T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/ask-me-anything-community-14-okt-2026/",
+    "is_new": true
+  },
+  {
     "id": "4c5aab932fb4bda9",
     "kategori": "listing",
     "exchange": "Indodax",
@@ -705,18 +717,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://blog.indodax.com/perubahan-alamat-deposit-sep-2026/",
-    "is_new": false
-  },
-  {
-    "id": "c395b3ddeb8249fd",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "INDODAX x Bengkel BOS: Diskon 25% Jasa Flushing Oli dan Gratis 1 Liter Oli Mesin Mobil",
-    "ditemukan": "2026-09-30T13:28:54.736086+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/promo-bengkel-mobil-bos/",
     "is_new": false
   },
   {
