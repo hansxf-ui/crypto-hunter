@@ -24,28 +24,76 @@
     "is_new": false
   },
   {
+    "id": "9c2ea16a0185d3aa",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Upd TxFlow",
+    "ditemukan": "2026-10-12T18:32:25.515514+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "Cost : $ 31 Time : 55 min Trading + 2 · Confirmed Oct 12, 2026 · Raise -",
+    "url": "https://cryptorank.io/drophunting/txflow-activity1231",
+    "is_new": true
+  },
+  {
+    "id": "779e25d6785ca5b1",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Amadeus Protocol",
+    "ditemukan": "2026-10-12T18:32:25.515609+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "Cost : $ 0 Time : 25 min Bounty Platforms + 2 · Confirmed Oct 12, 2026 · Raise -",
+    "url": "https://cryptorank.io/drophunting/amadeus-protocol-activity1274",
+    "is_new": true
+  },
+  {
+    "id": "b7e4c905b925d05d",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Incentiv CENT",
+    "ditemukan": "2026-10-12T18:32:25.515698+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "No active tasks · Reward Available Oct 12, 2026 · Raise $ 28.10M",
+    "url": "https://cryptorank.io/drophunting/incentiv-activity669",
+    "is_new": true
+  },
+  {
+    "id": "aea7aabb36520864",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Yield Fields",
+    "ditemukan": "2026-10-12T18:32:25.515778+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise -",
+    "url": "https://cryptorank.io/drophunting/yield-fields-activity1312",
+    "is_new": true
+  },
+  {
     "id": "7a366f40d377402f",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
     "judul": "New Fungo Labs",
     "ditemukan": "2026-10-12T15:32:19.671016+00:00",
     "deadline": null,
-    "reward": "Whitelist/Waitlist",
-    "cara_ikut": "No active tasks · Verification Oct 11, 2026 · Raise -",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/fungo-labs-activity1334",
     "is_new": false
   },
   {
-    "id": "c2cc3794627fdce7",
+    "id": "5f0cc66de6c9f7aa",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
-    "judul": "Upd Fomies",
-    "ditemukan": "2026-10-12T15:32:19.671112+00:00",
+    "judul": "Fomies",
+    "ditemukan": "2026-10-12T18:32:25.515924+00:00",
     "deadline": null,
-    "reward": "NFT",
-    "cara_ikut": "Cost : $ 0 Time : 4 min Fill The Form · Potential Oct 9, 2026 · Raise -",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/fomies-activity1326",
-    "is_new": false
+    "is_new": true
   },
   {
     "id": "d3e0c760534c94f0",
@@ -54,8 +102,8 @@
     "judul": "New PTSD Show",
     "ditemukan": "2026-10-12T15:32:19.671201+00:00",
     "deadline": null,
-    "reward": "Whitelist/Waitlist",
-    "cara_ikut": "Cost : $ 0 Time : 15 min Gaming · Potential Oct 9, 2026 · Raise -",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/ptsd-show-activity1338",
     "is_new": false
   },
@@ -192,54 +240,6 @@
     "is_new": false
   },
   {
-    "id": "9a273e6c7112b0fc",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Abstract",
-    "ditemukan": "2026-10-12T15:32:19.672144+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise - + 2",
-    "url": "https://cryptorank.io/drophunting/abstract-chain-activity348",
-    "is_new": false
-  },
-  {
-    "id": "f0d72ea00814fef3",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "New Tribeca",
-    "ditemukan": "2026-10-12T15:32:19.672216+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise -",
-    "url": "https://cryptorank.io/drophunting/tribeca-activity1333",
-    "is_new": false
-  },
-  {
-    "id": "1f6a0295ee93e467",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "VOICE",
-    "ditemukan": "2026-10-12T15:32:19.672301+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise -",
-    "url": "https://cryptorank.io/drophunting/voice-activity1288",
-    "is_new": false
-  },
-  {
-    "id": "1530f60ec82046a8",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Note Systems NOTE",
-    "ditemukan": "2026-10-12T15:32:19.672374+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise -",
-    "url": "https://cryptorank.io/drophunting/note-systems-activity1309",
-    "is_new": false
-  },
-  {
     "id": "c5c40fbdf70b5169",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -249,7 +249,7 @@
     "reward": null,
     "cara_ikut": "Ongoing — Sgn Up, Install Agent and Contribute",
     "url": "https://airdrops.io/nous-research/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "9406c85cf94f87e5",
@@ -408,18 +408,6 @@
     "is_new": false
   },
   {
-    "id": "378fa86420d03957",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "RISEx",
-    "ditemukan": "2026-09-30T22:27:57.915118+08:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Sign Up, Enable Trading, Trade & Refer",
-    "url": "https://airdrops.io/risex/",
-    "is_new": false
-  },
-  {
     "id": "f1a1a8661356f909",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -429,6 +417,18 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Trade on Kraken Pro & Interact with Dapps",
     "url": "https://airdrops.io/ink-chain/",
+    "is_new": false
+  },
+  {
+    "id": "378fa86420d03957",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "RISEx",
+    "ditemukan": "2026-09-30T22:27:57.915118+08:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Sign Up, Enable Trading, Trade & Refer",
+    "url": "https://airdrops.io/risex/",
     "is_new": false
   },
   {
