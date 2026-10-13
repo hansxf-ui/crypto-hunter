@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "id": "733d0ac5628a5abc",
+    "kategori": "unlocks",
+    "exchange": "CryptoRank",
+    "judul": "Frontfanz FANX",
+    "ditemukan": "2026-10-13T06:32:24.184217+00:00",
+    "deadline": "2026-10-13T00:00:00",
+    "reward": "$348.20",
+    "cara_ikut": "FANX 14.78M · 2.97% of M. Cap",
+    "url": "https://cryptorank.io/price/frontfanz-new/vesting",
+    "is_new": true
+  },
+  {
+    "id": "c23fea777bbfb703",
+    "kategori": "unlocks",
+    "exchange": "CryptoRank",
+    "judul": "Union U",
+    "ditemukan": "2026-10-13T06:32:24.184350+00:00",
+    "deadline": "2026-10-13T00:00:00",
+    "reward": "$8.29K",
+    "cara_ikut": "U 36.56M · 1.91% of M. Cap",
+    "url": "https://cryptorank.io/price/union-labs/vesting",
+    "is_new": true
+  },
+  {
+    "id": "eb2db07ddd10b4e0",
+    "kategori": "unlocks",
+    "exchange": "CryptoRank",
+    "judul": "BounceBit BB",
+    "ditemukan": "2026-10-13T06:32:24.184457+00:00",
+    "deadline": "2026-10-13T00:00:00",
+    "reward": "$415.59K",
+    "cara_ikut": "BB 44.70M · 10.9% of M. Cap",
+    "url": "https://cryptorank.io/price/bouncebit/vesting",
+    "is_new": true
+  },
+  {
+    "id": "2934fc244b006028",
+    "kategori": "unlocks",
+    "exchange": "CryptoRank",
+    "judul": "Otherworld OWN",
+    "ditemukan": "2026-10-13T06:32:24.184548+00:00",
+    "deadline": "2026-10-13T00:00:00",
+    "reward": "$15.94K",
+    "cara_ikut": "OWN 537.50K · 1.52% of M. Cap",
+    "url": "https://cryptorank.io/price/otherworld/vesting",
+    "is_new": true
+  }
+]
