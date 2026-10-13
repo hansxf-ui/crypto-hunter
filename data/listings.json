@@ -1,5 +1,17 @@
 [
   {
+    "id": "428da749c9f2bd08",
+    "kategori": "listing",
+    "exchange": "Binance",
+    "judul": "Binance Will List RWUSD and Introduce RWUSD Zero Trading Fee Promotion",
+    "ditemukan": "2026-10-13T03:32:16.919382+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://www.binance.com/en/support/announcement/1dfe10f0e0fb4e7ab0eb8874e9fdab0e",
+    "is_new": true
+  },
+  {
     "id": "eae52ee78b4ba9c0",
     "kategori": "listing",
     "exchange": "Binance",
@@ -225,18 +237,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://www.binance.com/en/support/announcement/a0adb246c4a24f108fd0d1f51dfd3d1d",
-    "is_new": false
-  },
-  {
-    "id": "5940ef3960a536ba",
-    "kategori": "listing",
-    "exchange": "Binance",
-    "judul": "Binance Futures Will Launch USDBRLUSDT USDⓈ-Margined TradFi Perpetual Contract (2026-09-21)",
-    "ditemukan": "2026-10-06T00:34:05.471137+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://www.binance.com/en/support/announcement/533eb2f3998a43e3a34df310998bee48",
     "is_new": false
   },
   {
