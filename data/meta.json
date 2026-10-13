@@ -1,5 +1,5 @@
 {
-  "last_scan": "2026-10-13T19:32:51.458590+00:00",
+  "last_scan": "2026-10-13T20:32:31.039081+00:00",
   "sources": {
     "binance": "ok",
     "bybit": "error",
@@ -9,7 +9,7 @@
     "pintu": "ok",
     "cryptorank_drop": "error",
     "airdrops_io": "ok",
-    "defillama": "ok",
+    "defillama": "error",
     "cryptorank_unlock": "error",
     "pintu_promo": "ok"
   },
