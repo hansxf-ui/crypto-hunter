@@ -24,6 +24,18 @@
     "is_new": false
   },
   {
+    "id": "18d25c40c365a904",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "New Blackboard",
+    "ditemukan": "2026-10-14T16:32:21.381372+00:00",
+    "deadline": null,
+    "reward": "Points",
+    "cara_ikut": "Cost : $ 100 Time : 40 min Trading · Confirmed Oct 14, 2026 · Raise -",
+    "url": "https://cryptorank.io/drophunting/blackboard-activity1373",
+    "is_new": true
+  },
+  {
     "id": "29b121ebc891a176",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
@@ -33,7 +45,7 @@
     "reward": "Airdrop",
     "cara_ikut": "Cost : $ 100 Time : 6 min Hold, Liquidity + 3 · Confirmed Oct 14, 2026 · Raise $ 5.20M",
     "url": "https://cryptorank.io/drophunting/nuva-finance-activity991",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "31fe3c4607d3850e",
@@ -45,7 +57,7 @@
     "reward": "Airdrop",
     "cara_ikut": "Cost : $ 55 Time : 69 min Mainnet, Mint Domain + 9 · Potential Oct 14, 2026 · Raise $ 30.00M + 13",
     "url": "https://cryptorank.io/drophunting/d-3-global-activity662",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "8d4b15398bfbdb3d",
@@ -54,10 +66,10 @@
     "judul": "New RAFA Finance",
     "ditemukan": "2026-10-14T15:32:21.650970+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "Cost : $ 0 Time : 5 min Predictions, Testnet · Confirmed Oct 14, 2026 · Raise -",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/rafa-finance-activity1372",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "2a819f5255cab5fe",
@@ -69,7 +81,7 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/mindgames-ai-activity1315",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "dbfcea77412644cf",
@@ -81,7 +93,7 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise $ 15.00M",
     "url": "https://cryptorank.io/drophunting/surf-ai-activity1026",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "238db2ecbf3a79f4",
@@ -105,7 +117,7 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise $ 172.50M",
     "url": "https://cryptorank.io/drophunting/jupiter-stattion-activity486",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "0b7febe2382b68d2",
@@ -228,18 +240,6 @@
     "is_new": false
   },
   {
-    "id": "5f0cc66de6c9f7aa",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Fomies",
-    "ditemukan": "2026-10-13T23:32:33.231765+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise -",
-    "url": "https://cryptorank.io/drophunting/fomies-activity1326",
-    "is_new": false
-  },
-  {
     "id": "6cc7797f2155379c",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -249,7 +249,7 @@
     "reward": null,
     "cara_ikut": "Ongoing — Sign Up, Deposit and Trade to Earn",
     "url": "https://airdrops.io/txflow/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "f657d5d2d3cde2b7",
