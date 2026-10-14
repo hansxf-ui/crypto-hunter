@@ -480,6 +480,18 @@
     "is_new": false
   },
   {
+    "id": "38cfc34ef598769e",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Update Terkait Migrasi Jaringan RAI Token (RAI) ERC20 ke Solana",
+    "ditemukan": "2026-10-14T07:32:15.763536+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/migration-rai/",
+    "is_new": true
+  },
+  {
     "id": "44d7571b17d00289",
     "kategori": "listing",
     "exchange": "Indodax",
@@ -706,18 +718,6 @@
     "cara_ikut": null,
     "url": "https://blog.indodax.com/kontak-resmi/",
     "is_new": false
-  },
-  {
-    "id": "973a4038de17a2f0",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "ASK ME ANYTHING bersama OneLink (ONL)!",
-    "ditemukan": "2026-10-14T05:32:19.368563+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/ask-me-anything-with-onl/",
-    "is_new": true
   },
   {
     "id": "8b2f3eb199fa8da7",
