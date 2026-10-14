@@ -216,16 +216,16 @@
     "is_new": false
   },
   {
-    "id": "7a366f40d377402f",
+    "id": "35de84ff10fee424",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
-    "judul": "New Fungo Labs",
-    "ditemukan": "2026-10-13T23:32:33.231666+00:00",
+    "judul": "Fungo Labs",
+    "ditemukan": "2026-10-14T20:32:35.392875+00:00",
     "deadline": null,
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/fungo-labs-activity1334",
-    "is_new": false
+    "is_new": true
   },
   {
     "id": "5f0cc66de6c9f7aa",
@@ -237,7 +237,7 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/fomies-activity1326",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "6cc7797f2155379c",
