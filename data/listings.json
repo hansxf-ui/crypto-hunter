@@ -1,5 +1,29 @@
 [
   {
+    "id": "f940ce5661ecc0ec",
+    "kategori": "listing",
+    "exchange": "Binance",
+    "judul": "Binance Will Add 4 bStocks Tokenized Securities as Collateral Asset - 2026-10-14",
+    "ditemukan": "2026-10-14T03:32:17.249509+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://www.binance.com/en/support/announcement/e52ef13311eb4e1a96f07099152e61d5",
+    "is_new": true
+  },
+  {
+    "id": "fd3d564fb58a7622",
+    "kategori": "listing",
+    "exchange": "Binance",
+    "judul": "Binance Exchange Adds Blackberry (BBB), Mongodb Inc (MDBB), Penguin Solutions Inc (PENGB) and ProShares Ultra VIX Short-Term Futures ETF (UVXYB) bStocks Trading Pairs on Binance Spot/Convert - 2026-10-14",
+    "ditemukan": "2026-10-14T03:32:17.249574+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://www.binance.com/en/support/announcement/927d3a7b5d6c43fb888e38f110005906",
+    "is_new": true
+  },
+  {
     "id": "428da749c9f2bd08",
     "kategori": "listing",
     "exchange": "Binance",
@@ -213,30 +237,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://www.binance.com/en/support/announcement/7379b99aa0f349a49c3b3feca1b4bbd6",
-    "is_new": false
-  },
-  {
-    "id": "3885737c118dd7f0",
-    "kategori": "listing",
-    "exchange": "Binance",
-    "judul": "Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-09-22",
-    "ditemukan": "2026-10-06T00:34:05.471120+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://www.binance.com/en/support/announcement/e92a42b474e344a69b620dcee1e9c987",
-    "is_new": false
-  },
-  {
-    "id": "d27440342fef4812",
-    "kategori": "listing",
-    "exchange": "Binance",
-    "judul": "Binance Adds 25 Stocks on Binance Stock Trading - 2026-09-21",
-    "ditemukan": "2026-10-06T00:34:05.471128+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://www.binance.com/en/support/announcement/a0adb246c4a24f108fd0d1f51dfd3d1d",
     "is_new": false
   },
   {
@@ -480,18 +480,6 @@
     "is_new": false
   },
   {
-    "id": "44d7571b17d00289",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "Ikut Buy & Hold ANOA Bisa Dapat Puluhan Juta Rupiah!",
-    "ditemukan": "2026-10-14T02:32:33.299387+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/buy-hold-anoa/",
-    "is_new": true
-  },
-  {
     "id": "42078a6154083b06",
     "kategori": "listing",
     "exchange": "Indodax",
@@ -718,6 +706,18 @@
     "cara_ikut": null,
     "url": "https://blog.indodax.com/ask-me-anything-with-onl/",
     "is_new": false
+  },
+  {
+    "id": "b4c36ae574295df3",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Perubahan Alamat Deposit Aset Kripto pada Jaringan Ethereum, Binance Smart Chain, Arbitrum, Base, Optimism dan Polygon",
+    "ditemukan": "2026-10-14T03:32:19.717718+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/perubahan-alamat-deposit-sep-2026/",
+    "is_new": true
   },
   {
     "id": "8b2f3eb199fa8da7",
