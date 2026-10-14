@@ -9,7 +9,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://www.binance.com/en/support/announcement/e52ef13311eb4e1a96f07099152e61d5",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "fd3d564fb58a7622",
@@ -21,7 +21,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://www.binance.com/en/support/announcement/927d3a7b5d6c43fb888e38f110005906",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "428da749c9f2bd08",
@@ -480,6 +480,30 @@
     "is_new": false
   },
   {
+    "id": "38cfc34ef598769e",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Update Terkait Migrasi Jaringan RAI Token (RAI) ERC20 ke Solana",
+    "ditemukan": "2026-10-14T04:32:19.944496+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/migration-rai/",
+    "is_new": true
+  },
+  {
+    "id": "44d7571b17d00289",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Ikut Buy & Hold ANOA Bisa Dapat Puluhan Juta Rupiah!",
+    "ditemukan": "2026-10-14T04:32:19.949941+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/buy-hold-anoa/",
+    "is_new": true
+  },
+  {
     "id": "42078a6154083b06",
     "kategori": "listing",
     "exchange": "Indodax",
@@ -694,30 +718,6 @@
     "cara_ikut": null,
     "url": "https://blog.indodax.com/kontak-resmi/",
     "is_new": false
-  },
-  {
-    "id": "973a4038de17a2f0",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "ASK ME ANYTHING bersama OneLink (ONL)!",
-    "ditemukan": "2026-09-30T13:28:54.735650+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/ask-me-anything-with-onl/",
-    "is_new": false
-  },
-  {
-    "id": "b4c36ae574295df3",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "Perubahan Alamat Deposit Aset Kripto pada Jaringan Ethereum, Binance Smart Chain, Arbitrum, Base, Optimism dan Polygon",
-    "ditemukan": "2026-10-14T03:32:19.717718+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/perubahan-alamat-deposit-sep-2026/",
-    "is_new": true
   },
   {
     "id": "8b2f3eb199fa8da7",
