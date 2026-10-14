@@ -33,7 +33,7 @@
     "reward": "Points",
     "cara_ikut": "Cost : $ 100 Time : 40 min Trading · Confirmed Oct 14, 2026 · Raise -",
     "url": "https://cryptorank.io/drophunting/blackboard-activity1373",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "29b121ebc891a176",
@@ -69,18 +69,6 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/rafa-finance-activity1372",
-    "is_new": false
-  },
-  {
-    "id": "2a819f5255cab5fe",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "MindGamesAI",
-    "ditemukan": "2026-10-14T15:32:21.651072+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise -",
-    "url": "https://cryptorank.io/drophunting/mindgames-ai-activity1315",
     "is_new": false
   },
   {
@@ -238,6 +226,18 @@
     "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/fungo-labs-activity1334",
     "is_new": false
+  },
+  {
+    "id": "5f0cc66de6c9f7aa",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Fomies",
+    "ditemukan": "2026-10-14T18:32:36.168012+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise -",
+    "url": "https://cryptorank.io/drophunting/fomies-activity1326",
+    "is_new": true
   },
   {
     "id": "6cc7797f2155379c",
@@ -504,15 +504,15 @@
     "is_new": false
   },
   {
-    "id": "9a70d441452dea92",
+    "id": "ca7369ad81f2461d",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
-    "judul": "Jumper Exchange",
-    "ditemukan": "2026-10-07T13:33:13.168107+00:00",
+    "judul": "Cambria",
+    "ditemukan": "2026-10-08T12:32:21.971766+00:00",
     "deadline": null,
     "reward": null,
-    "cara_ikut": "Ongoing — Make Swaps to Collect XPs",
-    "url": "https://airdrops.io/jumper-exchange/",
+    "cara_ikut": "Ongoing, Confirmed — Claim free Loot, Play the game",
+    "url": "https://airdrops.io/cambria/",
     "is_new": false
   },
   {
@@ -528,15 +528,15 @@
     "is_new": false
   },
   {
-    "id": "ca7369ad81f2461d",
+    "id": "9a70d441452dea92",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
-    "judul": "Cambria",
-    "ditemukan": "2026-10-08T12:32:21.971766+00:00",
+    "judul": "Jumper Exchange",
+    "ditemukan": "2026-10-07T13:33:13.168107+00:00",
     "deadline": null,
     "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Claim free Loot, Play the game",
-    "url": "https://airdrops.io/cambria/",
+    "cara_ikut": "Ongoing — Make Swaps to Collect XPs",
+    "url": "https://airdrops.io/jumper-exchange/",
     "is_new": false
   }
 ]
