@@ -24,6 +24,30 @@
     "is_new": false
   },
   {
+    "id": "b65ddec9da390b0d",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Quip Network QUIP",
+    "ditemukan": "2026-10-15T15:32:22.140580+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "Mainnet, Trading + 5 · Confirmed Oct 15, 2026 · Raise -",
+    "url": "https://cryptorank.io/drophunting/quip-network-activity1093",
+    "is_new": true
+  },
+  {
+    "id": "b97a116b9c1f9621",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Upd VOICE",
+    "ditemukan": "2026-10-15T15:32:22.140662+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "Social + 4 · Potential Oct 15, 2026 · Raise -",
+    "url": "https://cryptorank.io/drophunting/voice-activity1288",
+    "is_new": true
+  },
+  {
     "id": "d3bfb42f2b4d3cf2",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
@@ -36,16 +60,16 @@
     "is_new": false
   },
   {
-    "id": "65e70296a75ea933",
+    "id": "75d60a7ed97f8d22",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
-    "judul": "Upd Axis Robotics AXIS",
-    "ditemukan": "2026-10-15T13:32:25.372219+00:00",
+    "judul": "Axis Robotics AXIS",
+    "ditemukan": "2026-10-15T15:32:22.140862+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "Bounty Platforms + 4 · Confirmed Oct 15, 2026 · Raise $ 14.39M + 1",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise $ 14.39M + 1",
     "url": "https://cryptorank.io/drophunting/axis-ai-activity1105",
-    "is_new": false
+    "is_new": true
   },
   {
     "id": "18d25c40c365a904",
@@ -54,8 +78,8 @@
     "judul": "New Blackboard",
     "ditemukan": "2026-10-14T16:32:21.381372+00:00",
     "deadline": null,
-    "reward": "Points",
-    "cara_ikut": "Trading · Confirmed Oct 14, 2026 · Raise -",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/blackboard-activity1373",
     "is_new": false
   },
@@ -213,30 +237,6 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/amadeus-protocol-activity1274",
-    "is_new": false
-  },
-  {
-    "id": "b7e4c905b925d05d",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Incentiv CENT",
-    "ditemukan": "2026-10-13T23:32:33.231568+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise $ 28.10M",
-    "url": "https://cryptorank.io/drophunting/incentiv-activity669",
-    "is_new": false
-  },
-  {
-    "id": "35de84ff10fee424",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Fungo Labs",
-    "ditemukan": "2026-10-14T20:32:35.392875+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise -",
-    "url": "https://cryptorank.io/drophunting/fungo-labs-activity1334",
     "is_new": false
   },
   {
@@ -504,18 +504,6 @@
     "is_new": false
   },
   {
-    "id": "ca7369ad81f2461d",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Cambria",
-    "ditemukan": "2026-10-08T12:32:21.971766+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Claim free Loot, Play the game",
-    "url": "https://airdrops.io/cambria/",
-    "is_new": false
-  },
-  {
     "id": "1ecf7f4a7417e783",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -528,6 +516,18 @@
     "is_new": false
   },
   {
+    "id": "ca7369ad81f2461d",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Cambria",
+    "ditemukan": "2026-10-08T12:32:21.971766+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Claim free Loot, Play the game",
+    "url": "https://airdrops.io/cambria/",
+    "is_new": false
+  },
+  {
     "id": "a87b929d3d009c14",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -537,6 +537,6 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Sign Up, Complete Core Tasks and Mint VOICY Pass",
     "url": "https://airdrops.io/voice/",
-    "is_new": true
+    "is_new": false
   }
 ]
