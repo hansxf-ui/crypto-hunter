@@ -33,7 +33,7 @@
     "reward": "Whitelist/Waitlist",
     "cara_ikut": "Fill The Form · Confirmed Oct 15, 2026 · Raise -",
     "url": "https://cryptorank.io/drophunting/minehood-activity1407",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "6c6a236859db7b58",
@@ -45,7 +45,7 @@
     "reward": "Whitelist/Waitlist",
     "cara_ikut": "Fill The Form · Potential Oct 15, 2026 · Raise -",
     "url": "https://cryptorank.io/drophunting/embervale-activity1406",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "44bd7ba129c4a14a",
@@ -57,7 +57,7 @@
     "reward": "Airdrop",
     "cara_ikut": "Gaming + 2 · Potential Oct 15, 2026 · Raise $ 7.65M + 11",
     "url": "https://cryptorank.io/drophunting/bullshot-activity1097",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "b65ddec9da390b0d",
@@ -81,7 +81,7 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/voice-activity1288",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "d3bfb42f2b4d3cf2",
@@ -432,6 +432,18 @@
     "is_new": false
   },
   {
+    "id": "2d3a6a79ade998cc",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Amadeus Protocol",
+    "ditemukan": "2026-10-05T12:32:22.856993+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Create Wallet, Complete Check-In, Finish Social Tasks",
+    "url": "https://airdrops.io/amadeus-protocol/",
+    "is_new": false
+  },
+  {
     "id": "0dc45de9d5495455",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -453,18 +465,6 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Sign up & Deposit USDC",
     "url": "https://airdrops.io/bulk/",
-    "is_new": false
-  },
-  {
-    "id": "2d3a6a79ade998cc",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Amadeus Protocol",
-    "ditemukan": "2026-10-05T12:32:22.856993+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Create Wallet, Complete Check-In, Finish Social Tasks",
-    "url": "https://airdrops.io/amadeus-protocol/",
     "is_new": false
   },
   {
@@ -528,15 +528,15 @@
     "is_new": false
   },
   {
-    "id": "a87b929d3d009c14",
+    "id": "9a70d441452dea92",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
-    "judul": "VOICE",
-    "ditemukan": "2026-10-15T14:32:29.781724+00:00",
+    "judul": "Jumper Exchange",
+    "ditemukan": "2026-10-15T17:32:35.343019+00:00",
     "deadline": null,
     "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Sign Up, Complete Core Tasks and Mint VOICY Pass",
-    "url": "https://airdrops.io/voice/",
-    "is_new": false
+    "cara_ikut": "Ongoing — Make Swaps to Collect XPs",
+    "url": "https://airdrops.io/jumper-exchange/",
+    "is_new": true
   }
 ]
