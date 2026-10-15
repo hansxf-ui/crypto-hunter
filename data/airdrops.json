@@ -24,26 +24,62 @@
     "is_new": false
   },
   {
+    "id": "745ed8da71637558",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "New Minehood",
+    "ditemukan": "2026-10-15T16:32:22.807093+00:00",
+    "deadline": null,
+    "reward": "Whitelist/Waitlist",
+    "cara_ikut": "Fill The Form · Confirmed Oct 15, 2026 · Raise -",
+    "url": "https://cryptorank.io/drophunting/minehood-activity1407",
+    "is_new": true
+  },
+  {
+    "id": "6c6a236859db7b58",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "New Embervale",
+    "ditemukan": "2026-10-15T16:32:22.807170+00:00",
+    "deadline": null,
+    "reward": "Whitelist/Waitlist",
+    "cara_ikut": "Fill The Form · Potential Oct 15, 2026 · Raise -",
+    "url": "https://cryptorank.io/drophunting/embervale-activity1406",
+    "is_new": true
+  },
+  {
+    "id": "44bd7ba129c4a14a",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Bullshot BULL",
+    "ditemukan": "2026-10-15T16:32:22.807257+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "Gaming + 2 · Potential Oct 15, 2026 · Raise $ 7.65M + 11",
+    "url": "https://cryptorank.io/drophunting/bullshot-activity1097",
+    "is_new": true
+  },
+  {
     "id": "b65ddec9da390b0d",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
     "judul": "Quip Network QUIP",
     "ditemukan": "2026-10-15T15:32:22.140580+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "Mainnet, Trading + 5 · Confirmed Oct 15, 2026 · Raise -",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/quip-network-activity1093",
-    "is_new": true
+    "is_new": false
   },
   {
-    "id": "b97a116b9c1f9621",
+    "id": "1f6a0295ee93e467",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
-    "judul": "Upd VOICE",
-    "ditemukan": "2026-10-15T15:32:22.140662+00:00",
+    "judul": "VOICE",
+    "ditemukan": "2026-10-15T16:32:22.807440+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "Social + 4 · Potential Oct 15, 2026 · Raise -",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/voice-activity1288",
     "is_new": true
   },
@@ -54,8 +90,8 @@
     "judul": "NeoSoul",
     "ditemukan": "2026-10-15T13:32:25.372122+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "No active tasks · Verification Oct 15, 2026 · Raise $ 11.00M + 3",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise $ 11.00M + 3",
     "url": "https://cryptorank.io/drophunting/neo-soul-activity1278",
     "is_new": false
   },
@@ -69,7 +105,7 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise $ 14.39M + 1",
     "url": "https://cryptorank.io/drophunting/axis-ai-activity1105",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "18d25c40c365a904",
@@ -201,42 +237,6 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/noah-ai-activity1165",
-    "is_new": false
-  },
-  {
-    "id": "20ea5b9121decef3",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "New Proto",
-    "ditemukan": "2026-10-13T23:32:33.231265+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise -",
-    "url": "https://cryptorank.io/drophunting/proto-xyz-activity1339",
-    "is_new": false
-  },
-  {
-    "id": "9ddc95bf506ceffe",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "TxFlow",
-    "ditemukan": "2026-10-13T23:32:33.231367+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise -",
-    "url": "https://cryptorank.io/drophunting/txflow-activity1231",
-    "is_new": false
-  },
-  {
-    "id": "779e25d6785ca5b1",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Amadeus Protocol",
-    "ditemukan": "2026-10-13T23:32:33.231465+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise -",
-    "url": "https://cryptorank.io/drophunting/amadeus-protocol-activity1274",
     "is_new": false
   },
   {
