@@ -480,18 +480,6 @@
     "is_new": false
   },
   {
-    "id": "721f41b89089b29e",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "Diskon Frame hingga 30%, Diskon Lensa 15%, plus Layanan Gratis di Optik Kasoem",
-    "ditemukan": "2026-10-15T10:32:17.600429+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/diskon-frame-di-optik-kasoem/",
-    "is_new": true
-  },
-  {
     "id": "5816c0dd1d6d7a0d",
     "kategori": "listing",
     "exchange": "Indodax",
@@ -718,6 +706,18 @@
     "cara_ikut": null,
     "url": "https://blog.indodax.com/listing-marscoin/",
     "is_new": false
+  },
+  {
+    "id": "07fb2eb130a4c517",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Penurunan Biaya CFX",
+    "ditemukan": "2026-10-15T11:32:18.233746+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/penurunan-biaya-cfx-1-okt-2026/",
+    "is_new": true
   },
   {
     "id": "8b2f3eb199fa8da7",
