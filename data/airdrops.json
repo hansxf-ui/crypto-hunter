@@ -33,7 +33,7 @@
     "reward": "Airdrop",
     "cara_ikut": "No active tasks · Verification Oct 15, 2026 · Raise $ 11.00M + 3",
     "url": "https://cryptorank.io/drophunting/neo-soul-activity1278",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "65e70296a75ea933",
@@ -45,7 +45,7 @@
     "reward": "Airdrop",
     "cara_ikut": "Bounty Platforms + 4 · Confirmed Oct 15, 2026 · Raise $ 14.39M + 1",
     "url": "https://cryptorank.io/drophunting/axis-ai-activity1105",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "18d25c40c365a904",
@@ -81,7 +81,7 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise $ 30.00M + 13",
     "url": "https://cryptorank.io/drophunting/d-3-global-activity662",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "8d4b15398bfbdb3d",
@@ -444,18 +444,6 @@
     "is_new": false
   },
   {
-    "id": "2d3a6a79ade998cc",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Amadeus Protocol",
-    "ditemukan": "2026-10-05T12:32:22.856993+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Create Wallet, Complete Check-In, Finish Social Tasks",
-    "url": "https://airdrops.io/amadeus-protocol/",
-    "is_new": false
-  },
-  {
     "id": "896f6dd235a6c5b8",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -465,6 +453,18 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Sign up & Deposit USDC",
     "url": "https://airdrops.io/bulk/",
+    "is_new": false
+  },
+  {
+    "id": "2d3a6a79ade998cc",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Amadeus Protocol",
+    "ditemukan": "2026-10-05T12:32:22.856993+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Create Wallet, Complete Check-In, Finish Social Tasks",
+    "url": "https://airdrops.io/amadeus-protocol/",
     "is_new": false
   },
   {
@@ -528,15 +528,15 @@
     "is_new": false
   },
   {
-    "id": "9a70d441452dea92",
+    "id": "a87b929d3d009c14",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
-    "judul": "Jumper Exchange",
-    "ditemukan": "2026-10-07T13:33:13.168107+00:00",
+    "judul": "VOICE",
+    "ditemukan": "2026-10-15T14:32:29.781724+00:00",
     "deadline": null,
     "reward": null,
-    "cara_ikut": "Ongoing — Make Swaps to Collect XPs",
-    "url": "https://airdrops.io/jumper-exchange/",
-    "is_new": false
+    "cara_ikut": "Ongoing, Confirmed — Sign Up, Complete Core Tasks and Mint VOICY Pass",
+    "url": "https://airdrops.io/voice/",
+    "is_new": true
   }
 ]
