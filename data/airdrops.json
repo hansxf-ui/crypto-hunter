@@ -7,7 +7,7 @@
     "ditemukan": "2026-10-13T23:32:33.229911+00:00",
     "deadline": null,
     "reward": "Points",
-    "cara_ikut": "Cost : $ 60 Time : 25 min Mainnet, Trading · Confirmed Oct 15, 2026 · Raise $ 2.00M + 16",
+    "cara_ikut": "Mainnet, Trading · Confirmed Oct 15, 2026 · Raise $ 2.00M + 16",
     "url": "https://cryptorank.io/drophunting/ekiden-activity1207",
     "is_new": false
   },
@@ -19,9 +19,33 @@
     "ditemukan": "2026-10-13T23:32:33.230090+00:00",
     "deadline": null,
     "reward": "Airdrop",
-    "cara_ikut": "Cost : $ 0 Time : 10 min Wallet Airdrop Status + 2 · Confirmed Oct 15, 2026 · Raise $ 8.00M",
+    "cara_ikut": "Wallet Airdrop Status + 2 · Confirmed Oct 15, 2026 · Raise $ 8.00M",
     "url": "https://cryptorank.io/drophunting/ecash-drivechains-activity1307",
     "is_new": false
+  },
+  {
+    "id": "d3bfb42f2b4d3cf2",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "NeoSoul",
+    "ditemukan": "2026-10-15T13:32:25.372122+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "No active tasks · Verification Oct 15, 2026 · Raise $ 11.00M + 3",
+    "url": "https://cryptorank.io/drophunting/neo-soul-activity1278",
+    "is_new": true
+  },
+  {
+    "id": "65e70296a75ea933",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Upd Axis Robotics AXIS",
+    "ditemukan": "2026-10-15T13:32:25.372219+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "Bounty Platforms + 4 · Confirmed Oct 15, 2026 · Raise $ 14.39M + 1",
+    "url": "https://cryptorank.io/drophunting/axis-ai-activity1105",
+    "is_new": true
   },
   {
     "id": "18d25c40c365a904",
@@ -31,7 +55,7 @@
     "ditemukan": "2026-10-14T16:32:21.381372+00:00",
     "deadline": null,
     "reward": "Points",
-    "cara_ikut": "Cost : $ 100 Time : 40 min Trading · Confirmed Oct 14, 2026 · Raise -",
+    "cara_ikut": "Trading · Confirmed Oct 14, 2026 · Raise -",
     "url": "https://cryptorank.io/drophunting/blackboard-activity1373",
     "is_new": false
   },
@@ -42,22 +66,22 @@
     "judul": "Nuva Finance NUVA",
     "ditemukan": "2026-10-14T15:32:21.650660+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "Cost : $ 100 Time : 6 min Hold, Liquidity + 3 · Confirmed Oct 14, 2026 · Raise $ 5.20M",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise $ 5.20M",
     "url": "https://cryptorank.io/drophunting/nuva-finance-activity991",
     "is_new": false
   },
   {
-    "id": "31fe3c4607d3850e",
+    "id": "8a5134186b5164b3",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
-    "judul": "Upd D3",
-    "ditemukan": "2026-10-14T15:32:21.650850+00:00",
+    "judul": "D3",
+    "ditemukan": "2026-10-15T13:32:25.372483+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "Cost : $ 55 Time : 69 min Mainnet, Mint Domain + 9 · Potential Oct 14, 2026 · Raise $ 30.00M + 13",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise $ 30.00M + 13",
     "url": "https://cryptorank.io/drophunting/d-3-global-activity662",
-    "is_new": false
+    "is_new": true
   },
   {
     "id": "8d4b15398bfbdb3d",
@@ -144,18 +168,6 @@
     "is_new": false
   },
   {
-    "id": "75d60a7ed97f8d22",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Axis Robotics AXIS",
-    "ditemukan": "2026-10-13T23:32:33.231054+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise $ 14.39M + 1",
-    "url": "https://cryptorank.io/drophunting/axis-ai-activity1105",
-    "is_new": false
-  },
-  {
     "id": "c8183613385aeef0",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
@@ -225,18 +237,6 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/fungo-labs-activity1334",
-    "is_new": false
-  },
-  {
-    "id": "5f0cc66de6c9f7aa",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Fomies",
-    "ditemukan": "2026-10-14T18:32:36.168012+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise -",
-    "url": "https://cryptorank.io/drophunting/fomies-activity1326",
     "is_new": false
   },
   {
@@ -456,18 +456,6 @@
     "is_new": false
   },
   {
-    "id": "b2c900f4ac3ab494",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Variational",
-    "ditemukan": "2026-10-07T13:33:13.168056+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Trade perps & refer friends",
-    "url": "https://airdrops.io/variational/",
-    "is_new": false
-  },
-  {
     "id": "896f6dd235a6c5b8",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -477,6 +465,18 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Sign up & Deposit USDC",
     "url": "https://airdrops.io/bulk/",
+    "is_new": false
+  },
+  {
+    "id": "b2c900f4ac3ab494",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Variational",
+    "ditemukan": "2026-10-07T13:33:13.168056+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Trade perps & refer friends",
+    "url": "https://airdrops.io/variational/",
     "is_new": false
   },
   {
@@ -504,6 +504,18 @@
     "is_new": false
   },
   {
+    "id": "ca7369ad81f2461d",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Cambria",
+    "ditemukan": "2026-10-08T12:32:21.971766+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Claim free Loot, Play the game",
+    "url": "https://airdrops.io/cambria/",
+    "is_new": false
+  },
+  {
     "id": "1ecf7f4a7417e783",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -525,18 +537,6 @@
     "reward": null,
     "cara_ikut": "Ongoing — Make Swaps to Collect XPs",
     "url": "https://airdrops.io/jumper-exchange/",
-    "is_new": false
-  },
-  {
-    "id": "ca7369ad81f2461d",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Cambria",
-    "ditemukan": "2026-10-08T12:32:21.971766+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Claim free Loot, Play the game",
-    "url": "https://airdrops.io/cambria/",
     "is_new": false
   }
 ]
