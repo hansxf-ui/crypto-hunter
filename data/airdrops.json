@@ -33,7 +33,7 @@
     "reward": "Airdrop",
     "cara_ikut": "Mainnet, Social + 8 · Potential Oct 16, 2026 · Raise $ 1.50M + 2",
     "url": "https://cryptorank.io/drophunting/renaiss-protocol-activity1003",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "c517363104c24e58",
@@ -45,7 +45,7 @@
     "reward": "Whitelist/Waitlist",
     "cara_ikut": "No active tasks · Potential Oct 16, 2026 · Raise -",
     "url": "https://cryptorank.io/drophunting/hollywood-hills-activity1331",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "327dc64465e7b354",
@@ -57,7 +57,7 @@
     "reward": "Airdrop",
     "cara_ikut": "Staking, Trading + 8 · Confirmed Oct 16, 2026 · Raise $ 172.50M",
     "url": "https://cryptorank.io/drophunting/jupiter-stattion-activity486",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "c3b3f7de98b6f168",
@@ -69,7 +69,7 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise $ 22.00M + 21",
     "url": "https://cryptorank.io/drophunting/fhenix-activity211",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "745ed8da71637558",
@@ -504,18 +504,6 @@
     "is_new": false
   },
   {
-    "id": "ca7369ad81f2461d",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Cambria",
-    "ditemukan": "2026-10-08T12:32:21.971766+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Claim free Loot, Play the game",
-    "url": "https://airdrops.io/cambria/",
-    "is_new": false
-  },
-  {
     "id": "1ecf7f4a7417e783",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -525,6 +513,18 @@
     "reward": null,
     "cara_ikut": "Ongoing — Join Mainnet Activities",
     "url": "https://airdrops.io/arc/",
+    "is_new": false
+  },
+  {
+    "id": "ca7369ad81f2461d",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Cambria",
+    "ditemukan": "2026-10-08T12:32:21.971766+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Claim free Loot, Play the game",
+    "url": "https://airdrops.io/cambria/",
     "is_new": false
   },
   {
