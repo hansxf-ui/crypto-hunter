@@ -480,6 +480,18 @@
     "is_new": false
   },
   {
+    "id": "199b06df2528e069",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "LOYALTY PROMO MINGGU INI! (15 Oktober 2026)",
+    "ditemukan": "2026-10-16T03:32:23.878958+00:00",
+    "deadline": "2026-10-15T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/loyalty-promo-15-oktober-2026/",
+    "is_new": true
+  },
+  {
     "id": "721f41b89089b29e",
     "kategori": "listing",
     "exchange": "Indodax",
@@ -708,18 +720,6 @@
     "is_new": false
   },
   {
-    "id": "f798e32049c53a09",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "MarsCoin (MARSCOIN) Listing di INDODAX",
-    "ditemukan": "2026-09-30T13:28:54.734937+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/listing-marscoin/",
-    "is_new": false
-  },
-  {
     "id": "8b2f3eb199fa8da7",
     "kategori": "listing",
     "exchange": "Indodax",
@@ -744,24 +744,12 @@
     "is_new": false
   },
   {
-    "id": "91e6ff44e82fb813",
-    "kategori": "listing",
-    "exchange": "Pintu",
-    "judul": "Pintu Listing Aset Tokenized Baru, 15 Oktober 2026",
-    "ditemukan": "2026-10-16T02:32:47.894185+00:00",
-    "deadline": "2026-10-15T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://pintu.co.id/blog/pintu-listing-aset-tokenized-baru-15oktober2026",
-    "is_new": true
-  },
-  {
     "id": "4c55d7f756c1d7c9",
     "kategori": "listing",
     "exchange": "Pintu",
     "judul": "Pengumuman: Delisting Token BLAST di Pintu",
     "ditemukan": "2026-10-09T02:32:23.275964+00:00",
-    "deadline": "2026-10-15T00:00:00",
+    "deadline": "2026-10-07T00:00:00",
     "reward": null,
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/pengumuman-delisting-token-blast-di-pintu",
@@ -862,5 +850,17 @@
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/pintu-listing-10-aset-tokenized-baru-17september2026",
     "is_new": false
+  },
+  {
+    "id": "5076208c3093fbcc",
+    "kategori": "listing",
+    "exchange": "Pintu",
+    "judul": "Pengumuman: Informasi Aset Delisting di Wallet Pintu",
+    "ditemukan": "2026-10-16T03:32:25.382237+00:00",
+    "deadline": "2026-09-17T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://pintu.co.id/blog/informasi-aset-delisting-di-akun-kamu",
+    "is_new": true
   }
 ]
