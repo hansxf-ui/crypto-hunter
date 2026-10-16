@@ -480,18 +480,6 @@
     "is_new": false
   },
   {
-    "id": "199b06df2528e069",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "LOYALTY PROMO MINGGU INI! (15 Oktober 2026)",
-    "ditemukan": "2026-10-16T03:32:23.878958+00:00",
-    "deadline": "2026-10-15T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/loyalty-promo-15-oktober-2026/",
-    "is_new": true
-  },
-  {
     "id": "721f41b89089b29e",
     "kategori": "listing",
     "exchange": "Indodax",
@@ -720,6 +708,18 @@
     "is_new": false
   },
   {
+    "id": "f798e32049c53a09",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "MarsCoin (MARSCOIN) Listing di INDODAX",
+    "ditemukan": "2026-10-16T04:32:18.443443+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/listing-marscoin/",
+    "is_new": true
+  },
+  {
     "id": "8b2f3eb199fa8da7",
     "kategori": "listing",
     "exchange": "Indodax",
@@ -861,6 +861,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/informasi-aset-delisting-di-akun-kamu",
-    "is_new": true
+    "is_new": false
   }
 ]
