@@ -480,6 +480,30 @@
     "is_new": false
   },
   {
+    "id": "e1a9e2068b05e086",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Rebranding dan Migrasi Augur (REP) ke Augur (AUGUR)",
+    "ditemukan": "2026-10-16T10:32:14.586513+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/rebranding-migration-augur/",
+    "is_new": true
+  },
+  {
+    "id": "1d81b2cb7bbd5b3d",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Kartu Co-Brand Bank INA x INDODAX",
+    "ditemukan": "2026-10-16T10:32:14.592111+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/binadigital-indodax/",
+    "is_new": true
+  },
+  {
     "id": "593d902924885a32",
     "kategori": "listing",
     "exchange": "Indodax",
@@ -696,30 +720,6 @@
     "is_new": false
   },
   {
-    "id": "b86b9e059b00ffbf",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "Mulai Investasi Kripto &#038; Dapatkan 100% Cashback hingga Rp100.000 di INDODAX!",
-    "ditemukan": "2026-10-01T06:32:11.577933+00:00",
-    "deadline": "2026-01-10T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/cashback-btc-okt26/",
-    "is_new": false
-  },
-  {
-    "id": "1f5f627790af8188",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "Install & Review INDODAX 3.0, Menangkan Total Hadiah Rp3.000.000 dalam Bentuk USDT!",
-    "ditemukan": "2026-10-01T06:32:11.578219+00:00",
-    "deadline": "2026-01-10T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/install-review-okt26/",
-    "is_new": false
-  },
-  {
     "id": "8b2f3eb199fa8da7",
     "kategori": "listing",
     "exchange": "Indodax",
@@ -861,6 +861,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/informasi-aset-delisting-di-akun-kamu",
-    "is_new": true
+    "is_new": false
   }
 ]
