@@ -480,6 +480,30 @@
     "is_new": false
   },
   {
+    "id": "593d902924885a32",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Update Perubahan Contract Address Aset Kripto Kite (KITE)",
+    "ditemukan": "2026-10-16T05:32:21.498121+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/update-perubahan-contract-address-kite/",
+    "is_new": true
+  },
+  {
+    "id": "199b06df2528e069",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "LOYALTY PROMO MINGGU INI! (15 Oktober 2026)",
+    "ditemukan": "2026-10-16T05:32:21.505197+00:00",
+    "deadline": "2026-10-15T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/loyalty-promo-15-oktober-2026/",
+    "is_new": true
+  },
+  {
     "id": "721f41b89089b29e",
     "kategori": "listing",
     "exchange": "Indodax",
@@ -694,30 +718,6 @@
     "cara_ikut": null,
     "url": "https://blog.indodax.com/install-review-okt26/",
     "is_new": false
-  },
-  {
-    "id": "80360633d8419c3b",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "Update Terkait Migrasi Jaringan Vanar Chain (VANRY) ERC20 ke BASE",
-    "ditemukan": "2026-09-30T13:28:54.730828+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/update-migrasi-jaringan-vanar-chain-vanry/",
-    "is_new": false
-  },
-  {
-    "id": "f798e32049c53a09",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "MarsCoin (MARSCOIN) Listing di INDODAX",
-    "ditemukan": "2026-10-16T04:32:18.443443+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/listing-marscoin/",
-    "is_new": true
   },
   {
     "id": "8b2f3eb199fa8da7",
