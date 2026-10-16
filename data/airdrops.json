@@ -24,14 +24,62 @@
     "is_new": false
   },
   {
+    "id": "4dd9138ecffc7177",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Renaiss Protocol",
+    "ditemukan": "2026-10-16T14:32:21.595821+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "Mainnet, Social + 8 · Potential Oct 16, 2026 · Raise $ 1.50M + 2",
+    "url": "https://cryptorank.io/drophunting/renaiss-protocol-activity1003",
+    "is_new": true
+  },
+  {
+    "id": "c517363104c24e58",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Upd Hollywood Hills",
+    "ditemukan": "2026-10-16T14:32:21.596238+00:00",
+    "deadline": null,
+    "reward": "Whitelist/Waitlist",
+    "cara_ikut": "No active tasks · Potential Oct 16, 2026 · Raise -",
+    "url": "https://cryptorank.io/drophunting/hollywood-hills-activity1331",
+    "is_new": true
+  },
+  {
+    "id": "327dc64465e7b354",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Upd Jupiter JUP",
+    "ditemukan": "2026-10-16T14:32:21.596749+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "Staking, Trading + 8 · Confirmed Oct 16, 2026 · Raise $ 172.50M",
+    "url": "https://cryptorank.io/drophunting/jupiter-stattion-activity486",
+    "is_new": true
+  },
+  {
+    "id": "c3b3f7de98b6f168",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Fhenix",
+    "ditemukan": "2026-10-16T14:32:21.597148+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise $ 22.00M + 21",
+    "url": "https://cryptorank.io/drophunting/fhenix-activity211",
+    "is_new": true
+  },
+  {
     "id": "745ed8da71637558",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
     "judul": "New Minehood",
     "ditemukan": "2026-10-15T16:32:22.807093+00:00",
     "deadline": null,
-    "reward": "Whitelist/Waitlist",
-    "cara_ikut": "Fill The Form · Confirmed Oct 15, 2026 · Raise -",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/minehood-activity1407",
     "is_new": false
   },
@@ -42,8 +90,8 @@
     "judul": "New Embervale",
     "ditemukan": "2026-10-15T16:32:22.807170+00:00",
     "deadline": null,
-    "reward": "Whitelist/Waitlist",
-    "cara_ikut": "Fill The Form · Potential Oct 15, 2026 · Raise -",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/embervale-activity1406",
     "is_new": false
   },
@@ -54,8 +102,8 @@
     "judul": "Bullshot BULL",
     "ditemukan": "2026-10-15T16:32:22.807257+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "Gaming + 2 · Potential Oct 15, 2026 · Raise $ 7.65M + 11",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise $ 7.65M + 11",
     "url": "https://cryptorank.io/drophunting/bullshot-activity1097",
     "is_new": false
   },
@@ -180,18 +228,6 @@
     "is_new": false
   },
   {
-    "id": "675c1e4387b9a76d",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Jupiter JUP",
-    "ditemukan": "2026-10-14T15:32:21.651444+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise $ 172.50M",
-    "url": "https://cryptorank.io/drophunting/jupiter-stattion-activity486",
-    "is_new": false
-  },
-  {
     "id": "0b7febe2382b68d2",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
@@ -201,42 +237,6 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/predict-fun-activity1019",
-    "is_new": false
-  },
-  {
-    "id": "8c4e82d9c3bf25d6",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Neura USN",
-    "ditemukan": "2026-10-13T23:32:33.230776+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise -",
-    "url": "https://cryptorank.io/drophunting/neura-activity156",
-    "is_new": false
-  },
-  {
-    "id": "343e105b5df966c9",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "TBook",
-    "ditemukan": "2026-10-13T23:32:33.230917+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise $ 10.00M + 7",
-    "url": "https://cryptorank.io/drophunting/tbook-activity974",
-    "is_new": false
-  },
-  {
-    "id": "c8183613385aeef0",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Noah AI",
-    "ditemukan": "2026-10-13T23:32:33.231150+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise -",
-    "url": "https://cryptorank.io/drophunting/noah-ai-activity1165",
     "is_new": false
   },
   {
@@ -432,6 +432,18 @@
     "is_new": false
   },
   {
+    "id": "2d3a6a79ade998cc",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Amadeus Protocol",
+    "ditemukan": "2026-10-05T12:32:22.856993+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Create Wallet, Complete Check-In, Finish Social Tasks",
+    "url": "https://airdrops.io/amadeus-protocol/",
+    "is_new": false
+  },
+  {
     "id": "0dc45de9d5495455",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -453,18 +465,6 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Sign up & Deposit USDC",
     "url": "https://airdrops.io/bulk/",
-    "is_new": false
-  },
-  {
-    "id": "2d3a6a79ade998cc",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Amadeus Protocol",
-    "ditemukan": "2026-10-05T12:32:22.856993+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Create Wallet, Complete Check-In, Finish Social Tasks",
-    "url": "https://airdrops.io/amadeus-protocol/",
     "is_new": false
   },
   {
@@ -504,18 +504,6 @@
     "is_new": false
   },
   {
-    "id": "1ecf7f4a7417e783",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Arc",
-    "ditemukan": "2026-10-08T11:32:50.052676+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Join Mainnet Activities",
-    "url": "https://airdrops.io/arc/",
-    "is_new": false
-  },
-  {
     "id": "ca7369ad81f2461d",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -525,6 +513,18 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Claim free Loot, Play the game",
     "url": "https://airdrops.io/cambria/",
+    "is_new": false
+  },
+  {
+    "id": "1ecf7f4a7417e783",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Arc",
+    "ditemukan": "2026-10-08T11:32:50.052676+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Join Mainnet Activities",
+    "url": "https://airdrops.io/arc/",
     "is_new": false
   },
   {
