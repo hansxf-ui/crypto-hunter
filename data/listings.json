@@ -744,12 +744,24 @@
     "is_new": false
   },
   {
+    "id": "91e6ff44e82fb813",
+    "kategori": "listing",
+    "exchange": "Pintu",
+    "judul": "Pintu Listing Aset Tokenized Baru, 15 Oktober 2026",
+    "ditemukan": "2026-10-17T08:32:20.127641+00:00",
+    "deadline": "2026-10-15T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://pintu.co.id/blog/pintu-listing-aset-tokenized-baru-15oktober2026",
+    "is_new": true
+  },
+  {
     "id": "4c55d7f756c1d7c9",
     "kategori": "listing",
     "exchange": "Pintu",
     "judul": "Pengumuman: Delisting Token BLAST di Pintu",
     "ditemukan": "2026-10-09T02:32:23.275964+00:00",
-    "deadline": "2026-10-07T00:00:00",
+    "deadline": "2026-10-15T00:00:00",
     "reward": null,
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/pengumuman-delisting-token-blast-di-pintu",
@@ -850,17 +862,5 @@
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/pintu-listing-10-aset-tokenized-baru-17september2026",
     "is_new": false
-  },
-  {
-    "id": "5076208c3093fbcc",
-    "kategori": "listing",
-    "exchange": "Pintu",
-    "judul": "Pengumuman: Informasi Aset Delisting di Wallet Pintu",
-    "ditemukan": "2026-10-17T07:32:18.639324+00:00",
-    "deadline": "2026-09-17T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://pintu.co.id/blog/informasi-aset-delisting-di-akun-kamu",
-    "is_new": true
   }
 ]
