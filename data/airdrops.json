@@ -408,18 +408,6 @@
     "is_new": false
   },
   {
-    "id": "f1a1a8661356f909",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Ink",
-    "ditemukan": "2026-10-07T13:33:13.167950+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Trade on Kraken Pro & Interact with Dapps",
-    "url": "https://airdrops.io/ink-chain/",
-    "is_new": false
-  },
-  {
     "id": "378fa86420d03957",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -432,18 +420,6 @@
     "is_new": false
   },
   {
-    "id": "2d3a6a79ade998cc",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Amadeus Protocol",
-    "ditemukan": "2026-10-05T12:32:22.856993+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Create Wallet, Complete Check-In, Finish Social Tasks",
-    "url": "https://airdrops.io/amadeus-protocol/",
-    "is_new": false
-  },
-  {
     "id": "0dc45de9d5495455",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -453,6 +429,30 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Complete Pre-Training Tasks, Sign Your Submissions & Refer to Earn",
     "url": "https://airdrops.io/axis-robotics/",
+    "is_new": false
+  },
+  {
+    "id": "f1a1a8661356f909",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Ink",
+    "ditemukan": "2026-10-07T13:33:13.167950+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Trade on Kraken Pro & Interact with Dapps",
+    "url": "https://airdrops.io/ink-chain/",
+    "is_new": false
+  },
+  {
+    "id": "2d3a6a79ade998cc",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Amadeus Protocol",
+    "ditemukan": "2026-10-05T12:32:22.856993+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Create Wallet, Complete Check-In, Finish Social Tasks",
+    "url": "https://airdrops.io/amadeus-protocol/",
     "is_new": false
   },
   {
@@ -504,6 +504,18 @@
     "is_new": false
   },
   {
+    "id": "a87b929d3d009c14",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "VOICE",
+    "ditemukan": "2026-10-17T08:32:22.073533+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Sign Up, Complete Core Tasks and Mint VOICY Pass",
+    "url": "https://airdrops.io/voice/",
+    "is_new": true
+  },
+  {
     "id": "1ecf7f4a7417e783",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -513,18 +525,6 @@
     "reward": null,
     "cara_ikut": "Ongoing — Join Mainnet Activities",
     "url": "https://airdrops.io/arc/",
-    "is_new": false
-  },
-  {
-    "id": "ca7369ad81f2461d",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Cambria",
-    "ditemukan": "2026-10-08T12:32:21.971766+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Check Points & Wait for Genesis",
-    "url": "https://airdrops.io/cambria/",
     "is_new": false
   },
   {
