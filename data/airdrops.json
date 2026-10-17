@@ -240,18 +240,6 @@
     "is_new": false
   },
   {
-    "id": "49d969b580a4b6d1",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "River",
-    "ditemukan": "2026-10-17T11:32:21.105264+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Post on River4FUN, Mint satUSD and Stake RIVER",
-    "url": "https://airdrops.io/river/",
-    "is_new": true
-  },
-  {
     "id": "d9b69ad952fa6fa5",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -321,6 +309,18 @@
     "reward": null,
     "cara_ikut": "Ongoing — Sign Up, Deposit, Trade and Refer Users",
     "url": "https://airdrops.io/perptools/",
+    "is_new": false
+  },
+  {
+    "id": "49d969b580a4b6d1",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "River",
+    "ditemukan": "2026-10-17T11:32:21.105264+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Post on River4FUN, Mint satUSD and Stake RIVER",
+    "url": "https://airdrops.io/river/",
     "is_new": false
   },
   {
