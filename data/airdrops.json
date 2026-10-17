@@ -379,7 +379,7 @@
     "ditemukan": "2026-09-30T22:27:57.914830+08:00",
     "deadline": null,
     "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Sign Up, Provide Liquidity, Invite Friends",
+    "cara_ikut": "Ongoing — Sign Up, Provide Liquidity, Invite Friends",
     "url": "https://airdrops.io/synthra/",
     "is_new": false
   },
@@ -444,18 +444,6 @@
     "is_new": false
   },
   {
-    "id": "2d3a6a79ade998cc",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Amadeus Protocol",
-    "ditemukan": "2026-10-05T12:32:22.856993+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Create Wallet, Complete Check-In, Finish Social Tasks",
-    "url": "https://airdrops.io/amadeus-protocol/",
-    "is_new": false
-  },
-  {
     "id": "896f6dd235a6c5b8",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -465,6 +453,18 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Sign up & Deposit USDC",
     "url": "https://airdrops.io/bulk/",
+    "is_new": false
+  },
+  {
+    "id": "2d3a6a79ade998cc",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Amadeus Protocol",
+    "ditemukan": "2026-10-05T12:32:22.856993+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Create Wallet, Complete Check-In, Finish Social Tasks",
+    "url": "https://airdrops.io/amadeus-protocol/",
     "is_new": false
   },
   {
@@ -504,6 +504,18 @@
     "is_new": false
   },
   {
+    "id": "a87b929d3d009c14",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "VOICE",
+    "ditemukan": "2026-10-17T19:32:19.800046+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Sign Up, Complete Core Tasks and Mint VOICY Pass",
+    "url": "https://airdrops.io/voice/",
+    "is_new": true
+  },
+  {
     "id": "ca7369ad81f2461d",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -525,18 +537,6 @@
     "reward": null,
     "cara_ikut": "Ongoing — Make Swaps to Collect XPs",
     "url": "https://airdrops.io/jumper-exchange/",
-    "is_new": false
-  },
-  {
-    "id": "1ecf7f4a7417e783",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Arc",
-    "ditemukan": "2026-10-08T11:32:50.052676+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Join Mainnet Activities",
-    "url": "https://airdrops.io/arc/",
     "is_new": false
   }
 ]
