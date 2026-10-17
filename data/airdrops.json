@@ -240,6 +240,18 @@
     "is_new": false
   },
   {
+    "id": "d9b69ad952fa6fa5",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Papertrade",
+    "ditemukan": "2026-10-17T10:32:30.230022+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Trade, Earn PAPER and Stake for USDC",
+    "url": "https://airdrops.io/papertrade/",
+    "is_new": true
+  },
+  {
     "id": "6cc7797f2155379c",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -384,18 +396,6 @@
     "is_new": false
   },
   {
-    "id": "bf9797e8e47ebf22",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "PowerX OneWallet",
-    "ditemukan": "2026-09-30T22:27:57.914912+08:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Interact with the Bot & Complete Social Tasks",
-    "url": "https://airdrops.io/powerx-onewallet/",
-    "is_new": false
-  },
-  {
     "id": "de7b255a0625fc80",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -420,18 +420,6 @@
     "is_new": false
   },
   {
-    "id": "0dc45de9d5495455",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Axis Robotics",
-    "ditemukan": "2026-09-30T22:27:57.915097+08:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Complete Pre-Training Tasks, Sign Your Submissions & Refer to Earn",
-    "url": "https://airdrops.io/axis-robotics/",
-    "is_new": false
-  },
-  {
     "id": "f1a1a8661356f909",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -441,6 +429,18 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Trade on Kraken Pro & Interact with Dapps",
     "url": "https://airdrops.io/ink-chain/",
+    "is_new": false
+  },
+  {
+    "id": "0dc45de9d5495455",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Axis Robotics",
+    "ditemukan": "2026-09-30T22:27:57.915097+08:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Complete Pre-Training Tasks, Sign Your Submissions & Refer to Earn",
+    "url": "https://airdrops.io/axis-robotics/",
     "is_new": false
   },
   {
@@ -504,18 +504,6 @@
     "is_new": false
   },
   {
-    "id": "a87b929d3d009c14",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "VOICE",
-    "ditemukan": "2026-10-17T08:32:22.073533+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Sign Up, Complete Core Tasks and Mint VOICY Pass",
-    "url": "https://airdrops.io/voice/",
-    "is_new": false
-  },
-  {
     "id": "1ecf7f4a7417e783",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -525,6 +513,18 @@
     "reward": null,
     "cara_ikut": "Ongoing — Join Mainnet Activities",
     "url": "https://airdrops.io/arc/",
+    "is_new": false
+  },
+  {
+    "id": "a87b929d3d009c14",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "VOICE",
+    "ditemukan": "2026-10-17T08:32:22.073533+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Sign Up, Complete Core Tasks and Mint VOICY Pass",
+    "url": "https://airdrops.io/voice/",
     "is_new": false
   },
   {
