@@ -432,18 +432,6 @@
     "is_new": false
   },
   {
-    "id": "0dc45de9d5495455",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Axis Robotics",
-    "ditemukan": "2026-09-30T22:27:57.915097+08:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Complete Pre-Training Tasks, Sign Your Submissions & Refer to Earn",
-    "url": "https://airdrops.io/axis-robotics/",
-    "is_new": false
-  },
-  {
     "id": "896f6dd235a6c5b8",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -453,6 +441,18 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Sign up & Deposit USDC",
     "url": "https://airdrops.io/bulk/",
+    "is_new": false
+  },
+  {
+    "id": "0dc45de9d5495455",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Axis Robotics",
+    "ditemukan": "2026-09-30T22:27:57.915097+08:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Complete Pre-Training Tasks, Sign Your Submissions & Refer to Earn",
+    "url": "https://airdrops.io/axis-robotics/",
     "is_new": false
   },
   {
@@ -504,18 +504,6 @@
     "is_new": false
   },
   {
-    "id": "a87b929d3d009c14",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "VOICE",
-    "ditemukan": "2026-10-17T19:32:19.800046+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Sign Up, Complete Core Tasks and Mint VOICY Pass",
-    "url": "https://airdrops.io/voice/",
-    "is_new": false
-  },
-  {
     "id": "9a70d441452dea92",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -528,15 +516,27 @@
     "is_new": false
   },
   {
-    "id": "ca7369ad81f2461d",
+    "id": "a87b929d3d009c14",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
-    "judul": "Cambria",
-    "ditemukan": "2026-10-18T10:32:19.618392+00:00",
+    "judul": "VOICE",
+    "ditemukan": "2026-10-17T19:32:19.800046+00:00",
     "deadline": null,
     "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Check Points & Wait for Genesis",
-    "url": "https://airdrops.io/cambria/",
+    "cara_ikut": "Ongoing, Confirmed — Sign Up, Complete Core Tasks and Mint VOICY Pass",
+    "url": "https://airdrops.io/voice/",
+    "is_new": false
+  },
+  {
+    "id": "1ecf7f4a7417e783",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Arc",
+    "ditemukan": "2026-10-18T11:32:21.767840+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Join Mainnet Activities",
+    "url": "https://airdrops.io/arc/",
     "is_new": true
   }
 ]
