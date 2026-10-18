@@ -444,18 +444,6 @@
     "is_new": false
   },
   {
-    "id": "2d3a6a79ade998cc",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Amadeus Protocol",
-    "ditemukan": "2026-10-05T12:32:22.856993+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Create Wallet, Complete Check-In, Finish Social Tasks",
-    "url": "https://airdrops.io/amadeus-protocol/",
-    "is_new": false
-  },
-  {
     "id": "896f6dd235a6c5b8",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -465,6 +453,18 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Sign up & Deposit USDC",
     "url": "https://airdrops.io/bulk/",
+    "is_new": false
+  },
+  {
+    "id": "2d3a6a79ade998cc",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Amadeus Protocol",
+    "ditemukan": "2026-10-05T12:32:22.856993+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Create Wallet, Complete Check-In, Finish Social Tasks",
+    "url": "https://airdrops.io/amadeus-protocol/",
     "is_new": false
   },
   {
@@ -528,15 +528,15 @@
     "is_new": false
   },
   {
-    "id": "1ecf7f4a7417e783",
+    "id": "ca7369ad81f2461d",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
-    "judul": "Arc",
-    "ditemukan": "2026-10-18T03:32:26.003429+00:00",
+    "judul": "Cambria",
+    "ditemukan": "2026-10-18T04:32:27.692220+00:00",
     "deadline": null,
     "reward": null,
-    "cara_ikut": "Ongoing — Join Mainnet Activities",
-    "url": "https://airdrops.io/arc/",
+    "cara_ikut": "Ongoing, Confirmed — Check Points & Wait for Genesis",
+    "url": "https://airdrops.io/cambria/",
     "is_new": true
   }
 ]
