@@ -24,6 +24,18 @@
     "is_new": false
   },
   {
+    "id": "65e70296a75ea933",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Upd Axis Robotics AXIS",
+    "ditemukan": "2026-10-19T15:35:57.023561+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "No active tasks · Snapshot Oct 19, 2026 · Raise $ 14.39M + 1",
+    "url": "https://cryptorank.io/drophunting/axis-ai-activity1105",
+    "is_new": true
+  },
+  {
     "id": "4dd9138ecffc7177",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
@@ -48,16 +60,16 @@
     "is_new": false
   },
   {
-    "id": "327dc64465e7b354",
+    "id": "675c1e4387b9a76d",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
-    "judul": "Upd Jupiter JUP",
-    "ditemukan": "2026-10-16T14:32:21.596749+00:00",
+    "judul": "Jupiter JUP",
+    "ditemukan": "2026-10-19T15:35:57.024201+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "Staking, Trading + 8 · Confirmed Oct 16, 2026 · Raise $ 172.50M",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise $ 172.50M",
     "url": "https://cryptorank.io/drophunting/jupiter-stattion-activity486",
-    "is_new": false
+    "is_new": true
   },
   {
     "id": "c3b3f7de98b6f168",
@@ -141,18 +153,6 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise $ 11.00M + 3",
     "url": "https://cryptorank.io/drophunting/neo-soul-activity1278",
-    "is_new": false
-  },
-  {
-    "id": "75d60a7ed97f8d22",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Axis Robotics AXIS",
-    "ditemukan": "2026-10-15T15:32:22.140862+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise $ 14.39M + 1",
-    "url": "https://cryptorank.io/drophunting/axis-ai-activity1105",
     "is_new": false
   },
   {
@@ -249,7 +249,7 @@
     "reward": null,
     "cara_ikut": "Ongoing — Make Gift Card, Follow Social Accounts, Dm Admin",
     "url": "https://airdrops.io/p2p-gifts/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "d9b69ad952fa6fa5",
