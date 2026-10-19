@@ -432,18 +432,6 @@
     "is_new": false
   },
   {
-    "id": "896f6dd235a6c5b8",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "BULK",
-    "ditemukan": "2026-09-30T22:27:57.915298+08:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Sign up & Deposit USDC",
-    "url": "https://airdrops.io/bulk/",
-    "is_new": false
-  },
-  {
     "id": "0dc45de9d5495455",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -453,6 +441,18 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Complete Pre-Training Tasks, Sign Your Submissions & Refer to Earn",
     "url": "https://airdrops.io/axis-robotics/",
+    "is_new": false
+  },
+  {
+    "id": "896f6dd235a6c5b8",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "BULK",
+    "ditemukan": "2026-09-30T22:27:57.915298+08:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Sign up & Deposit USDC",
+    "url": "https://airdrops.io/bulk/",
     "is_new": false
   },
   {
@@ -504,6 +504,18 @@
     "is_new": false
   },
   {
+    "id": "1ecf7f4a7417e783",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Arc",
+    "ditemukan": "2026-10-18T11:32:21.767840+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Join Mainnet Activities",
+    "url": "https://airdrops.io/arc/",
+    "is_new": false
+  },
+  {
     "id": "9a70d441452dea92",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -525,18 +537,6 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Sign Up, Complete Core Tasks and Mint VOICY Pass",
     "url": "https://airdrops.io/voice/",
-    "is_new": false
-  },
-  {
-    "id": "1ecf7f4a7417e783",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Arc",
-    "ditemukan": "2026-10-18T11:32:21.767840+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Join Mainnet Activities",
-    "url": "https://airdrops.io/arc/",
     "is_new": false
   }
 ]
