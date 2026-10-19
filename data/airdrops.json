@@ -240,6 +240,18 @@
     "is_new": false
   },
   {
+    "id": "85f61c3fa26ffb18",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "p2p.gifts",
+    "ditemukan": "2026-10-19T14:38:45.357614+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Make Gift Card, Follow Social Accounts, Dm Admin",
+    "url": "https://airdrops.io/p2p-gifts/",
+    "is_new": true
+  },
+  {
     "id": "d9b69ad952fa6fa5",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -384,18 +396,6 @@
     "is_new": false
   },
   {
-    "id": "e3e6a52c130b742e",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "MindGames",
-    "ditemukan": "2026-09-30T22:27:57.914853+08:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Claim Seat, Complete Social Tasks, Refer Users",
-    "url": "https://airdrops.io/mindgames/",
-    "is_new": false
-  },
-  {
     "id": "de7b255a0625fc80",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -504,18 +504,6 @@
     "is_new": false
   },
   {
-    "id": "9a70d441452dea92",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Jumper Exchange",
-    "ditemukan": "2026-10-15T17:32:35.343019+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Make Swaps to Collect XPs",
-    "url": "https://airdrops.io/jumper-exchange/",
-    "is_new": false
-  },
-  {
     "id": "1ecf7f4a7417e783",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -525,6 +513,18 @@
     "reward": null,
     "cara_ikut": "Ongoing — Join Mainnet Activities",
     "url": "https://airdrops.io/arc/",
+    "is_new": false
+  },
+  {
+    "id": "9a70d441452dea92",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Jumper Exchange",
+    "ditemukan": "2026-10-15T17:32:35.343019+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Make Swaps to Collect XPs",
+    "url": "https://airdrops.io/jumper-exchange/",
     "is_new": false
   },
   {
