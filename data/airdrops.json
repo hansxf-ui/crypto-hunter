@@ -31,7 +31,7 @@
     "ditemukan": "2026-10-16T14:32:21.595821+00:00",
     "deadline": null,
     "reward": "Airdrop",
-    "cara_ikut": "Mainnet, Social + 8 · Potential Oct 16, 2026 · Raise $ 1.50M + 2",
+    "cara_ikut": "Trading + 9 · Potential Oct 16, 2026 · Raise $ 1.50M + 2",
     "url": "https://cryptorank.io/drophunting/renaiss-protocol-activity1003",
     "is_new": false
   },
@@ -504,18 +504,6 @@
     "is_new": false
   },
   {
-    "id": "1ecf7f4a7417e783",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Arc",
-    "ditemukan": "2026-10-18T11:32:21.767840+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Join Mainnet Activities",
-    "url": "https://airdrops.io/arc/",
-    "is_new": false
-  },
-  {
     "id": "9a70d441452dea92",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -525,6 +513,18 @@
     "reward": null,
     "cara_ikut": "Ongoing — Make Swaps to Collect XPs",
     "url": "https://airdrops.io/jumper-exchange/",
+    "is_new": false
+  },
+  {
+    "id": "1ecf7f4a7417e783",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Arc",
+    "ditemukan": "2026-10-18T11:32:21.767840+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Join Mainnet Activities",
+    "url": "https://airdrops.io/arc/",
     "is_new": false
   },
   {
