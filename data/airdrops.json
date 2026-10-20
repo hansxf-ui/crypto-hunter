@@ -249,7 +249,7 @@
     "reward": null,
     "cara_ikut": "Ongoing — Claim testnet tokens, bridge and launch tokens",
     "url": "https://airdrops.io/elysium/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "692d58a92ca043a4",
@@ -261,7 +261,7 @@
     "reward": null,
     "cara_ikut": "Ongoing — Deposit, Swap, and Provide Liquidity",
     "url": "https://airdrops.io/metric/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ec3d71a4af85bdf8",
@@ -273,7 +273,7 @@
     "reward": null,
     "cara_ikut": "Ongoing — Register Agents, Settle Jobs and Earn TermiX Points",
     "url": "https://airdrops.io/termix/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "f44dfcd46a2cc4f4",
@@ -285,7 +285,7 @@
     "reward": null,
     "cara_ikut": "Ongoing — Fund Your Wallet, Deposit into Vault and Refer to Earn",
     "url": "https://airdrops.io/valdora/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "85f61c3fa26ffb18",
