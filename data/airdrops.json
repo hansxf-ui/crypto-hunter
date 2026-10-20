@@ -24,6 +24,30 @@
     "is_new": false
   },
   {
+    "id": "c8183613385aeef0",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Noah AI",
+    "ditemukan": "2026-10-20T17:32:37.794113+00:00",
+    "deadline": null,
+    "reward": "Ambassador",
+    "cara_ikut": "Bounty Platforms + 3 · Confirmed Oct 20, 2026 · Raise -",
+    "url": "https://cryptorank.io/drophunting/noah-ai-activity1165",
+    "is_new": true
+  },
+  {
+    "id": "b5379b65312c449a",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Upd DogeOS",
+    "ditemukan": "2026-10-20T17:32:37.794235+00:00",
+    "deadline": null,
+    "reward": "Points",
+    "cara_ikut": "Bounty Platforms + 2 · Confirmed Oct 20, 2026 · Raise $ 6.90M",
+    "url": "https://cryptorank.io/drophunting/dogeos-activity795",
+    "is_new": true
+  },
+  {
     "id": "4ac18aecdb2b7a58",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
@@ -33,7 +57,7 @@
     "reward": "Airdrop",
     "cara_ikut": "Predictions, Trading + 5 · Confirmed Oct 20, 2026 · Raise $ 6.50M + 11",
     "url": "https://cryptorank.io/drophunting/xo-market-activity892",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "157854fbf827950e",
@@ -42,10 +66,10 @@
     "judul": "Pacifica",
     "ditemukan": "2026-10-20T16:32:33.069204+00:00",
     "deadline": null,
-    "reward": "Points",
-    "cara_ikut": "Trading + 5 · Confirmed Oct 20, 2026 · Raise -",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/pacifica-activity978",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "64172f839aa55bfd",
@@ -54,8 +78,8 @@
     "judul": "Lens Protocol",
     "ditemukan": "2026-10-19T19:35:23.856787+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "Mainnet, Social + 6 · Potential Oct 19, 2026 · Raise $ 46.00M + 53",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise $ 46.00M + 53",
     "url": "https://cryptorank.io/drophunting/lens-protocol-activity705",
     "is_new": false
   },
@@ -69,7 +93,7 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise $ 3.50M",
     "url": "https://cryptorank.io/drophunting/melee-activity946",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "b7bad301cb753b47",
@@ -81,7 +105,7 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise $ 9.50M + 6",
     "url": "https://cryptorank.io/drophunting/qfex-activity1117",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "75d60a7ed97f8d22",
@@ -213,30 +237,6 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise $ 11.00M + 3",
     "url": "https://cryptorank.io/drophunting/neo-soul-activity1278",
-    "is_new": false
-  },
-  {
-    "id": "18d25c40c365a904",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "New Blackboard",
-    "ditemukan": "2026-10-14T16:32:21.381372+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise -",
-    "url": "https://cryptorank.io/drophunting/blackboard-activity1373",
-    "is_new": false
-  },
-  {
-    "id": "29b121ebc891a176",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Nuva Finance NUVA",
-    "ditemukan": "2026-10-14T15:32:21.650660+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise $ 5.20M",
-    "url": "https://cryptorank.io/drophunting/nuva-finance-activity991",
     "is_new": false
   },
   {
