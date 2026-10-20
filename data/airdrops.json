@@ -240,6 +240,54 @@
     "is_new": false
   },
   {
+    "id": "02bbf547255f9ae1",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Elysium",
+    "ditemukan": "2026-10-20T12:32:20.283342+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Claim testnet tokens, bridge and launch tokens",
+    "url": "https://airdrops.io/elysium/",
+    "is_new": true
+  },
+  {
+    "id": "692d58a92ca043a4",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Metric",
+    "ditemukan": "2026-10-20T12:32:20.283427+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Deposit, Swap, and Provide Liquidity",
+    "url": "https://airdrops.io/metric/",
+    "is_new": true
+  },
+  {
+    "id": "ec3d71a4af85bdf8",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "TermiX",
+    "ditemukan": "2026-10-20T12:32:20.283451+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Register Agents, Settle Jobs and Earn TermiX Points",
+    "url": "https://airdrops.io/termix/",
+    "is_new": true
+  },
+  {
+    "id": "f44dfcd46a2cc4f4",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Valdora",
+    "ditemukan": "2026-10-20T12:32:20.283473+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Fund Your Wallet, Deposit into Vault and Refer to Earn",
+    "url": "https://airdrops.io/valdora/",
+    "is_new": true
+  },
+  {
     "id": "85f61c3fa26ffb18",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -348,54 +396,6 @@
     "is_new": false
   },
   {
-    "id": "4d4a498bfbb551d0",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "TastyCo",
-    "ditemukan": "2026-09-30T22:27:57.914719+08:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Sign in, Complete Quests and Refer Users",
-    "url": "https://airdrops.io/tastyco/",
-    "is_new": false
-  },
-  {
-    "id": "f97b1435b43d40b4",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Raycash",
-    "ditemukan": "2026-09-30T22:27:57.914802+08:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Join Waitlist, Follow on X, Refer Users",
-    "url": "https://airdrops.io/raycash/",
-    "is_new": false
-  },
-  {
-    "id": "88b163b8293a5857",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "RWAPerp",
-    "ditemukan": "2026-10-05T13:32:21.819396+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Join Waitlist, Complete Social Tasks, Refer Users",
-    "url": "https://airdrops.io/rwaperp/",
-    "is_new": false
-  },
-  {
-    "id": "23f4dc5655a278b7",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Synthra",
-    "ditemukan": "2026-09-30T22:27:57.914830+08:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Sign Up, Provide Liquidity, Invite Friends",
-    "url": "https://airdrops.io/synthra/",
-    "is_new": false
-  },
-  {
     "id": "de7b255a0625fc80",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -432,6 +432,18 @@
     "is_new": false
   },
   {
+    "id": "2d3a6a79ade998cc",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Amadeus Protocol",
+    "ditemukan": "2026-10-05T12:32:22.856993+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Create Wallet, Complete Check-In, Finish Social Tasks",
+    "url": "https://airdrops.io/amadeus-protocol/",
+    "is_new": false
+  },
+  {
     "id": "0dc45de9d5495455",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -453,18 +465,6 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Sign up & Deposit USDC",
     "url": "https://airdrops.io/bulk/",
-    "is_new": false
-  },
-  {
-    "id": "2d3a6a79ade998cc",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Amadeus Protocol",
-    "ditemukan": "2026-10-05T12:32:22.856993+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Create Wallet, Complete Check-In, Finish Social Tasks",
-    "url": "https://airdrops.io/amadeus-protocol/",
     "is_new": false
   },
   {
