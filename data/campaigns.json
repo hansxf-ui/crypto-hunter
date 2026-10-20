@@ -36,6 +36,18 @@
     "is_new": false
   },
   {
+    "id": "7c0388041cfe9b54",
+    "kategori": "campaign",
+    "exchange": "Pintu Promo",
+    "judul": "Ikuti Pintu Futures Trading Competition 2026, Rebut Total Hadiah Senilai Rp50 Juta Rupiah!",
+    "ditemukan": "2026-10-20T09:32:28.245140+00:00",
+    "deadline": null,
+    "reward": "Rp50 Juta",
+    "cara_ikut": "HIGH SCORE Pintu Futures Trading Competition Kejar volume trading Futures tertinggi dan menangkan hadiahnya. Total hadiahRp50 juta Periode trading2 Nov –...",
+    "url": "https://blog.pintu.co.id/id/posts/futures-trading-competition-end-year-2026",
+    "is_new": true
+  },
+  {
     "id": "8a5dbf1d798efb53",
     "kategori": "campaign",
     "exchange": "Pintu Promo",
@@ -225,18 +237,6 @@
     "reward": "Rp2 Juta",
     "cara_ikut": "Hai Teman Pintu, Chart Arena hadir kembali dengan tantangan yang naik level! Kali ini, kamu tidak hanya sekadar menebak angka, tapi...",
     "url": "https://blog.pintu.co.id/id/posts/chart-arena-crclx-edition-juli-2026",
-    "is_new": false
-  },
-  {
-    "id": "8db468b7c91cee6f",
-    "kategori": "campaign",
-    "exchange": "Pintu Promo",
-    "judul": "Ikuti Giveaway Merchandise Pintu Pro, Menangkan T-Shirt Pintu + E-Money!",
-    "ditemukan": "2026-10-11T04:32:31.437426+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Hi Teman Pintu, Ikuti giveaway merchandise Pintu Pro dan menangkan T-Shirt Pintu + E-Money khusus untuk kamu yang beruntung. Cek mekanisme,...",
-    "url": "https://blog.pintu.co.id/id/posts/giveaway-merchandise-pro-juli-2026",
     "is_new": false
   }
 ]
