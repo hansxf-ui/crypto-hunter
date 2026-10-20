@@ -24,26 +24,62 @@
     "is_new": false
   },
   {
+    "id": "bd19f7eaa121ae66",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Upd ALPHEA",
+    "ditemukan": "2026-10-20T19:32:30.620647+00:00",
+    "deadline": null,
+    "reward": "Points",
+    "cara_ikut": "Bounty Platforms + 2 · Confirmed Oct 20, 2026 · Raise $ 5.00M + 1",
+    "url": "https://cryptorank.io/drophunting/alphea-activity1272",
+    "is_new": true
+  },
+  {
+    "id": "65e70296a75ea933",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Upd Axis Robotics AXIS",
+    "ditemukan": "2026-10-20T19:32:30.620783+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "Bounty Platforms + 4 · Snapshot Oct 20, 2026 · Raise $ 14.39M + 1",
+    "url": "https://cryptorank.io/drophunting/axis-ai-activity1105",
+    "is_new": true
+  },
+  {
+    "id": "ea9803f36b4a4389",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "BULK",
+    "ditemukan": "2026-10-20T19:32:30.620908+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "Trading, Staking + 4 · Confirmed Oct 20, 2026 · Raise $ 8.00M + 9",
+    "url": "https://cryptorank.io/drophunting/bulk-activity973",
+    "is_new": true
+  },
+  {
     "id": "c8183613385aeef0",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
     "judul": "Noah AI",
     "ditemukan": "2026-10-20T17:32:37.794113+00:00",
     "deadline": null,
-    "reward": "Ambassador",
-    "cara_ikut": "Bounty Platforms + 3 · Confirmed Oct 20, 2026 · Raise -",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/noah-ai-activity1165",
-    "is_new": true
+    "is_new": false
   },
   {
-    "id": "b5379b65312c449a",
+    "id": "8c0596324f8ebd55",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
-    "judul": "Upd DogeOS",
-    "ditemukan": "2026-10-20T17:32:37.794235+00:00",
+    "judul": "DogeOS",
+    "ditemukan": "2026-10-20T19:32:30.621115+00:00",
     "deadline": null,
-    "reward": "Points",
-    "cara_ikut": "Bounty Platforms + 2 · Confirmed Oct 20, 2026 · Raise $ 6.90M",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise $ 6.90M",
     "url": "https://cryptorank.io/drophunting/dogeos-activity795",
     "is_new": true
   },
@@ -54,8 +90,8 @@
     "judul": "XO Market",
     "ditemukan": "2026-10-20T16:32:33.069104+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "Predictions, Trading + 5 · Confirmed Oct 20, 2026 · Raise $ 6.50M + 11",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise $ 6.50M + 11",
     "url": "https://cryptorank.io/drophunting/xo-market-activity892",
     "is_new": false
   },
@@ -105,18 +141,6 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise $ 9.50M + 6",
     "url": "https://cryptorank.io/drophunting/qfex-activity1117",
-    "is_new": false
-  },
-  {
-    "id": "75d60a7ed97f8d22",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Axis Robotics AXIS",
-    "ditemukan": "2026-10-19T19:35:23.857045+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise $ 14.39M + 1",
-    "url": "https://cryptorank.io/drophunting/axis-ai-activity1105",
     "is_new": false
   },
   {
@@ -213,30 +237,6 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/quip-network-activity1093",
-    "is_new": false
-  },
-  {
-    "id": "1f6a0295ee93e467",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "VOICE",
-    "ditemukan": "2026-10-15T16:32:22.807440+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise -",
-    "url": "https://cryptorank.io/drophunting/voice-activity1288",
-    "is_new": false
-  },
-  {
-    "id": "e4369553d709fe0e",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "NeoSoul DNA",
-    "ditemukan": "2026-10-16T08:32:15.366082+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise $ 11.00M + 3",
-    "url": "https://cryptorank.io/drophunting/neo-soul-activity1278",
     "is_new": false
   },
   {
