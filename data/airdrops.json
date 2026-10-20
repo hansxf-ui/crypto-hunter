@@ -24,6 +24,18 @@
     "is_new": false
   },
   {
+    "id": "044c40655a766ca5",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "New Vault Street",
+    "ditemukan": "2026-10-20T21:32:25.274162+00:00",
+    "deadline": null,
+    "reward": "Whitelist/Waitlist",
+    "cara_ikut": "Fill The Form + 1 · Potential Oct 20, 2026 · Raise -",
+    "url": "https://cryptorank.io/drophunting/vault-street-activity1408",
+    "is_new": true
+  },
+  {
     "id": "bd19f7eaa121ae66",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
@@ -33,7 +45,7 @@
     "reward": "Points",
     "cara_ikut": "Bounty Platforms + 2 · Confirmed Oct 20, 2026 · Raise $ 5.00M + 1",
     "url": "https://cryptorank.io/drophunting/alphea-activity1272",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "65e70296a75ea933",
@@ -45,7 +57,7 @@
     "reward": "Airdrop",
     "cara_ikut": "Bounty Platforms + 4 · Snapshot Oct 20, 2026 · Raise $ 14.39M + 1",
     "url": "https://cryptorank.io/drophunting/axis-ai-activity1105",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ea9803f36b4a4389",
@@ -54,10 +66,10 @@
     "judul": "BULK",
     "ditemukan": "2026-10-20T19:32:30.620908+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "Trading, Staking + 4 · Confirmed Oct 20, 2026 · Raise $ 8.00M + 9",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise $ 8.00M + 9",
     "url": "https://cryptorank.io/drophunting/bulk-activity973",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "c8183613385aeef0",
@@ -81,7 +93,7 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise $ 6.90M",
     "url": "https://cryptorank.io/drophunting/dogeos-activity795",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "4ac18aecdb2b7a58",
@@ -225,18 +237,6 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise $ 7.65M + 11",
     "url": "https://cryptorank.io/drophunting/bullshot-activity1097",
-    "is_new": false
-  },
-  {
-    "id": "b65ddec9da390b0d",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Quip Network QUIP",
-    "ditemukan": "2026-10-15T15:32:22.140580+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise -",
-    "url": "https://cryptorank.io/drophunting/quip-network-activity1093",
     "is_new": false
   },
   {
