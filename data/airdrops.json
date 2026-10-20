@@ -24,6 +24,30 @@
     "is_new": false
   },
   {
+    "id": "4ac18aecdb2b7a58",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "XO Market",
+    "ditemukan": "2026-10-20T16:32:33.069104+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "Predictions, Trading + 5 · Confirmed Oct 20, 2026 · Raise $ 6.50M + 11",
+    "url": "https://cryptorank.io/drophunting/xo-market-activity892",
+    "is_new": true
+  },
+  {
+    "id": "157854fbf827950e",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Pacifica",
+    "ditemukan": "2026-10-20T16:32:33.069204+00:00",
+    "deadline": null,
+    "reward": "Points",
+    "cara_ikut": "Trading + 5 · Confirmed Oct 20, 2026 · Raise -",
+    "url": "https://cryptorank.io/drophunting/pacifica-activity978",
+    "is_new": true
+  },
+  {
     "id": "64172f839aa55bfd",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
@@ -36,28 +60,28 @@
     "is_new": false
   },
   {
-    "id": "17bd8d4a422e2257",
+    "id": "7a0459db88cdf90e",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
-    "judul": "Upd Melee",
-    "ditemukan": "2026-10-19T19:35:23.856873+00:00",
+    "judul": "Melee",
+    "ditemukan": "2026-10-20T16:32:33.069436+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "Predictions, Testnet + 2 · Potential Oct 19, 2026 · Raise $ 3.50M",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise $ 3.50M",
     "url": "https://cryptorank.io/drophunting/melee-activity946",
-    "is_new": false
+    "is_new": true
   },
   {
-    "id": "9b84d27781c0d167",
+    "id": "b7bad301cb753b47",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
-    "judul": "Upd QFEX",
-    "ditemukan": "2026-10-19T19:35:23.856956+00:00",
+    "judul": "QFEX",
+    "ditemukan": "2026-10-20T16:32:33.069576+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "Trading · Potential Oct 19, 2026 · Raise $ 9.50M + 6",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise $ 9.50M + 6",
     "url": "https://cryptorank.io/drophunting/qfex-activity1117",
-    "is_new": false
+    "is_new": true
   },
   {
     "id": "75d60a7ed97f8d22",
@@ -213,30 +237,6 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise $ 5.20M",
     "url": "https://cryptorank.io/drophunting/nuva-finance-activity991",
-    "is_new": false
-  },
-  {
-    "id": "8a5134186b5164b3",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "D3",
-    "ditemukan": "2026-10-15T13:32:25.372483+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise $ 30.00M + 13",
-    "url": "https://cryptorank.io/drophunting/d-3-global-activity662",
-    "is_new": false
-  },
-  {
-    "id": "8d4b15398bfbdb3d",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "New RAFA Finance",
-    "ditemukan": "2026-10-14T15:32:21.650970+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise -",
-    "url": "https://cryptorank.io/drophunting/rafa-finance-activity1372",
     "is_new": false
   },
   {
