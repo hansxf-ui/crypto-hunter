@@ -33,7 +33,7 @@
     "reward": "Points",
     "cara_ikut": "Trading · Confirmed Oct 21, 2026 · Raise -",
     "url": "https://cryptorank.io/drophunting/lexur-activity1409",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "517ca0168d885b37",
@@ -408,18 +408,6 @@
     "is_new": false
   },
   {
-    "id": "f1a1a8661356f909",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Ink",
-    "ditemukan": "2026-10-07T13:33:13.167950+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Trade on Kraken Pro & Interact with Dapps",
-    "url": "https://airdrops.io/ink-chain/",
-    "is_new": false
-  },
-  {
     "id": "378fa86420d03957",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -429,6 +417,18 @@
     "reward": null,
     "cara_ikut": "Ongoing — Sign Up, Enable Trading, Trade & Refer",
     "url": "https://airdrops.io/risex/",
+    "is_new": false
+  },
+  {
+    "id": "f1a1a8661356f909",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Ink",
+    "ditemukan": "2026-10-07T13:33:13.167950+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Trade on Kraken Pro & Interact with Dapps",
+    "url": "https://airdrops.io/ink-chain/",
     "is_new": false
   },
   {
@@ -463,7 +463,7 @@
     "ditemukan": "2026-09-30T22:27:57.915298+08:00",
     "deadline": null,
     "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Sign up & Deposit USDC",
+    "cara_ikut": "Ongoing, Confirmed — Sign up & Trade",
     "url": "https://airdrops.io/bulk/",
     "is_new": false
   },
