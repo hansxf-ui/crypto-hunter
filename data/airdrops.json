@@ -1,15 +1,15 @@
 [
   {
-    "id": "f8aa091636493a93",
+    "id": "1c4143fae9ec3d48",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
-    "judul": "Ekiden",
-    "ditemukan": "2026-10-13T23:32:33.229911+00:00",
+    "judul": "Upd Ekiden",
+    "ditemukan": "2026-10-21T16:32:27.904089+00:00",
     "deadline": null,
     "reward": "Points",
-    "cara_ikut": "Mainnet, Trading · Confirmed Oct 21, 2026 · Raise $ 2.00M + 16",
+    "cara_ikut": "Mainnet, Trading + 1 · Confirmed Oct 21, 2026 · Raise $ 2.00M + 16",
     "url": "https://cryptorank.io/drophunting/ekiden-activity1207",
-    "is_new": false
+    "is_new": true
   },
   {
     "id": "427841c1e60af12b",
@@ -24,28 +24,64 @@
     "is_new": false
   },
   {
-    "id": "8b3a0faaadf15233",
+    "id": "517ca0168d885b37",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
-    "judul": "Upd HertzFlow",
-    "ditemukan": "2026-10-21T15:37:11.312981+00:00",
+    "judul": "GenLayer",
+    "ditemukan": "2026-10-21T16:32:27.904403+00:00",
     "deadline": null,
     "reward": "Airdrop",
-    "cara_ikut": "Trading, Liquidity + 1 · Potential Oct 21, 2026 · Raise - + 10",
+    "cara_ikut": "No active tasks · Verification Oct 21, 2026 · Raise $ 7.50M + 6",
+    "url": "https://cryptorank.io/drophunting/genlayer-activity756",
+    "is_new": true
+  },
+  {
+    "id": "8746bfbc3b6a04d5",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Checkpoint",
+    "ditemukan": "2026-10-21T16:32:27.904483+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "Testnet + 2 · Potential Oct 21, 2026 · Raise -",
+    "url": "https://cryptorank.io/drophunting/checkpoint-activity1213",
+    "is_new": true
+  },
+  {
+    "id": "9ddc95bf506ceffe",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "TxFlow",
+    "ditemukan": "2026-10-21T16:32:27.904557+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "Trading, Liquidity + 2 · Confirmed Oct 21, 2026 · Raise -",
+    "url": "https://cryptorank.io/drophunting/txflow-activity1231",
+    "is_new": true
+  },
+  {
+    "id": "823352d4d9cb34ef",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "HertzFlow",
+    "ditemukan": "2026-10-21T16:32:27.904645+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise - + 10",
     "url": "https://cryptorank.io/drophunting/hertzflow-activity1178",
     "is_new": true
   },
   {
-    "id": "65e70296a75ea933",
+    "id": "75d60a7ed97f8d22",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
-    "judul": "Upd Axis Robotics AXIS",
-    "ditemukan": "2026-10-20T19:32:30.620783+00:00",
+    "judul": "Axis Robotics AXIS",
+    "ditemukan": "2026-10-21T16:32:27.904732+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "No active tasks · Reward Available Oct 21, 2026 · Raise $ 14.39M + 1",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise $ 14.39M + 1",
     "url": "https://cryptorank.io/drophunting/axis-ai-activity1105",
-    "is_new": false
+    "is_new": true
   },
   {
     "id": "044c40655a766ca5",
@@ -54,8 +90,8 @@
     "judul": "New Vault Street",
     "ditemukan": "2026-10-20T21:32:25.274162+00:00",
     "deadline": null,
-    "reward": "Whitelist/Waitlist",
-    "cara_ikut": "Fill The Form + 1 · Potential Oct 20, 2026 · Raise -",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/vault-street-activity1408",
     "is_new": false
   },
@@ -69,7 +105,7 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise $ 5.00M + 1",
     "url": "https://cryptorank.io/drophunting/alphea-activity1272",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ea9803f36b4a4389",
@@ -201,42 +237,6 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise $ 22.00M + 21",
     "url": "https://cryptorank.io/drophunting/fhenix-activity211",
-    "is_new": false
-  },
-  {
-    "id": "745ed8da71637558",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "New Minehood",
-    "ditemukan": "2026-10-15T16:32:22.807093+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise -",
-    "url": "https://cryptorank.io/drophunting/minehood-activity1407",
-    "is_new": false
-  },
-  {
-    "id": "6c6a236859db7b58",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "New Embervale",
-    "ditemukan": "2026-10-15T16:32:22.807170+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise -",
-    "url": "https://cryptorank.io/drophunting/embervale-activity1406",
-    "is_new": false
-  },
-  {
-    "id": "44bd7ba129c4a14a",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Bullshot BULL",
-    "ditemukan": "2026-10-15T16:32:22.807257+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise $ 7.65M + 11",
-    "url": "https://cryptorank.io/drophunting/bullshot-activity1097",
     "is_new": false
   },
   {
