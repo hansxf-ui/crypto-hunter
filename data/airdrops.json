@@ -9,7 +9,7 @@
     "reward": "Points",
     "cara_ikut": "Mainnet, Trading + 1 · Confirmed Oct 21, 2026 · Raise $ 2.00M + 16",
     "url": "https://cryptorank.io/drophunting/ekiden-activity1207",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "427841c1e60af12b",
@@ -24,6 +24,18 @@
     "is_new": false
   },
   {
+    "id": "44fcdb09892c4d84",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "New Lexur",
+    "ditemukan": "2026-10-21T17:32:23.706603+00:00",
+    "deadline": null,
+    "reward": "Points",
+    "cara_ikut": "Trading · Confirmed Oct 21, 2026 · Raise -",
+    "url": "https://cryptorank.io/drophunting/lexur-activity1409",
+    "is_new": true
+  },
+  {
     "id": "517ca0168d885b37",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
@@ -33,7 +45,7 @@
     "reward": "Airdrop",
     "cara_ikut": "No active tasks · Verification Oct 21, 2026 · Raise $ 7.50M + 6",
     "url": "https://cryptorank.io/drophunting/genlayer-activity756",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "8746bfbc3b6a04d5",
@@ -45,7 +57,7 @@
     "reward": "Airdrop",
     "cara_ikut": "Testnet + 2 · Potential Oct 21, 2026 · Raise -",
     "url": "https://cryptorank.io/drophunting/checkpoint-activity1213",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "9ddc95bf506ceffe",
@@ -54,10 +66,10 @@
     "judul": "TxFlow",
     "ditemukan": "2026-10-21T16:32:27.904557+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "Trading, Liquidity + 2 · Confirmed Oct 21, 2026 · Raise -",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/txflow-activity1231",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "823352d4d9cb34ef",
@@ -69,7 +81,7 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise - + 10",
     "url": "https://cryptorank.io/drophunting/hertzflow-activity1178",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "75d60a7ed97f8d22",
@@ -81,7 +93,7 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise $ 14.39M + 1",
     "url": "https://cryptorank.io/drophunting/axis-ai-activity1105",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "044c40655a766ca5",
@@ -225,18 +237,6 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise $ 172.50M",
     "url": "https://cryptorank.io/drophunting/jupiter-stattion-activity486",
-    "is_new": false
-  },
-  {
-    "id": "c3b3f7de98b6f168",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Fhenix",
-    "ditemukan": "2026-10-16T14:32:21.597148+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise $ 22.00M + 21",
-    "url": "https://cryptorank.io/drophunting/fhenix-activity211",
     "is_new": false
   },
   {
@@ -439,7 +439,7 @@
     "ditemukan": "2026-09-30T22:27:57.915097+08:00",
     "deadline": null,
     "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Complete Pre-Training Tasks, Sign Your Submissions & Refer to Earn",
+    "cara_ikut": "Ongoing, Confirmed — Check Eligibility & Claim Airdrop",
     "url": "https://airdrops.io/axis-robotics/",
     "is_new": false
   },
