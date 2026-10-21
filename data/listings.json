@@ -1,5 +1,17 @@
 [
   {
+    "id": "635743128840a2e0",
+    "kategori": "listing",
+    "exchange": "Binance",
+    "judul": "Binance Will Add 5 bStocks Tokenized Securities as Collateral Asset - 2026-10-21",
+    "ditemukan": "2026-10-21T04:32:13.164714+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://www.binance.com/en/support/announcement/3afa938f499d403382d01d0c0644507e",
+    "is_new": true
+  },
+  {
     "id": "dce2cc313331bfc6",
     "kategori": "listing",
     "exchange": "Binance",
@@ -9,7 +21,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://www.binance.com/en/support/announcement/b965e028041c4d0fbb4291372f55e4d4",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "92ff10872510c3b0",
@@ -225,18 +237,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://www.binance.com/en/support/announcement/c61f3c18a3004f968b53fb09841f7bc7",
-    "is_new": false
-  },
-  {
-    "id": "bb8d8917605f2b5e",
-    "kategori": "listing",
-    "exchange": "Binance",
-    "judul": "Binance Exchange Adds Axe Compute (AGPUB), AMC Entertainment (AMCB) and Cypherpunk Technologies (CYPHB) bStocks Trading Pairs on Binance Spot/Convert - 2026-09-23",
-    "ditemukan": "2026-10-06T00:34:05.471094+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://www.binance.com/en/support/announcement/3cc589ca05904ca28e6ddebeb14148db",
     "is_new": false
   },
   {
