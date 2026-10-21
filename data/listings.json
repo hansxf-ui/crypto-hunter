@@ -1,5 +1,17 @@
 [
   {
+    "id": "92ff10872510c3b0",
+    "kategori": "listing",
+    "exchange": "Binance",
+    "judul": "Binance Futures Will Launch Multiple TradFi USDⓈ-Margined Perpetual Contracts (2026-10-21)",
+    "ditemukan": "2026-10-21T02:32:19.118952+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://www.binance.com/en/support/announcement/29e4e52d711946c88762f0ba2259de2e",
+    "is_new": true
+  },
+  {
     "id": "f940ce5661ecc0ec",
     "kategori": "listing",
     "exchange": "Binance",
@@ -225,18 +237,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://www.binance.com/en/support/announcement/4f6c7be7767b4e29bb837dea4650ac7a",
-    "is_new": false
-  },
-  {
-    "id": "181d9c447ae5677b",
-    "kategori": "listing",
-    "exchange": "Binance",
-    "judul": "Binance Futures Will Launch MOONSHOTUSDT USDⓈ-Margined Perpetual Contract Pre-IPO Trading (2026-09-22)",
-    "ditemukan": "2026-10-06T00:34:05.471112+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://www.binance.com/en/support/announcement/7379b99aa0f349a49c3b3feca1b4bbd6",
     "is_new": false
   },
   {
