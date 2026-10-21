@@ -24,6 +24,18 @@
     "is_new": false
   },
   {
+    "id": "65e70296a75ea933",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Upd Axis Robotics AXIS",
+    "ditemukan": "2026-10-20T19:32:30.620783+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "No active tasks · Verification Oct 21, 2026 · Raise $ 14.39M + 1",
+    "url": "https://cryptorank.io/drophunting/axis-ai-activity1105",
+    "is_new": false
+  },
+  {
     "id": "044c40655a766ca5",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
@@ -45,18 +57,6 @@
     "reward": "Points",
     "cara_ikut": "Bounty Platforms + 2 · Confirmed Oct 20, 2026 · Raise $ 5.00M + 1",
     "url": "https://cryptorank.io/drophunting/alphea-activity1272",
-    "is_new": false
-  },
-  {
-    "id": "65e70296a75ea933",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Upd Axis Robotics AXIS",
-    "ditemukan": "2026-10-20T19:32:30.620783+00:00",
-    "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "Bounty Platforms + 4 · Snapshot Oct 20, 2026 · Raise $ 14.39M + 1",
-    "url": "https://cryptorank.io/drophunting/axis-ai-activity1105",
     "is_new": false
   },
   {
@@ -516,18 +516,6 @@
     "is_new": false
   },
   {
-    "id": "a87b929d3d009c14",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "VOICE",
-    "ditemukan": "2026-10-20T10:32:20.714094+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Sign Up, Complete Core Tasks and Mint VOICY Pass",
-    "url": "https://airdrops.io/voice/",
-    "is_new": false
-  },
-  {
     "id": "ca7369ad81f2461d",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -537,6 +525,18 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Check Points & Wait for Genesis",
     "url": "https://airdrops.io/cambria/",
+    "is_new": false
+  },
+  {
+    "id": "a87b929d3d009c14",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "VOICE",
+    "ditemukan": "2026-10-20T10:32:20.714094+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Sign Up, Complete Core Tasks and Mint VOICY Pass",
+    "url": "https://airdrops.io/voice/",
     "is_new": false
   }
 ]
