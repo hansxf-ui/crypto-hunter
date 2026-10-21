@@ -24,6 +24,18 @@
     "is_new": false
   },
   {
+    "id": "8b3a0faaadf15233",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Upd HertzFlow",
+    "ditemukan": "2026-10-21T15:37:11.312981+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "Trading, Liquidity + 1 · Potential Oct 21, 2026 · Raise - + 10",
+    "url": "https://cryptorank.io/drophunting/hertzflow-activity1178",
+    "is_new": true
+  },
+  {
     "id": "65e70296a75ea933",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
@@ -48,16 +60,16 @@
     "is_new": false
   },
   {
-    "id": "bd19f7eaa121ae66",
+    "id": "0a8f617ea9a88798",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
-    "judul": "Upd ALPHEA",
-    "ditemukan": "2026-10-20T19:32:30.620647+00:00",
+    "judul": "ALPHEA",
+    "ditemukan": "2026-10-21T15:37:11.313281+00:00",
     "deadline": null,
-    "reward": "Points",
-    "cara_ikut": "Bounty Platforms + 2 · Confirmed Oct 20, 2026 · Raise $ 5.00M + 1",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise $ 5.00M + 1",
     "url": "https://cryptorank.io/drophunting/alphea-activity1272",
-    "is_new": false
+    "is_new": true
   },
   {
     "id": "ea9803f36b4a4389",
@@ -165,18 +177,6 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise $ 1.50M + 2",
     "url": "https://cryptorank.io/drophunting/renaiss-protocol-activity1003",
-    "is_new": false
-  },
-  {
-    "id": "8e760bafc6ff030b",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Hollywood Hills",
-    "ditemukan": "2026-10-19T19:35:23.857257+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise -",
-    "url": "https://cryptorank.io/drophunting/hollywood-hills-activity1331",
     "is_new": false
   },
   {
@@ -516,18 +516,6 @@
     "is_new": false
   },
   {
-    "id": "ca7369ad81f2461d",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Cambria",
-    "ditemukan": "2026-10-21T08:32:20.237774+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Check Points & Wait for Genesis",
-    "url": "https://airdrops.io/cambria/",
-    "is_new": false
-  },
-  {
     "id": "a87b929d3d009c14",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -537,6 +525,18 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Sign Up, Complete Core Tasks and Mint VOICY Pass",
     "url": "https://airdrops.io/voice/",
+    "is_new": false
+  },
+  {
+    "id": "ca7369ad81f2461d",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Cambria",
+    "ditemukan": "2026-10-21T08:32:20.237774+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Check Points & Wait for Genesis",
+    "url": "https://airdrops.io/cambria/",
     "is_new": false
   }
 ]
