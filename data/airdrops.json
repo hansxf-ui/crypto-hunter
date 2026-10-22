@@ -24,6 +24,18 @@
     "is_new": false
   },
   {
+    "id": "f25c6905b2739f38",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Cashmere Labs CSM",
+    "ditemukan": "2026-10-22T15:32:23.814276+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "Mainnet, Liquidity + 4 · Potential Oct 22, 2026 · Raise -",
+    "url": "https://cryptorank.io/drophunting/cashmere-labs-activity875",
+    "is_new": true
+  },
+  {
     "id": "79960f571000c791",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
@@ -33,7 +45,7 @@
     "reward": "Airdrop",
     "cara_ikut": "Trading + 2 · Potential Oct 22, 2026 · Raise -",
     "url": "https://cryptorank.io/drophunting/frontier-traders-activity1317",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "18d25c40c365a904",
@@ -54,8 +66,8 @@
     "judul": "BULK",
     "ditemukan": "2026-10-20T19:32:30.620908+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "Trading, Staking + 4 · Confirmed Oct 22, 2026 · Raise $ 8.00M + 9",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise $ 8.00M + 9",
     "url": "https://cryptorank.io/drophunting/bulk-activity973",
     "is_new": false
   },
@@ -225,18 +237,6 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/touch-market-activity1238",
-    "is_new": false
-  },
-  {
-    "id": "a950ea597c5f2c54",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Hypernova",
-    "ditemukan": "2026-10-22T11:32:21.846103+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise $ 3.00M + 2",
-    "url": "https://cryptorank.io/drophunting/hypernova-activity1203",
     "is_new": false
   },
   {
