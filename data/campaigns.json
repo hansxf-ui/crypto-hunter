@@ -1,5 +1,17 @@
 [
   {
+    "id": "8dcf219a29e31b05",
+    "kategori": "campaign",
+    "exchange": "Pintu Promo",
+    "judul": "Pintu Ikut Program Nobu Bank: Deposit via Nobu-VA, Collect Points & WIN!",
+    "ditemukan": "2026-10-22T08:32:27.959816+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Nobu Bank x Pintu · 9 Sep 2026 - 8 Mar 2027 Deposit via Nobu-VA,Collect Points & WIN! Hi Teman Pintu,...",
+    "url": "https://blog.pintu.co.id/id/posts/nobu-va-collect-points-win-pintu",
+    "is_new": true
+  },
+  {
     "id": "29256e0f504e1c5f",
     "kategori": "campaign",
     "exchange": "Pintu Promo",
@@ -225,18 +237,6 @@
     "reward": "Rp150.000",
     "cara_ikut": "First Futures Lite Trade + Fee Rebate, Bonus up to Rp150.000 ● Promo periode 1 - 31 Agustus 2026 Trading Futures...",
     "url": "https://blog.pintu.co.id/id/posts/trading-futures-lite-pertama-bonus-cashback-agustus-2026",
-    "is_new": false
-  },
-  {
-    "id": "1ad94ec514de3def",
-    "kategori": "campaign",
-    "exchange": "Pintu Promo",
-    "judul": "Analisa Chart CRCLx, Raih Kesempatan Menang Total Hadiah Senilai Rp2 Juta!",
-    "ditemukan": "2026-10-11T04:32:31.437400+00:00",
-    "deadline": null,
-    "reward": "Rp2 Juta",
-    "cara_ikut": "Hai Teman Pintu, Chart Arena hadir kembali dengan tantangan yang naik level! Kali ini, kamu tidak hanya sekadar menebak angka, tapi...",
-    "url": "https://blog.pintu.co.id/id/posts/chart-arena-crclx-edition-juli-2026",
     "is_new": false
   }
 ]
