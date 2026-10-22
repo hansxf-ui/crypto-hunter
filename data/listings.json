@@ -744,24 +744,12 @@
     "is_new": false
   },
   {
-    "id": "7b52b64d89c2eb9e",
-    "kategori": "listing",
-    "exchange": "Pintu",
-    "judul": "Pintu Listing Aset Tokenized Baru, 21 Oktober 2026",
-    "ditemukan": "2026-10-22T03:32:14.450259+00:00",
-    "deadline": "2026-10-21T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://pintu.co.id/blog/pintu-listing-aset-tokenized-baru-21oktober2026",
-    "is_new": true
-  },
-  {
     "id": "50b8e595ce3ab780",
     "kategori": "listing",
     "exchange": "Pintu",
     "judul": "TWAP Order Kini Hadir di Aplikasi Pintu, Cek Cara Pakai-nya Sekarang!",
     "ditemukan": "2026-10-19T19:35:22.664147+00:00",
-    "deadline": "2026-10-21T00:00:00",
+    "deadline": "2026-10-19T00:00:00",
     "reward": null,
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/fitur-twap-order-telah-hadir-di-pintu",
@@ -862,5 +850,17 @@
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/pintu-listing-2-token-baru-24sep26",
     "is_new": false
+  },
+  {
+    "id": "59cd18bd3fb8e17a",
+    "kategori": "listing",
+    "exchange": "Pintu",
+    "judul": "Pengumuman: Delisting Token REN di Pintu",
+    "ditemukan": "2026-10-22T07:32:21.567186+00:00",
+    "deadline": "2026-09-24T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://pintu.co.id/blog/pengumuman-delisting-token-ren-di-pintu",
+    "is_new": true
   }
 ]
