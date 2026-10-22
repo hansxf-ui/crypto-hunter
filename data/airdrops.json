@@ -444,18 +444,6 @@
     "is_new": false
   },
   {
-    "id": "2d3a6a79ade998cc",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Amadeus Protocol",
-    "ditemukan": "2026-10-05T12:32:22.856993+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Create Wallet, Complete Check-In, Finish Social Tasks",
-    "url": "https://airdrops.io/amadeus-protocol/",
-    "is_new": false
-  },
-  {
     "id": "896f6dd235a6c5b8",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -465,6 +453,18 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Sign up & Trade",
     "url": "https://airdrops.io/bulk/",
+    "is_new": false
+  },
+  {
+    "id": "2d3a6a79ade998cc",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Amadeus Protocol",
+    "ditemukan": "2026-10-05T12:32:22.856993+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Create Wallet, Complete Check-In, Finish Social Tasks",
+    "url": "https://airdrops.io/amadeus-protocol/",
     "is_new": false
   },
   {
@@ -516,18 +516,6 @@
     "is_new": false
   },
   {
-    "id": "a87b929d3d009c14",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "VOICE",
-    "ditemukan": "2026-10-20T10:32:20.714094+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Sign Up, Complete Core Tasks and Mint VOICY Pass",
-    "url": "https://airdrops.io/voice/",
-    "is_new": false
-  },
-  {
     "id": "ca7369ad81f2461d",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -537,6 +525,18 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Check Points & Wait for Genesis",
     "url": "https://airdrops.io/cambria/",
+    "is_new": false
+  },
+  {
+    "id": "a87b929d3d009c14",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "VOICE",
+    "ditemukan": "2026-10-20T10:32:20.714094+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Sign Up, Complete Core Tasks and Mint VOICY Pass",
+    "url": "https://airdrops.io/voice/",
     "is_new": false
   }
 ]
