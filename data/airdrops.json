@@ -240,6 +240,18 @@
     "is_new": false
   },
   {
+    "id": "6436fa1dc0a38a9c",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Monolith",
+    "ditemukan": "2026-10-23T17:32:18.028421+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Check Partner Community Positions, Mint & Stake swanUSD",
+    "url": "https://airdrops.io/monolith/",
+    "is_new": true
+  },
+  {
     "id": "bda5b495d56d8484",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -249,7 +261,7 @@
     "reward": null,
     "cara_ikut": "Ongoing — Connect Wallet, Enter Code and Mint",
     "url": "https://airdrops.io/optimum/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "cc304ee5a569d8a4",
@@ -261,7 +273,7 @@
     "reward": null,
     "cara_ikut": "Ongoing — Join Waitlist, Take Test and Submit Post Link",
     "url": "https://airdrops.io/smartx/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "118e4cde939b60ec",
@@ -381,18 +393,6 @@
     "reward": null,
     "cara_ikut": "Ongoing — Sign Up, Deposit and Trade to Earn",
     "url": "https://airdrops.io/txflow/",
-    "is_new": false
-  },
-  {
-    "id": "f657d5d2d3cde2b7",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "XStable",
-    "ditemukan": "2026-10-13T14:32:24.458765+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Deposit, Trade and Refer Users",
-    "url": "https://airdrops.io/xstable/",
     "is_new": false
   },
   {
