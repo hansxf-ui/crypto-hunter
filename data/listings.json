@@ -240,6 +240,18 @@
     "is_new": false
   },
   {
+    "id": "5a0c4ea24a33db49",
+    "kategori": "listing",
+    "exchange": "OKX",
+    "judul": "OKX to support VELODROME crypto migration",
+    "ditemukan": "2026-10-23T10:32:16.183037+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://www.okx.com/en-us/help/okx-to-support-velodrome-crypto-migration",
+    "is_new": true
+  },
+  {
     "id": "5e8dbce923f840f1",
     "kategori": "listing",
     "exchange": "OKX",
@@ -465,18 +477,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://www.okx.com/en-us/help/okx-to-list-mega-megaeth-for-spot-trading",
-    "is_new": false
-  },
-  {
-    "id": "08818c620bdf9531",
-    "kategori": "listing",
-    "exchange": "OKX",
-    "judul": "OKX to list RLUSD (Ripple USD) for spot trading",
-    "ditemukan": "2026-10-11T06:32:17.941337+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://www.okx.com/en-us/help/okx-to-list-rlusd-ripple-usd-for-spot-trading",
     "is_new": false
   },
   {
