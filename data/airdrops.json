@@ -24,6 +24,18 @@
     "is_new": false
   },
   {
+    "id": "025a19679c295b93",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "MINTED MNTD",
+    "ditemukan": "2026-10-23T21:32:18.236614+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "No active tasks · Reward Available Oct 23, 2026 · Raise -",
+    "url": "https://cryptorank.io/drophunting/mint-casino-activity1247",
+    "is_new": true
+  },
+  {
     "id": "099e14dff3488597",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
@@ -48,16 +60,16 @@
     "is_new": false
   },
   {
-    "id": "b97a116b9c1f9621",
+    "id": "1f6a0295ee93e467",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
-    "judul": "Upd VOICE",
-    "ditemukan": "2026-10-23T15:32:15.746354+00:00",
+    "judul": "VOICE",
+    "ditemukan": "2026-10-23T21:32:18.236880+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "Social + 4 · Potential Oct 23, 2026 · Raise -",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/voice-activity1288",
-    "is_new": false
+    "is_new": true
   },
   {
     "id": "8c0596324f8ebd55",
@@ -228,18 +240,6 @@
     "is_new": false
   },
   {
-    "id": "f287ead82adbecaa",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Derivio DRV",
-    "ditemukan": "2026-10-22T11:32:21.845572+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise $ 6.00M + 4",
-    "url": "https://cryptorank.io/drophunting/derivio-activity1145",
-    "is_new": false
-  },
-  {
     "id": "6436fa1dc0a38a9c",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -249,7 +249,7 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Check Partner Community Positions, Mint & Stake swanUSD",
     "url": "https://airdrops.io/monolith/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "bda5b495d56d8484",
@@ -468,18 +468,6 @@
     "is_new": false
   },
   {
-    "id": "b2c900f4ac3ab494",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Variational",
-    "ditemukan": "2026-10-07T13:33:13.168056+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Trade perps & refer friends",
-    "url": "https://airdrops.io/variational/",
-    "is_new": false
-  },
-  {
     "id": "e72ae2bede5cf67c",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -489,6 +477,18 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Deposit, Trade & refer friends to Earn Points",
     "url": "https://airdrops.io/extended/",
+    "is_new": false
+  },
+  {
+    "id": "b2c900f4ac3ab494",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Variational",
+    "ditemukan": "2026-10-07T13:33:13.168056+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Trade perps & refer friends",
+    "url": "https://airdrops.io/variational/",
     "is_new": false
   },
   {
