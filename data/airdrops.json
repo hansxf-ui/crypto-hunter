@@ -33,7 +33,7 @@
     "reward": "Airdrop",
     "cara_ikut": "Predictions + 2 · Potential Oct 23, 2026 · Raise -",
     "url": "https://cryptorank.io/drophunting/predict-fun-activity1019",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "06591a79b0f7f541",
@@ -45,7 +45,7 @@
     "reward": "Points",
     "cara_ikut": "Liquidity, Hold + 2 · Confirmed Oct 23, 2026 · Raise $ 3.75M + 2",
     "url": "https://cryptorank.io/drophunting/reflects-activity929",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "b97a116b9c1f9621",
@@ -57,7 +57,7 @@
     "reward": "Airdrop",
     "cara_ikut": "Social + 4 · Potential Oct 23, 2026 · Raise -",
     "url": "https://cryptorank.io/drophunting/voice-activity1288",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "8c0596324f8ebd55",
@@ -69,7 +69,7 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise $ 6.90M",
     "url": "https://cryptorank.io/drophunting/dogeos-activity795",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "427841c1e60af12b",
@@ -117,7 +117,7 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/frontier-traders-activity1317",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "4120cb04091fc097",
@@ -238,6 +238,30 @@
     "cara_ikut": "Sign up to view data · Raise $ 6.00M + 4",
     "url": "https://cryptorank.io/drophunting/derivio-activity1145",
     "is_new": false
+  },
+  {
+    "id": "bda5b495d56d8484",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Optimum",
+    "ditemukan": "2026-10-23T16:32:18.913527+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Connect Wallet, Enter Code and Mint",
+    "url": "https://airdrops.io/optimum/",
+    "is_new": true
+  },
+  {
+    "id": "cc304ee5a569d8a4",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "SmartX",
+    "ditemukan": "2026-10-23T16:32:18.913606+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Join Waitlist, Take Test and Submit Post Link",
+    "url": "https://airdrops.io/smartx/",
+    "is_new": true
   },
   {
     "id": "118e4cde939b60ec",
@@ -369,30 +393,6 @@
     "reward": null,
     "cara_ikut": "Ongoing — Deposit, Trade and Refer Users",
     "url": "https://airdrops.io/xstable/",
-    "is_new": false
-  },
-  {
-    "id": "46e91f1edccc4018",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Catalyst",
-    "ditemukan": "2026-10-13T14:32:24.458945+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Submit email and wait for waitlist access",
-    "url": "https://airdrops.io/catalyst-2/",
-    "is_new": false
-  },
-  {
-    "id": "c5c40fbdf70b5169",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Nous Research",
-    "ditemukan": "2026-10-12T17:32:19.169164+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Sgn Up, Install Agent and Contribute",
-    "url": "https://airdrops.io/nous-research/",
     "is_new": false
   },
   {
