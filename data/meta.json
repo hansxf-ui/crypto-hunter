@@ -1,11 +1,11 @@
 {
-  "last_scan": "2026-10-24T12:32:27.800419+00:00",
+  "last_scan": "2026-10-24T17:32:23.335198+00:00",
   "sources": {
     "binance": "ok",
     "bybit": "error",
     "okx": "ok",
     "indodax": "ok",
-    "tokocrypto": "error",
+    "tokocrypto": "ok",
     "pintu": "ok",
     "cryptorank_drop": "ok",
     "airdrops_io": "ok",
