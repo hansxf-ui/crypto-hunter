@@ -1,5 +1,17 @@
 [
   {
+    "id": "7993fef22acfb106",
+    "kategori": "listing",
+    "exchange": "Binance",
+    "judul": "Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-10-28",
+    "ditemukan": "2026-10-26T08:32:12.239473+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://www.binance.com/en/support/announcement/8a61b05a34694eab8e2044b6e005e85a",
+    "is_new": true
+  },
+  {
     "id": "3c065d651446649f",
     "kategori": "listing",
     "exchange": "Binance",
@@ -9,7 +21,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://www.binance.com/en/support/announcement/02d204fc963f4f8687599fc22a13d538",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "f7f66341252fadf3",
@@ -225,18 +237,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://www.binance.com/en/support/announcement/1718842b00ee41479c763ef27b6312f0",
-    "is_new": false
-  },
-  {
-    "id": "5d40d7546e0c1132",
-    "kategori": "listing",
-    "exchange": "Binance",
-    "judul": "Binance Will List Hyperliquid (HYPE) with Seed Tag Applied",
-    "ditemukan": "2026-10-06T00:34:05.471066+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://www.binance.com/en/support/announcement/d49de208bb6d4a26b02677d7c3d89b5d",
     "is_new": false
   },
   {
