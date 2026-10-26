@@ -480,6 +480,18 @@
     "is_new": false
   },
   {
+    "id": "d051dd5adf10ef28",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Update Migrasi Jaringan Lisk (LSK) Mainnet ke ERC20",
+    "ditemukan": "2026-10-26T04:32:14.170644+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/update-migrasi-jaringan-lisk-lsk/",
+    "is_new": true
+  },
+  {
     "id": "e1a9e2068b05e086",
     "kategori": "listing",
     "exchange": "Indodax",
@@ -705,18 +717,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://blog.indodax.com/promo-indodax-gwk/",
-    "is_new": false
-  },
-  {
-    "id": "061ada686ce28575",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "Dapatkan Cashback OVO Points hingga 20.000 OVO Points",
-    "ditemukan": "2026-10-01T07:32:12.809580+00:00",
-    "deadline": "2026-01-10T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/cashback-ovo-points-okt26/",
     "is_new": false
   },
   {
