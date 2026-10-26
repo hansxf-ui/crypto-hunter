@@ -9,7 +9,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://www.binance.com/en/support/announcement/8a61b05a34694eab8e2044b6e005e85a",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "3c065d651446649f",
@@ -480,6 +480,18 @@
     "is_new": false
   },
   {
+    "id": "16bc9d7b7f852ab7",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "ASK ME ANYTHING bersama Augur",
+    "ditemukan": "2026-10-26T09:32:12.071451+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/ama-augur/",
+    "is_new": true
+  },
+  {
     "id": "d051dd5adf10ef28",
     "kategori": "listing",
     "exchange": "Indodax",
@@ -705,18 +717,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://blog.indodax.com/promo-indodax-clubwyndham/",
-    "is_new": false
-  },
-  {
-    "id": "261b55c2438d65a2",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "Nikmati Diskon 20% di GWK Cultural Park & Jendela Bali Restaurant dengan Akun INDODAX!",
-    "ditemukan": "2026-10-01T11:32:12.177369+00:00",
-    "deadline": "2026-01-10T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/promo-indodax-gwk/",
     "is_new": false
   },
   {
