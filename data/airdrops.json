@@ -19,9 +19,57 @@
     "ditemukan": "2026-10-23T00:32:17.828511+00:00",
     "deadline": null,
     "reward": "Points",
-    "cara_ikut": "Getting a role + 3 · Potential Oct 26, 2026 · Raise -",
+    "cara_ikut": "Trading, Liquidity + 2 · Potential Oct 26, 2026 · Raise -",
     "url": "https://cryptorank.io/drophunting/metric-activity1410",
     "is_new": false
+  },
+  {
+    "id": "9d9eae220c30cfd9",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Base",
+    "ditemukan": "2026-10-26T19:32:16.724972+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "Fill The Form + 9 · Potential Oct 26, 2026 · Raise -",
+    "url": "https://cryptorank.io/drophunting/base-activity52",
+    "is_new": true
+  },
+  {
+    "id": "da411a39774d905e",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Upd Pudgy Penguins PENGU",
+    "ditemukan": "2026-10-26T19:32:16.725102+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "Gaming, Mint NFT + 2 · Potential Oct 26, 2026 · Raise $ 20.00M + 12",
+    "url": "https://cryptorank.io/drophunting/pudgy-penguins-activity797",
+    "is_new": true
+  },
+  {
+    "id": "ec957d0fbcd8f0d3",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "RAFA Finance",
+    "ditemukan": "2026-10-26T19:32:16.725216+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "Testnet, Predictions · Confirmed Oct 26, 2026 · Raise -",
+    "url": "https://cryptorank.io/drophunting/rafa-finance-activity1372",
+    "is_new": true
+  },
+  {
+    "id": "8a5134186b5164b3",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "D3",
+    "ditemukan": "2026-10-26T19:32:16.725337+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise $ 30.00M + 13",
+    "url": "https://cryptorank.io/drophunting/d-3-global-activity662",
+    "is_new": true
   },
   {
     "id": "d5efb5ef4294cbb1",
@@ -30,10 +78,10 @@
     "judul": "Ritual RITUAL",
     "ditemukan": "2026-10-26T17:32:15.377241+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "No active tasks · Reward Available Oct 26, 2026 · Raise $ 25.00M + 15",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise $ 25.00M + 15",
     "url": "https://cryptorank.io/drophunting/ritual-activity777",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "025a19679c295b93",
@@ -42,22 +90,22 @@
     "judul": "MINTED MNTD",
     "ditemukan": "2026-10-23T21:32:18.236614+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "No active tasks · Reward Available Oct 23, 2026 · Raise -",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/mint-casino-activity1247",
     "is_new": false
   },
   {
-    "id": "9fa77ab22de66558",
+    "id": "3ba9defa49ab5352",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
-    "judul": "Upd predict.fun PREDICT",
-    "ditemukan": "2026-10-26T10:32:15.854347+00:00",
+    "judul": "predict.fun PREDICT",
+    "ditemukan": "2026-10-26T19:32:16.725661+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "Predictions + 2 · Potential Oct 23, 2026 · Raise -",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/predict-fun-activity1019",
-    "is_new": false
+    "is_new": true
   },
   {
     "id": "06591a79b0f7f541",
@@ -192,54 +240,6 @@
     "is_new": false
   },
   {
-    "id": "1af406b311d71ca7",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Sirius Protocol",
-    "ditemukan": "2026-10-22T11:32:21.845183+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise -",
-    "url": "https://cryptorank.io/drophunting/sirius-protocol-activity1335",
-    "is_new": false
-  },
-  {
-    "id": "287361ba52e89929",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Catalyst",
-    "ditemukan": "2026-10-22T11:32:21.845263+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise $ 30.00M + 4",
-    "url": "https://cryptorank.io/drophunting/catalyst-app-activity1336",
-    "is_new": false
-  },
-  {
-    "id": "afda06db9d334e57",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "RISEx",
-    "ditemukan": "2026-10-22T11:32:21.845331+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise -",
-    "url": "https://cryptorank.io/drophunting/risex-activity1043",
-    "is_new": false
-  },
-  {
-    "id": "fe16eecd18206196",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Apyx APYX",
-    "ditemukan": "2026-10-22T11:32:21.845413+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise $ 3.00M",
-    "url": "https://cryptorank.io/drophunting/apyx-activity1111",
-    "is_new": false
-  },
-  {
     "id": "cbdc3edcb3dc5c02",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -249,7 +249,7 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Sign in, Create Post, Complete Social Tasks",
     "url": "https://airdrops.io/xyper/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "6436fa1dc0a38a9c",
@@ -511,7 +511,7 @@
     "ditemukan": "2026-10-15T17:32:35.343019+00:00",
     "deadline": null,
     "reward": null,
-    "cara_ikut": "Ongoing — Make Swaps to Collect XPs",
+    "cara_ikut": "Ongoing — Trade Perps to Earn xPerps",
     "url": "https://airdrops.io/jumper-exchange/",
     "is_new": false
   },
