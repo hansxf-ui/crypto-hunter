@@ -33,7 +33,7 @@
     "reward": "Airdrop",
     "cara_ikut": "Fill The Form + 9 · Potential Oct 26, 2026 · Raise -",
     "url": "https://cryptorank.io/drophunting/base-activity52",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "da411a39774d905e",
@@ -45,7 +45,7 @@
     "reward": "Airdrop",
     "cara_ikut": "Gaming, Mint NFT + 2 · Potential Oct 26, 2026 · Raise $ 20.00M + 12",
     "url": "https://cryptorank.io/drophunting/pudgy-penguins-activity797",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ec957d0fbcd8f0d3",
@@ -57,7 +57,7 @@
     "reward": "Airdrop",
     "cara_ikut": "Testnet, Predictions · Confirmed Oct 26, 2026 · Raise -",
     "url": "https://cryptorank.io/drophunting/rafa-finance-activity1372",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "8a5134186b5164b3",
@@ -69,7 +69,7 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise $ 30.00M + 13",
     "url": "https://cryptorank.io/drophunting/d-3-global-activity662",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "d5efb5ef4294cbb1",
@@ -105,7 +105,7 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/predict-fun-activity1019",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "06591a79b0f7f541",
@@ -237,18 +237,6 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise $ 9.50M + 6",
     "url": "https://cryptorank.io/drophunting/qfex-activity1117",
-    "is_new": false
-  },
-  {
-    "id": "cbdc3edcb3dc5c02",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "XYPER",
-    "ditemukan": "2026-10-26T17:32:15.834968+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Sign in, Create Post, Complete Social Tasks",
-    "url": "https://airdrops.io/xyper/",
     "is_new": false
   },
   {
@@ -396,6 +384,18 @@
     "is_new": false
   },
   {
+    "id": "6cc7797f2155379c",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "TxFlow",
+    "ditemukan": "2026-10-26T23:32:21.168101+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Sign Up, Deposit and Trade to Earn",
+    "url": "https://airdrops.io/txflow/",
+    "is_new": true
+  },
+  {
     "id": "de7b255a0625fc80",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -444,18 +444,6 @@
     "is_new": false
   },
   {
-    "id": "896f6dd235a6c5b8",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "BULK",
-    "ditemukan": "2026-09-30T22:27:57.915298+08:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Sign up & Trade",
-    "url": "https://airdrops.io/bulk/",
-    "is_new": false
-  },
-  {
     "id": "2d3a6a79ade998cc",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -465,6 +453,18 @@
     "reward": null,
     "cara_ikut": "Ongoing — Create Wallet, Complete Check-In, Finish Social Tasks",
     "url": "https://airdrops.io/amadeus-protocol/",
+    "is_new": false
+  },
+  {
+    "id": "896f6dd235a6c5b8",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "BULK",
+    "ditemukan": "2026-09-30T22:27:57.915298+08:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Sign up & Trade",
+    "url": "https://airdrops.io/bulk/",
     "is_new": false
   },
   {
