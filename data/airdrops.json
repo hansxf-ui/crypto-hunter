@@ -24,6 +24,18 @@
     "is_new": false
   },
   {
+    "id": "d5efb5ef4294cbb1",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Ritual RITUAL",
+    "ditemukan": "2026-10-26T17:32:15.377241+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "No active tasks · Reward Available Oct 26, 2026 · Raise $ 25.00M + 15",
+    "url": "https://cryptorank.io/drophunting/ritual-activity777",
+    "is_new": true
+  },
+  {
     "id": "025a19679c295b93",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
@@ -54,8 +66,8 @@
     "judul": "Reflect",
     "ditemukan": "2026-10-23T15:32:15.746256+00:00",
     "deadline": null,
-    "reward": "Points",
-    "cara_ikut": "Liquidity, Hold + 2 · Confirmed Oct 23, 2026 · Raise $ 3.75M + 2",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise $ 3.75M + 2",
     "url": "https://cryptorank.io/drophunting/reflects-activity929",
     "is_new": false
   },
@@ -228,16 +240,16 @@
     "is_new": false
   },
   {
-    "id": "996ddc28fbe256cc",
+    "id": "cbdc3edcb3dc5c02",
     "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Backed (xStocks)",
-    "ditemukan": "2026-10-22T11:32:21.845491+00:00",
+    "exchange": "Airdrops.io",
+    "judul": "XYPER",
+    "ditemukan": "2026-10-26T17:32:15.834968+00:00",
     "deadline": null,
     "reward": null,
-    "cara_ikut": "Sign up to view data · Raise $ 12.70M + 6",
-    "url": "https://cryptorank.io/drophunting/backed-activity1126",
-    "is_new": false
+    "cara_ikut": "Ongoing, Confirmed — Sign in, Create Post, Complete Social Tasks",
+    "url": "https://airdrops.io/xyper/",
+    "is_new": true
   },
   {
     "id": "6436fa1dc0a38a9c",
@@ -381,18 +393,6 @@
     "reward": null,
     "cara_ikut": "Ongoing — Trade, Earn PAPER and Stake for USDC",
     "url": "https://airdrops.io/papertrade/",
-    "is_new": false
-  },
-  {
-    "id": "6cc7797f2155379c",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "TxFlow",
-    "ditemukan": "2026-10-14T15:32:22.376617+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Sign Up, Deposit and Trade to Earn",
-    "url": "https://airdrops.io/txflow/",
     "is_new": false
   },
   {
