@@ -240,6 +240,18 @@
     "is_new": false
   },
   {
+    "id": "cbdc3edcb3dc5c02",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "XYPER",
+    "ditemukan": "2026-10-27T14:32:14.567525+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Sign in, Create Post, Complete Social Tasks",
+    "url": "https://airdrops.io/xyper/",
+    "is_new": true
+  },
+  {
     "id": "6436fa1dc0a38a9c",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -381,18 +393,6 @@
     "reward": null,
     "cara_ikut": "Ongoing — Trade, Earn PAPER and Stake for USDC",
     "url": "https://airdrops.io/papertrade/",
-    "is_new": false
-  },
-  {
-    "id": "6cc7797f2155379c",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "TxFlow",
-    "ditemukan": "2026-10-26T23:32:21.168101+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Sign Up, Deposit and Trade to Earn",
-    "url": "https://airdrops.io/txflow/",
     "is_new": false
   },
   {
