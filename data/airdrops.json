@@ -24,16 +24,28 @@
     "is_new": false
   },
   {
-    "id": "9d9eae220c30cfd9",
+    "id": "00950cc8e0981bdb",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
-    "judul": "Base",
-    "ditemukan": "2026-10-26T19:32:16.724972+00:00",
+    "judul": "Upd Base",
+    "ditemukan": "2026-10-27T15:32:14.312141+00:00",
     "deadline": null,
     "reward": "Airdrop",
-    "cara_ikut": "Fill The Form + 9 · Potential Oct 26, 2026 · Raise -",
+    "cara_ikut": "Fill The Form + 9 · Potential Oct 27, 2026 · Raise -",
     "url": "https://cryptorank.io/drophunting/base-activity52",
-    "is_new": false
+    "is_new": true
+  },
+  {
+    "id": "b97a116b9c1f9621",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Upd VOICE",
+    "ditemukan": "2026-10-27T15:32:14.312224+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "Social + 4 · Potential Oct 27, 2026 · Raise -",
+    "url": "https://cryptorank.io/drophunting/voice-activity1288",
+    "is_new": true
   },
   {
     "id": "da411a39774d905e",
@@ -54,8 +66,8 @@
     "judul": "RAFA Finance",
     "ditemukan": "2026-10-26T19:32:16.725216+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "Testnet, Predictions · Confirmed Oct 26, 2026 · Raise -",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/rafa-finance-activity1372",
     "is_new": false
   },
@@ -117,18 +129,6 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise $ 3.75M + 2",
     "url": "https://cryptorank.io/drophunting/reflects-activity929",
-    "is_new": false
-  },
-  {
-    "id": "1f6a0295ee93e467",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "VOICE",
-    "ditemukan": "2026-10-23T21:32:18.236880+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise -",
-    "url": "https://cryptorank.io/drophunting/voice-activity1288",
     "is_new": false
   },
   {
@@ -249,7 +249,7 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Sign in, Create Post, Complete Social Tasks",
     "url": "https://airdrops.io/xyper/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "6436fa1dc0a38a9c",
@@ -513,18 +513,6 @@
     "reward": null,
     "cara_ikut": "Ongoing — Trade Perps to Earn xPerps",
     "url": "https://airdrops.io/jumper-exchange/",
-    "is_new": false
-  },
-  {
-    "id": "a87b929d3d009c14",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "VOICE",
-    "ditemukan": "2026-10-20T10:32:20.714094+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Complete Social Camp tasks and upgrade VOICY Pass tier",
-    "url": "https://airdrops.io/voice/",
     "is_new": false
   }
 ]
