@@ -24,6 +24,18 @@
     "is_new": false
   },
   {
+    "id": "e1c13f45e176a538",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "New Mochatrade",
+    "ditemukan": "2026-10-27T19:32:17.886832+00:00",
+    "deadline": null,
+    "reward": "Whitelist/Waitlist",
+    "cara_ikut": "Fill The Form · Potential Oct 27, 2026 · Raise $ 5.56M + 5",
+    "url": "https://cryptorank.io/drophunting/mochatrade-activity1414",
+    "is_new": true
+  },
+  {
     "id": "d8f4c39fe52680e0",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
@@ -33,7 +45,7 @@
     "reward": "Points",
     "cara_ikut": "Trading, Social + 1 · Confirmed Oct 27, 2026 · Raise $ 5.00M + 2",
     "url": "https://cryptorank.io/drophunting/hibachi-activity744",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "03a26eabed4df5de",
@@ -45,7 +57,7 @@
     "reward": "Points",
     "cara_ikut": "Bounty Platforms · Confirmed Oct 27, 2026 · Raise $ 300.00K",
     "url": "https://cryptorank.io/drophunting/raflux-activity1413",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "47b0c4ea785d7c3b",
@@ -54,10 +66,10 @@
     "judul": "Forte",
     "ditemukan": "2026-10-27T18:32:13.856965+00:00",
     "deadline": null,
-    "reward": "Points",
-    "cara_ikut": "Testnet, Trading + 3 · Confirmed Oct 27, 2026 · Raise $ 910.00M + 9",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise $ 910.00M + 9",
     "url": "https://cryptorank.io/drophunting/forte-activity938",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "07f6b1bbe33c7776",
@@ -81,7 +93,7 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise $ 9.50M + 6",
     "url": "https://cryptorank.io/drophunting/qfex-activity1117",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "9d9eae220c30cfd9",
@@ -93,7 +105,7 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/base-activity52",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "1f6a0295ee93e467",
@@ -225,18 +237,6 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise $ 500.00K + 4",
     "url": "https://cryptorank.io/drophunting/x-stable-activity1412",
-    "is_new": false
-  },
-  {
-    "id": "f25c6905b2739f38",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Cashmere Labs CSM",
-    "ditemukan": "2026-10-22T15:32:23.814276+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise -",
-    "url": "https://cryptorank.io/drophunting/cashmere-labs-activity875",
     "is_new": false
   },
   {
@@ -408,18 +408,6 @@
     "is_new": false
   },
   {
-    "id": "378fa86420d03957",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "RISEx",
-    "ditemukan": "2026-09-30T22:27:57.915118+08:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Sign Up, Enable Trading, Trade & Refer",
-    "url": "https://airdrops.io/risex/",
-    "is_new": false
-  },
-  {
     "id": "f1a1a8661356f909",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -429,6 +417,18 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Trade on Kraken Pro & Interact with Dapps",
     "url": "https://airdrops.io/ink-chain/",
+    "is_new": false
+  },
+  {
+    "id": "378fa86420d03957",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "RISEx",
+    "ditemukan": "2026-09-30T22:27:57.915118+08:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Sign Up, Enable Trading, Trade & Refer",
+    "url": "https://airdrops.io/risex/",
     "is_new": false
   },
   {
