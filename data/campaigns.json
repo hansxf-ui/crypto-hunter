@@ -1,5 +1,17 @@
 [
   {
+    "id": "f4d2c472e83fd848",
+    "kategori": "campaign",
+    "exchange": "Pintu Promo",
+    "judul": "Trading Futures, Bonus Hingga 3 BTC Price Game Credits!",
+    "ditemukan": "2026-10-27T10:32:22.665829+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Selama 9 sampai 30 November 2026, setiap trading Futures kamu bisa jadi kesempatan main BTC Price Game. Buka posisi long atau...",
+    "url": "https://blog.pintu.co.id/id/posts/futures-trade-bonus-btc-price-game-credits-november-2026",
+    "is_new": true
+  },
+  {
     "id": "bc996dcdba0b83cf",
     "kategori": "campaign",
     "exchange": "Pintu Promo",
@@ -9,7 +21,7 @@
     "reward": "Rp150.000",
     "cara_ikut": "Belum pernah trading di Pintu Futures? Selama November 2026, kamu bisa dapat bonus Rp150.000 untuk trading pertama kamu di Pintu Futures...",
     "url": "https://blog.pintu.co.id/id/posts/trading-futures-lite-bonus-november-2026",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "8dcf219a29e31b05",
@@ -225,18 +237,6 @@
     "reward": null,
     "cara_ikut": "Hi Teman Pintu, benefit PTU staking kali ini pastinya ditunggu-tunggu oleh kamu yang suka shopping! Yuk, simak syarat dan ketentuan lengkapnya...",
     "url": "https://blog.pintu.co.id/id/posts/ptu-staking-benefit-agustus-2026",
-    "is_new": false
-  },
-  {
-    "id": "1f41a2b8ba03fcbb",
-    "kategori": "campaign",
-    "exchange": "Pintu Promo",
-    "judul": "Selesaikan Misinya, Dapatkan Bonus Total Senilai Rp65.000!",
-    "ditemukan": "2026-10-11T04:32:31.437344+00:00",
-    "deadline": null,
-    "reward": "Rp65.000",
-    "cara_ikut": "Daftar, KYC & Trading di Pintu, Bonus Rp65.000 US Stocks ● Promo periode 1 - 31 Agustus 2026 Daftar, KYC, dan...",
-    "url": "https://blog.pintu.co.id/id/posts/first-trade-di-pintu-bonus-emas-us-stocks-agustus-2026",
     "is_new": false
   }
 ]
