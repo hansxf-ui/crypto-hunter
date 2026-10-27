@@ -19,9 +19,33 @@
     "ditemukan": "2026-10-23T00:32:17.828511+00:00",
     "deadline": null,
     "reward": "Points",
-    "cara_ikut": "Trading, Liquidity + 2 · Potential Oct 27, 2026 · Raise -",
+    "cara_ikut": "Trading, Mainnet + 2 · Potential Oct 27, 2026 · Raise -",
     "url": "https://cryptorank.io/drophunting/metric-activity1410",
     "is_new": false
+  },
+  {
+    "id": "07f6b1bbe33c7776",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "SandwatchAI WATCH",
+    "ditemukan": "2026-10-27T17:32:17.132343+00:00",
+    "deadline": null,
+    "reward": "Points",
+    "cara_ikut": "Bounty Platforms + 1 · Confirmed Oct 27, 2026 · Raise -",
+    "url": "https://cryptorank.io/drophunting/sandwatch-ai-activity651",
+    "is_new": true
+  },
+  {
+    "id": "9b84d27781c0d167",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Upd QFEX",
+    "ditemukan": "2026-10-27T17:32:17.132446+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "Trading + 1 · Potential Oct 27, 2026 · Raise $ 9.50M + 6",
+    "url": "https://cryptorank.io/drophunting/qfex-activity1117",
+    "is_new": true
   },
   {
     "id": "00950cc8e0981bdb",
@@ -33,31 +57,31 @@
     "reward": "Airdrop",
     "cara_ikut": "Fill The Form + 9 · Potential Oct 27, 2026 · Raise -",
     "url": "https://cryptorank.io/drophunting/base-activity52",
-    "is_new": true
+    "is_new": false
   },
   {
-    "id": "b97a116b9c1f9621",
+    "id": "1f6a0295ee93e467",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
-    "judul": "Upd VOICE",
-    "ditemukan": "2026-10-27T15:32:14.312224+00:00",
+    "judul": "VOICE",
+    "ditemukan": "2026-10-27T17:32:17.132607+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "Social + 4 · Potential Oct 27, 2026 · Raise -",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/voice-activity1288",
     "is_new": true
   },
   {
-    "id": "da411a39774d905e",
+    "id": "74d761ea49124565",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
-    "judul": "Upd Pudgy Penguins PENGU",
-    "ditemukan": "2026-10-26T19:32:16.725102+00:00",
+    "judul": "Pudgy Penguins PENGU",
+    "ditemukan": "2026-10-27T17:32:17.132698+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "Gaming, Mint NFT + 2 · Potential Oct 26, 2026 · Raise $ 20.00M + 12",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise $ 20.00M + 12",
     "url": "https://cryptorank.io/drophunting/pudgy-penguins-activity797",
-    "is_new": false
+    "is_new": true
   },
   {
     "id": "ec957d0fbcd8f0d3",
@@ -216,28 +240,16 @@
     "is_new": false
   },
   {
-    "id": "6b283a900f595338",
+    "id": "0282d7b65ee95cb6",
     "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "SUMEX",
-    "ditemukan": "2026-10-22T11:32:21.844962+00:00",
+    "exchange": "Airdrops.io",
+    "judul": "DuelBet",
+    "ditemukan": "2026-10-27T17:32:18.072480+00:00",
     "deadline": null,
     "reward": null,
-    "cara_ikut": "Sign up to view data · Raise -",
-    "url": "https://cryptorank.io/drophunting/sumex-activity1099",
-    "is_new": false
-  },
-  {
-    "id": "b7bad301cb753b47",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "QFEX",
-    "ditemukan": "2026-10-20T16:32:33.069576+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise $ 9.50M + 6",
-    "url": "https://cryptorank.io/drophunting/qfex-activity1117",
-    "is_new": false
+    "cara_ikut": "Ongoing, Confirmed — Deposit, Play Games & Refer to Earn",
+    "url": "https://airdrops.io/duelbet/",
+    "is_new": true
   },
   {
     "id": "cbdc3edcb3dc5c02",
@@ -381,18 +393,6 @@
     "reward": null,
     "cara_ikut": "Ongoing — Make Gift Card, Follow Social Accounts, Dm Admin",
     "url": "https://airdrops.io/p2p-gifts/",
-    "is_new": false
-  },
-  {
-    "id": "d9b69ad952fa6fa5",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Papertrade",
-    "ditemukan": "2026-10-17T10:32:30.230022+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Trade, Earn PAPER and Stake for USDC",
-    "url": "https://airdrops.io/papertrade/",
     "is_new": false
   },
   {
