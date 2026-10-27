@@ -1,5 +1,17 @@
 [
   {
+    "id": "bc996dcdba0b83cf",
+    "kategori": "campaign",
+    "exchange": "Pintu Promo",
+    "judul": "Trading Futures Lite Pertama, Bonus Hingga Rp150.000!",
+    "ditemukan": "2026-10-27T09:32:24.294130+00:00",
+    "deadline": null,
+    "reward": "Rp150.000",
+    "cara_ikut": "Belum pernah trading di Pintu Futures? Selama November 2026, kamu bisa dapat bonus Rp150.000 untuk trading pertama kamu di Pintu Futures...",
+    "url": "https://blog.pintu.co.id/id/posts/trading-futures-lite-bonus-november-2026",
+    "is_new": true
+  },
+  {
     "id": "8dcf219a29e31b05",
     "kategori": "campaign",
     "exchange": "Pintu Promo",
@@ -19,7 +31,7 @@
     "ditemukan": "2026-10-13T09:32:21.618851+00:00",
     "deadline": null,
     "reward": "Rp2 Juta",
-    "cara_ikut": "Hi Teman Pintu, Yuk ikutan giveaway yang berlangsung di X. Menangkan total hadiah senilai Rp2 juta dalam bentuk USDT! Cek mekanisme...",
+    "cara_ikut": "Hi Teman Pintu, Yuk ikutan giveaway yang berlangsung di X. Menangkan total hadiah senilai Rp2 juta dalam bentuk tokenized stock! Cek...",
     "url": "https://blog.pintu.co.id/id/posts/explain-futures-lite-giveaway-x-oktober-2026",
     "is_new": false
   },
@@ -225,18 +237,6 @@
     "reward": "Rp65.000",
     "cara_ikut": "Daftar, KYC & Trading di Pintu, Bonus Rp65.000 US Stocks ● Promo periode 1 - 31 Agustus 2026 Daftar, KYC, dan...",
     "url": "https://blog.pintu.co.id/id/posts/first-trade-di-pintu-bonus-emas-us-stocks-agustus-2026",
-    "is_new": false
-  },
-  {
-    "id": "8f19d72172fb229d",
-    "kategori": "campaign",
-    "exchange": "Pintu Promo",
-    "judul": "Trading Futures Pertamamu di Pintu, Dapatkan Bonus Total Senilai Rp150.000!",
-    "ditemukan": "2026-10-11T04:32:31.437373+00:00",
-    "deadline": null,
-    "reward": "Rp150.000",
-    "cara_ikut": "First Futures Lite Trade + Fee Rebate, Bonus up to Rp150.000 ● Promo periode 1 - 31 Agustus 2026 Trading Futures...",
-    "url": "https://blog.pintu.co.id/id/posts/trading-futures-lite-pertama-bonus-cashback-agustus-2026",
     "is_new": false
   }
 ]
