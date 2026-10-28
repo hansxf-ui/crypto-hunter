@@ -9,7 +9,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://www.binance.com/en/support/announcement/3f180bddad424ea5b7a00148433721dc",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "04685db5c13927e6",
@@ -21,7 +21,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://www.binance.com/en/support/announcement/5a326408b6404d69b474f3fab7acfa66",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "7993fef22acfb106",
@@ -744,24 +744,12 @@
     "is_new": false
   },
   {
-    "id": "27a8ecbbad50c313",
-    "kategori": "listing",
-    "exchange": "Pintu",
-    "judul": "Pengumuman: Limit Deposit Bank INA & Bank Nobu Naik hingga Rp10 Miliar per Transaksi",
-    "ditemukan": "2026-10-28T03:32:23.335158+00:00",
-    "deadline": "2026-10-27T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://pintu.co.id/blog/pengumuman-limit-deposit-bank-ina-bank-nobu-naik-hingga-rp10-miliar-per-transaksi",
-    "is_new": true
-  },
-  {
     "id": "7b52b64d89c2eb9e",
     "kategori": "listing",
     "exchange": "Pintu",
     "judul": "Pintu Listing Aset Tokenized Baru, 21 Oktober 2026",
     "ditemukan": "2026-10-22T21:32:31.042841+00:00",
-    "deadline": "2026-10-27T00:00:00",
+    "deadline": "2026-10-21T00:00:00",
     "reward": null,
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/pintu-listing-aset-tokenized-baru-21oktober2026",
@@ -862,5 +850,17 @@
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/pengumuman-token-stg-dikonversi-menjadi-zro",
     "is_new": false
+  },
+  {
+    "id": "08fa178a3789e399",
+    "kategori": "listing",
+    "exchange": "Pintu",
+    "judul": "Pintu Listing 2 Token Baru, 24 September 2026",
+    "ditemukan": "2026-10-28T04:32:14.215741+00:00",
+    "deadline": "2026-09-25T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://pintu.co.id/blog/pintu-listing-2-token-baru-24sep26",
+    "is_new": true
   }
 ]
