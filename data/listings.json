@@ -1,5 +1,29 @@
 [
   {
+    "id": "71ddbcf119a455f8",
+    "kategori": "listing",
+    "exchange": "Binance",
+    "judul": "Binance Will Add 5 bStocks Tokenized Securities as Collateral Asset - 2026-10-28",
+    "ditemukan": "2026-10-28T03:32:19.650969+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://www.binance.com/en/support/announcement/3f180bddad424ea5b7a00148433721dc",
+    "is_new": true
+  },
+  {
+    "id": "04685db5c13927e6",
+    "kategori": "listing",
+    "exchange": "Binance",
+    "judul": "Binance Exchange Adds Applovin Corp (APPB), Bending Spoons (BSPB), GE Vernova Inc (GEVB), GraniteShares 2x Short SK Hynix Daily ETF (SKDDB) and GraniteShares 2x Long SK Hynix Daily ETF (SKUUB) bStocks Trading Pairs on Binance Spot/Convert and Extends Zero Maker Fee Promotion - 2026-10-28",
+    "ditemukan": "2026-10-28T03:32:19.651050+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://www.binance.com/en/support/announcement/5a326408b6404d69b474f3fab7acfa66",
+    "is_new": true
+  },
+  {
     "id": "7993fef22acfb106",
     "kategori": "listing",
     "exchange": "Binance",
@@ -213,30 +237,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://www.binance.com/en/support/announcement/d3a2cc0c1b5f42a2aee9a8bda2bd8e94",
-    "is_new": false
-  },
-  {
-    "id": "68d5e22ac6d9dbea",
-    "kategori": "listing",
-    "exchange": "Binance",
-    "judul": "Binance Futures Will Launch Multiple TradFi USDⓈ-Margined Perpetual Contracts (2026-09-28)",
-    "ditemukan": "2026-10-06T00:34:05.471049+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://www.binance.com/en/support/announcement/d4c5a66cdce246cc952d13bab215b688",
-    "is_new": false
-  },
-  {
-    "id": "c39151944b018d53",
-    "kategori": "listing",
-    "exchange": "Binance",
-    "judul": "Binance Will Add Hyperliquid (HYPE) on Earn, Buy Crypto, Convert, VIP Loan & Margin",
-    "ditemukan": "2026-10-06T00:34:05.471058+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://www.binance.com/en/support/announcement/1718842b00ee41479c763ef27b6312f0",
     "is_new": false
   },
   {
@@ -744,12 +744,24 @@
     "is_new": false
   },
   {
+    "id": "27a8ecbbad50c313",
+    "kategori": "listing",
+    "exchange": "Pintu",
+    "judul": "Pengumuman: Limit Deposit Bank INA & Bank Nobu Naik hingga Rp10 Miliar per Transaksi",
+    "ditemukan": "2026-10-28T03:32:23.335158+00:00",
+    "deadline": "2026-10-27T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://pintu.co.id/blog/pengumuman-limit-deposit-bank-ina-bank-nobu-naik-hingga-rp10-miliar-per-transaksi",
+    "is_new": true
+  },
+  {
     "id": "7b52b64d89c2eb9e",
     "kategori": "listing",
     "exchange": "Pintu",
     "judul": "Pintu Listing Aset Tokenized Baru, 21 Oktober 2026",
     "ditemukan": "2026-10-22T21:32:31.042841+00:00",
-    "deadline": "2026-10-21T00:00:00",
+    "deadline": "2026-10-27T00:00:00",
     "reward": null,
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/pintu-listing-aset-tokenized-baru-21oktober2026",
@@ -849,18 +861,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/pengumuman-token-stg-dikonversi-menjadi-zro",
-    "is_new": false
-  },
-  {
-    "id": "08fa178a3789e399",
-    "kategori": "listing",
-    "exchange": "Pintu",
-    "judul": "Pintu Listing 2 Token Baru, 24 September 2026",
-    "ditemukan": "2026-10-27T19:32:16.092426+00:00",
-    "deadline": "2026-09-25T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://pintu.co.id/blog/pintu-listing-2-token-baru-24sep26",
     "is_new": false
   }
 ]
