@@ -240,6 +240,18 @@
     "is_new": false
   },
   {
+    "id": "70f856552394ad2f",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Metamask",
+    "ditemukan": "2026-10-30T12:32:15.791353+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Trade Perps",
+    "url": "https://airdrops.io/metamask/",
+    "is_new": true
+  },
+  {
     "id": "9ef3f83639d40e1b",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -384,18 +396,6 @@
     "is_new": false
   },
   {
-    "id": "02bbf547255f9ae1",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Elysium",
-    "ditemukan": "2026-10-20T12:32:20.283342+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Claim testnet tokens, bridge and launch tokens",
-    "url": "https://airdrops.io/elysium/",
-    "is_new": false
-  },
-  {
     "id": "de7b255a0625fc80",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -444,18 +444,6 @@
     "is_new": false
   },
   {
-    "id": "2d3a6a79ade998cc",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Amadeus Protocol",
-    "ditemukan": "2026-10-05T12:32:22.856993+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Create Wallet, Complete Check-In, Finish Social Tasks",
-    "url": "https://airdrops.io/amadeus-protocol/",
-    "is_new": false
-  },
-  {
     "id": "896f6dd235a6c5b8",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -465,6 +453,18 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Sign up & Trade",
     "url": "https://airdrops.io/bulk/",
+    "is_new": false
+  },
+  {
+    "id": "2d3a6a79ade998cc",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Amadeus Protocol",
+    "ditemukan": "2026-10-05T12:32:22.856993+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Create Wallet, Complete Check-In, Finish Social Tasks",
+    "url": "https://airdrops.io/amadeus-protocol/",
     "is_new": false
   },
   {
