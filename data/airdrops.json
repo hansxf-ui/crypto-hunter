@@ -247,9 +247,9 @@
     "ditemukan": "2026-10-30T16:32:23.621166+00:00",
     "deadline": null,
     "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Invite valid referrals for the $10K contest and upgrade VOICY Pass tier",
+    "cara_ikut": "Ongoing, Confirmed — Invite valid referrals for the $10K contest",
     "url": "https://airdrops.io/voice/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "70f856552394ad2f",
@@ -489,6 +489,6 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Trade perps & refer friends",
     "url": "https://airdrops.io/variational/",
-    "is_new": true
+    "is_new": false
   }
 ]
