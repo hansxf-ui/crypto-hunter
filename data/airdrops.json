@@ -9,7 +9,7 @@
     "reward": "Points",
     "cara_ikut": "Trading, Mainnet + 2 · Potential Oct 30, 2026 · Raise -",
     "url": "https://cryptorank.io/drophunting/metric-activity1410",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "9b84d27781c0d167",
@@ -240,6 +240,18 @@
     "is_new": false
   },
   {
+    "id": "a87b929d3d009c14",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "VOICE",
+    "ditemukan": "2026-10-30T16:32:23.621166+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Invite valid referrals for the $10K contest and upgrade VOICY Pass tier",
+    "url": "https://airdrops.io/voice/",
+    "is_new": true
+  },
+  {
     "id": "70f856552394ad2f",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -384,18 +396,6 @@
     "is_new": false
   },
   {
-    "id": "d9d557d7ddd97d37",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "AllScale",
-    "ditemukan": "2026-10-22T11:32:22.447073+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Create Account, Deposit, Create Invoice and Refer",
-    "url": "https://airdrops.io/allscale/",
-    "is_new": false
-  },
-  {
     "id": "de7b255a0625fc80",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -478,5 +478,17 @@
     "cara_ikut": "Ongoing, Confirmed — Deposit, Trade & refer friends to Earn Points",
     "url": "https://airdrops.io/extended/",
     "is_new": false
+  },
+  {
+    "id": "b2c900f4ac3ab494",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Variational",
+    "ditemukan": "2026-10-30T16:32:23.621779+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Trade perps & refer friends",
+    "url": "https://airdrops.io/variational/",
+    "is_new": true
   }
 ]
