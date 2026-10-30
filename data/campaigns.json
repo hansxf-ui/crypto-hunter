@@ -1,5 +1,17 @@
 [
   {
+    "id": "953985dfee0f026f",
+    "kategori": "campaign",
+    "exchange": "Pintu Promo",
+    "judul": "Voucher Drop Pintu: Total Rp6 Juta untuk Trader Tokenized Assets",
+    "ditemukan": "2026-10-28T08:32:26.752006+00:00",
+    "deadline": null,
+    "reward": "Rp6 Juta",
+    "cara_ikut": "Voucher Drop | 29 Oktober 2026Pintu bagi-bagi 58 voucher dengan total Rp6.000.000 buat kamu yang aktif trading tokenized stocks. Pantau akun...",
+    "url": "https://blog.pintu.co.id/id/posts/voucher-drop-pintu-total-rp6-juta-untuk-trader-tokenized-assets",
+    "is_new": false
+  },
+  {
     "id": "236a9e810d86a507",
     "kategori": "campaign",
     "exchange": "Pintu Promo",
@@ -9,31 +21,7 @@
     "reward": "Rp50.000",
     "cara_ikut": "Teman Pintu, baru gabung di Pintu? Selama November 2026, transaksi beli pertamamu minimal Rp100.000 bisa dapat bonus Rp50.000 dalam bentuk saham...",
     "url": "https://blog.pintu.co.id/id/posts/first-trade-bonus-saham-apple-aaplx-november-2026",
-    "is_new": true
-  },
-  {
-    "id": "47b5f3c099cf09b3",
-    "kategori": "campaign",
-    "exchange": "Pintu Promo",
-    "judul": "11.11 Booster: Transaksi Tokenized Pertama, Dapat Bonus Rp11.000 ETF Nasdaq-100 (QQQX)",
-    "ditemukan": "2026-10-28T05:32:25.314371+00:00",
-    "deadline": null,
-    "reward": "Rp11.000",
-    "cara_ikut": "Teman Pintu, belum pernah transaksi aset tokenized? Spesial 11.11, transaksi beli pertamamu di salah satu dari 50 aset tokenized pilihan minimal...",
-    "url": "https://blog.pintu.co.id/id/posts/1111-booster-bonus-qqqx-transaksi-tokenized-pertama-november-2026",
-    "is_new": true
-  },
-  {
-    "id": "eb53eb30b8488734",
-    "kategori": "campaign",
-    "exchange": "Pintu Promo",
-    "judul": "1111PINTURWA: Trading Lagi, Bonusnya Rp35.000 ETF AI (BAIon)",
-    "ditemukan": "2026-10-28T05:32:25.314419+00:00",
-    "deadline": null,
-    "reward": "Rp35.000",
-    "cara_ikut": "Teman Pintu, udah lama gak trading? Balik trading di Pintu sekarang: beli aset apa saja minimal Rp50.000, redeem kode 1111PINTURWA, dan...",
-    "url": "https://blog.pintu.co.id/id/posts/1111pinturwa-trading-lagi-bonus-etf-ai-baion-november-2026",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "f4d2c472e83fd848",
@@ -220,7 +208,7 @@
     "kategori": "campaign",
     "exchange": "Pintu Promo",
     "judul": "Transaksi Futures Pertama di Pintu Futures Lite, Dapatkan Bonus XAUT Senilai Rp150.000!",
-    "ditemukan": "2026-10-11T04:32:31.437130+00:00",
+    "ditemukan": "2026-10-28T10:32:28.821035+00:00",
     "deadline": null,
     "reward": "Rp150.000",
     "cara_ikut": "Promo periode 1 - 30 September 2026 Lakukan transaksi Futures pertamamu di Pintu Futures Lite, dan dapatkan bonus Rp150.000 dalam bentuk...",
@@ -232,11 +220,23 @@
     "kategori": "campaign",
     "exchange": "Pintu Promo",
     "judul": "Ikuti Giveaway ‘Find the Tokens’ di X, Menangkan USDT Senilai Rp5 Juta!",
-    "ditemukan": "2026-10-11T04:32:31.437193+00:00",
+    "ditemukan": "2026-10-28T10:32:28.821077+00:00",
     "deadline": null,
     "reward": "Rp5 Juta",
     "cara_ikut": "Hi Teman Pintu, Yuk ikuti giveaway FIND THE TOKENS di X dan menangkan USDT senilai Rp5 juta! Baca mekanisme dan syarat...",
     "url": "https://blog.pintu.co.id/id/posts/giveaway-find-the-tokens-x-august-2026",
+    "is_new": false
+  },
+  {
+    "id": "8b1f4cf721ebce11",
+    "kategori": "campaign",
+    "exchange": "Pintu Promo",
+    "judul": "Ikuti Giveaway ‘Fill in the Blank’, Menangkan Total Hadiah Senilai Rp1.500.000!",
+    "ditemukan": "2026-10-28T10:32:28.821112+00:00",
+    "deadline": null,
+    "reward": "Rp1.500.000",
+    "cara_ikut": "Hi Teman Pintu, Yuk ikuti giveaway 'FILL IN THE BLANK' yang dilaksanakan di X! Menangkan total hadiah senilai Rp1.500.000! Cek mekanisme...",
+    "url": "https://blog.pintu.co.id/id/posts/fill-in-the-blank-giveaway-x-september-2026",
     "is_new": false
   }
 ]
