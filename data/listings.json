@@ -489,18 +489,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://blog.indodax.com/deposit-penarikan-kembali-dibuka/",
-    "is_new": true
-  },
-  {
-    "id": "895e67851723edad",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "Pembukaan Bertahap Deposit dan Penarikan",
-    "ditemukan": "2026-10-31T10:32:12.056280+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/pembukaan-bertahap-depo-wd/",
     "is_new": false
   },
   {
@@ -718,6 +706,18 @@
     "cara_ikut": null,
     "url": "https://blog.indodax.com/sobatsuperdax-okt26/",
     "is_new": false
+  },
+  {
+    "id": "0c3a49b8ccf46312",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Bulan Oktober Makin Seru! Ikut Kriptoween di Instagram dan Menangkan Rp2 Juta",
+    "ditemukan": "2026-10-31T14:32:20.978139+00:00",
+    "deadline": "2026-02-10T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/ig-kriptoween/",
+    "is_new": true
   },
   {
     "id": "8b2f3eb199fa8da7",
