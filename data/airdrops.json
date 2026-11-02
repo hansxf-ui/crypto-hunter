@@ -432,18 +432,6 @@
     "is_new": false
   },
   {
-    "id": "896f6dd235a6c5b8",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "BULK",
-    "ditemukan": "2026-09-30T22:27:57.915298+08:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Sign up & Trade",
-    "url": "https://airdrops.io/bulk/",
-    "is_new": false
-  },
-  {
     "id": "0dc45de9d5495455",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -453,6 +441,18 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Check Eligibility & Claim Airdrop",
     "url": "https://airdrops.io/axis-robotics/",
+    "is_new": false
+  },
+  {
+    "id": "896f6dd235a6c5b8",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "BULK",
+    "ditemukan": "2026-09-30T22:27:57.915298+08:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Sign up & Trade",
+    "url": "https://airdrops.io/bulk/",
     "is_new": false
   },
   {
@@ -478,5 +478,29 @@
     "cara_ikut": "Ongoing, Confirmed — Trade perps & refer friends",
     "url": "https://airdrops.io/variational/",
     "is_new": false
+  },
+  {
+    "id": "e72ae2bede5cf67c",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Extended",
+    "ditemukan": "2026-11-02T06:32:16.010377+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Deposit, Trade & refer friends to Earn Points",
+    "url": "https://airdrops.io/extended/",
+    "is_new": true
+  },
+  {
+    "id": "c81206f123544836",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Nado",
+    "ditemukan": "2026-11-02T06:32:16.010393+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Deposit & Trade perps",
+    "url": "https://airdrops.io/nado/",
+    "is_new": true
   }
 ]
