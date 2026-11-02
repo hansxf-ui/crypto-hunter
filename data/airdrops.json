@@ -240,6 +240,18 @@
     "is_new": false
   },
   {
+    "id": "9c236117c013fa40",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "4Dlabs",
+    "ditemukan": "2026-11-02T12:32:20.519720+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Sign Up and Complete Social Tasks",
+    "url": "https://airdrops.io/4dlabs/",
+    "is_new": true
+  },
+  {
     "id": "2376acece4e4be7f",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -249,7 +261,7 @@
     "reward": null,
     "cara_ikut": "Ongoing — Sign Up, Fund Wallet, Join Throne King Drop",
     "url": "https://airdrops.io/voltrade/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "428aa988bf4540fe",
@@ -261,7 +273,7 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed",
     "url": "https://airdrops.io/zeruai/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "1aea9df63a7a54e9",
@@ -273,7 +285,7 @@
     "reward": null,
     "cara_ikut": "Ongoing — Sign In, Complete Quests, and Invite Friends",
     "url": "https://airdrops.io/raflux/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "4356e91133473109",
@@ -285,7 +297,7 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed",
     "url": "https://airdrops.io/rarelist/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "a87b929d3d009c14",
@@ -381,18 +393,6 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Sign in, Create Post, Complete Social Tasks",
     "url": "https://airdrops.io/xyper/",
-    "is_new": false
-  },
-  {
-    "id": "6436fa1dc0a38a9c",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Monolith",
-    "ditemukan": "2026-10-23T17:32:18.028421+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Check Partner Community Positions, Mint & Stake swanUSD",
-    "url": "https://airdrops.io/monolith/",
     "is_new": false
   },
   {
