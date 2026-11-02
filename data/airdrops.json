@@ -24,6 +24,18 @@
     "is_new": false
   },
   {
+    "id": "5957569ad7be4705",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "4DLabs",
+    "ditemukan": "2026-11-02T20:32:23.935959+00:00",
+    "deadline": null,
+    "reward": "Role",
+    "cara_ikut": "Bounty Platforms + 2 · Confirmed Nov 2, 2026 · Raise -",
+    "url": "https://cryptorank.io/drophunting/4-d-labs-activity1303",
+    "is_new": true
+  },
+  {
     "id": "1eeea7d026f4922a",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
@@ -33,7 +45,7 @@
     "reward": "Airdrop",
     "cara_ikut": "Getting a role + 3 · Confirmed Nov 2, 2026 · Raise $ 7.20M + 3",
     "url": "https://cryptorank.io/drophunting/cancore-activity1416",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "35de84ff10fee424",
@@ -43,21 +55,21 @@
     "ditemukan": "2026-11-02T19:32:21.725115+00:00",
     "deadline": null,
     "reward": "Whitelist/Waitlist",
-    "cara_ikut": "No active tasks · Verification Nov 2, 2026 · Raise -",
+    "cara_ikut": "Bounty Platforms + 1 · Verification Nov 2, 2026 · Raise -",
     "url": "https://cryptorank.io/drophunting/fungo-labs-activity1334",
-    "is_new": true
+    "is_new": false
   },
   {
-    "id": "b97a116b9c1f9621",
+    "id": "1f6a0295ee93e467",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
-    "judul": "Upd VOICE",
-    "ditemukan": "2026-11-02T18:32:30.525772+00:00",
+    "judul": "VOICE",
+    "ditemukan": "2026-11-02T20:32:23.936239+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "Social + 4 · Potential Nov 2, 2026 · Raise -",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/voice-activity1288",
-    "is_new": false
+    "is_new": true
   },
   {
     "id": "410f2aabde49b1df",
@@ -69,7 +81,7 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise $ 14.00M",
     "url": "https://cryptorank.io/drophunting/entropy-2-activity1276",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "dbfcea77412644cf",
@@ -81,7 +93,7 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise $ 15.00M",
     "url": "https://cryptorank.io/drophunting/surf-ai-activity1026",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "08e43d5f9e64d47c",
@@ -225,18 +237,6 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise $ 8.00M + 1",
     "url": "https://cryptorank.io/drophunting/meme-bitcoin-activity1291",
-    "is_new": false
-  },
-  {
-    "id": "f8aa091636493a93",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Ekiden",
-    "ditemukan": "2026-10-28T15:32:48.352896+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise $ 2.00M + 16",
-    "url": "https://cryptorank.io/drophunting/ekiden-activity1207",
     "is_new": false
   },
   {
