@@ -240,6 +240,54 @@
     "is_new": false
   },
   {
+    "id": "2376acece4e4be7f",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Voltrade",
+    "ditemukan": "2026-11-02T11:32:18.853729+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Sign Up, Fund Wallet, Join Throne King Drop",
+    "url": "https://airdrops.io/voltrade/",
+    "is_new": true
+  },
+  {
+    "id": "428aa988bf4540fe",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "ZeruAI",
+    "ditemukan": "2026-11-02T11:32:18.853789+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed",
+    "url": "https://airdrops.io/zeruai/",
+    "is_new": true
+  },
+  {
+    "id": "1aea9df63a7a54e9",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Raflux",
+    "ditemukan": "2026-11-02T11:32:18.853818+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Sign In, Complete Quests, and Invite Friends",
+    "url": "https://airdrops.io/raflux/",
+    "is_new": true
+  },
+  {
+    "id": "4356e91133473109",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Rarelist",
+    "ditemukan": "2026-11-02T11:32:18.853853+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed",
+    "url": "https://airdrops.io/rarelist/",
+    "is_new": true
+  },
+  {
     "id": "a87b929d3d009c14",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -348,30 +396,6 @@
     "is_new": false
   },
   {
-    "id": "bda5b495d56d8484",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Optimum",
-    "ditemukan": "2026-10-23T16:32:18.913527+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Connect Wallet, Enter Code and Mint",
-    "url": "https://airdrops.io/optimum/",
-    "is_new": false
-  },
-  {
-    "id": "cc304ee5a569d8a4",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "SmartX",
-    "ditemukan": "2026-10-23T16:32:18.913606+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Join Waitlist, Take Test and Submit Post Link",
-    "url": "https://airdrops.io/smartx/",
-    "is_new": false
-  },
-  {
     "id": "118e4cde939b60ec",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -381,18 +405,6 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Deposit, Hold, and Earn MASK Through Nullmask Season 1",
     "url": "https://airdrops.io/nullmask/",
-    "is_new": false
-  },
-  {
-    "id": "53699962dfd73a97",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Kalos",
-    "ditemukan": "2026-10-22T16:32:27.372145+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Claim Testnet Tokens, Place Trades and Refer Users",
-    "url": "https://airdrops.io/kalos/",
     "is_new": false
   },
   {
