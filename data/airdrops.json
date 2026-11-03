@@ -24,6 +24,18 @@
     "is_new": false
   },
   {
+    "id": "92f01e06d70bd103",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "New Vana VANA",
+    "ditemukan": "2026-11-03T15:32:14.416070+00:00",
+    "deadline": null,
+    "reward": "Points",
+    "cara_ikut": "Bounty Platforms · Confirmed Nov 3, 2026 · Raise $ 25.00M + 13",
+    "url": "https://cryptorank.io/drophunting/vana-activity1417",
+    "is_new": true
+  },
+  {
     "id": "133e65021681bc54",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
@@ -33,7 +45,7 @@
     "reward": "Points",
     "cara_ikut": "Trading + 5 · Confirmed Nov 3, 2026 · Raise -",
     "url": "https://cryptorank.io/drophunting/pacifica-activity978",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "5957569ad7be4705",
@@ -54,8 +66,8 @@
     "judul": "New Cancore",
     "ditemukan": "2026-11-02T19:32:21.724982+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "Getting a role + 3 · Confirmed Nov 2, 2026 · Raise $ 7.20M + 3",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise $ 7.20M + 3",
     "url": "https://cryptorank.io/drophunting/cancore-activity1416",
     "is_new": false
   },
@@ -225,18 +237,6 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/decibel-activity1006",
-    "is_new": false
-  },
-  {
-    "id": "1a30bcff1cdf4555",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "human.tech (prev.Holonym)",
-    "ditemukan": "2026-10-28T15:32:48.352629+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise $ 5.50M + 16",
-    "url": "https://cryptorank.io/drophunting/holonym-activity891",
     "is_new": false
   },
   {
@@ -444,18 +444,6 @@
     "is_new": false
   },
   {
-    "id": "0dc45de9d5495455",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Axis Robotics",
-    "ditemukan": "2026-09-30T22:27:57.915097+08:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Check Eligibility & Claim Airdrop",
-    "url": "https://airdrops.io/axis-robotics/",
-    "is_new": false
-  },
-  {
     "id": "2d3a6a79ade998cc",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -465,6 +453,18 @@
     "reward": null,
     "cara_ikut": "Ongoing — Create Wallet, Complete Check-In, Finish Social Tasks",
     "url": "https://airdrops.io/amadeus-protocol/",
+    "is_new": false
+  },
+  {
+    "id": "0dc45de9d5495455",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Axis Robotics",
+    "ditemukan": "2026-09-30T22:27:57.915097+08:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Check Eligibility & Claim Airdrop",
+    "url": "https://airdrops.io/axis-robotics/",
     "is_new": false
   },
   {
@@ -499,7 +499,7 @@
     "ditemukan": "2026-11-02T06:32:16.010377+00:00",
     "deadline": null,
     "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Deposit, Trade & refer friends to Earn Points",
+    "cara_ikut": "Ongoing, Confirmed — Accept the Terms in the app once the window opens",
     "url": "https://airdrops.io/extended/",
     "is_new": false
   },
