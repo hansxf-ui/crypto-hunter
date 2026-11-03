@@ -480,18 +480,6 @@
     "is_new": false
   },
   {
-    "id": "56970260c7786ecd",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "Giveaway Sobat SuperDAX: Total Hadiah Rp6 Juta dalam Bentuk USDT!",
-    "ditemukan": "2026-11-03T03:32:16.873646+00:00",
-    "deadline": "2026-03-11T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/sobatsuperdax-nov26/",
-    "is_new": true
-  },
-  {
     "id": "b86b9e059b00ffbf",
     "kategori": "listing",
     "exchange": "Indodax",
@@ -718,6 +706,18 @@
     "cara_ikut": null,
     "url": "https://blog.indodax.com/buy-hold-anoa/",
     "is_new": false
+  },
+  {
+    "id": "42078a6154083b06",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "AMA Community &#8211; Beyond the Hype: Memahami Narasi di Balik Pergerakan Crypto",
+    "ditemukan": "2026-11-03T04:32:13.805831+00:00",
+    "deadline": "2026-12-10T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/ask-me-anything-community-14-okt-2026/",
+    "is_new": true
   },
   {
     "id": "8b2f3eb199fa8da7",
