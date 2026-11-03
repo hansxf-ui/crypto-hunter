@@ -24,28 +24,76 @@
     "is_new": false
   },
   {
+    "id": "8b8958fc9d8aa862",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Upd Extended XTEN",
+    "ditemukan": "2026-11-03T19:32:15.601745+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "Liquidity, Trading · Confirmed Nov 3, 2026 · Raise $ 19.00M + 6",
+    "url": "https://cryptorank.io/drophunting/x-10-activity940",
+    "is_new": true
+  },
+  {
+    "id": "41c633066c177986",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "RAX Finance",
+    "ditemukan": "2026-11-03T19:32:15.601834+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "Social + 2 · Potential Nov 3, 2026 · Raise $ 4.00M + 1",
+    "url": "https://cryptorank.io/drophunting/rax-finance-activity1073",
+    "is_new": true
+  },
+  {
+    "id": "d8f4c39fe52680e0",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Upd Hibachi",
+    "ditemukan": "2026-11-03T19:32:15.601928+00:00",
+    "deadline": null,
+    "reward": "Points",
+    "cara_ikut": "Trading, Social + 1 · Confirmed Nov 3, 2026 · Raise $ 5.00M + 2",
+    "url": "https://cryptorank.io/drophunting/hibachi-activity744",
+    "is_new": true
+  },
+  {
+    "id": "ea9803f36b4a4389",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "BULK",
+    "ditemukan": "2026-11-03T19:32:15.602027+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise $ 8.00M + 9",
+    "url": "https://cryptorank.io/drophunting/bulk-activity973",
+    "is_new": true
+  },
+  {
     "id": "92f01e06d70bd103",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
     "judul": "New Vana VANA",
     "ditemukan": "2026-11-03T15:32:14.416070+00:00",
     "deadline": null,
-    "reward": "Points",
-    "cara_ikut": "Bounty Platforms · Confirmed Nov 3, 2026 · Raise $ 25.00M + 13",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise $ 25.00M + 13",
     "url": "https://cryptorank.io/drophunting/vana-activity1417",
     "is_new": false
   },
   {
-    "id": "133e65021681bc54",
+    "id": "157854fbf827950e",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
-    "judul": "Upd Pacifica",
-    "ditemukan": "2026-11-03T14:32:14.535369+00:00",
+    "judul": "Pacifica",
+    "ditemukan": "2026-11-03T19:32:15.602260+00:00",
     "deadline": null,
-    "reward": "Points",
-    "cara_ikut": "Trading + 5 · Confirmed Nov 3, 2026 · Raise -",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/pacifica-activity978",
-    "is_new": false
+    "is_new": true
   },
   {
     "id": "5957569ad7be4705",
@@ -54,8 +102,8 @@
     "judul": "4DLabs",
     "ditemukan": "2026-11-02T20:32:23.935959+00:00",
     "deadline": null,
-    "reward": "Role",
-    "cara_ikut": "Bounty Platforms + 2 · Confirmed Nov 2, 2026 · Raise -",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/4-d-labs-activity1303",
     "is_new": false
   },
@@ -192,54 +240,6 @@
     "is_new": false
   },
   {
-    "id": "3ba9defa49ab5352",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "predict.fun PREDICT",
-    "ditemukan": "2026-10-29T17:32:25.559031+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise $ 5.80M",
-    "url": "https://cryptorank.io/drophunting/predict-fun-activity1019",
-    "is_new": false
-  },
-  {
-    "id": "7a0459db88cdf90e",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Melee",
-    "ditemukan": "2026-10-28T16:32:47.540995+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise $ 3.50M",
-    "url": "https://cryptorank.io/drophunting/melee-activity946",
-    "is_new": false
-  },
-  {
-    "id": "675c1e4387b9a76d",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Jupiter JUP",
-    "ditemukan": "2026-10-28T16:32:47.541229+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise $ 172.50M",
-    "url": "https://cryptorank.io/drophunting/jupiter-stattion-activity486",
-    "is_new": false
-  },
-  {
-    "id": "b388fdee2e2ea679",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Decibel",
-    "ditemukan": "2026-10-28T15:32:48.350462+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise -",
-    "url": "https://cryptorank.io/drophunting/decibel-activity1006",
-    "is_new": false
-  },
-  {
     "id": "63b6394b042867c6",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -249,7 +249,7 @@
     "reward": null,
     "cara_ikut": "Ongoing — Earn XP",
     "url": "https://airdrops.io/vana/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "f3bffbd52f2e239f",
