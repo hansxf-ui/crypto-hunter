@@ -21,7 +21,7 @@
     "reward": "Airdrop",
     "cara_ikut": "Trading + 1 · Potential Nov 3, 2026 · Raise $ 9.50M + 6",
     "url": "https://cryptorank.io/drophunting/qfex-activity1117",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "92f01e06d70bd103",
@@ -189,7 +189,7 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise $ 7.50M + 5",
     "url": "https://cryptorank.io/drophunting/kor-protocol-activity1236",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "3ba9defa49ab5352",
@@ -238,6 +238,18 @@
     "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/decibel-activity1006",
     "is_new": false
+  },
+  {
+    "id": "63b6394b042867c6",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Vana",
+    "ditemukan": "2026-11-03T17:32:16.441123+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Earn XP",
+    "url": "https://airdrops.io/vana/",
+    "is_new": true
   },
   {
     "id": "f3bffbd52f2e239f",
@@ -384,18 +396,6 @@
     "is_new": false
   },
   {
-    "id": "0282d7b65ee95cb6",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "DuelBet",
-    "ditemukan": "2026-10-27T17:32:18.072480+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Deposit, Play Games & Invite to Earn",
-    "url": "https://airdrops.io/duelbet/",
-    "is_new": false
-  },
-  {
     "id": "118e4cde939b60ec",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -405,6 +405,18 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Deposit, Hold, and Earn MASK Through Nullmask Season 1",
     "url": "https://airdrops.io/nullmask/",
+    "is_new": false
+  },
+  {
+    "id": "0282d7b65ee95cb6",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "DuelBet",
+    "ditemukan": "2026-10-27T17:32:18.072480+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Deposit, Play Games & Invite to Earn",
+    "url": "https://airdrops.io/duelbet/",
     "is_new": false
   },
   {
@@ -444,18 +456,6 @@
     "is_new": false
   },
   {
-    "id": "2d3a6a79ade998cc",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Amadeus Protocol",
-    "ditemukan": "2026-10-05T12:32:22.856993+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Create Wallet, Complete Check-In, Finish Social Tasks",
-    "url": "https://airdrops.io/amadeus-protocol/",
-    "is_new": false
-  },
-  {
     "id": "0dc45de9d5495455",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -465,6 +465,18 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Check Eligibility & Claim Airdrop",
     "url": "https://airdrops.io/axis-robotics/",
+    "is_new": false
+  },
+  {
+    "id": "2d3a6a79ade998cc",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Amadeus Protocol",
+    "ditemukan": "2026-10-05T12:32:22.856993+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Create Wallet, Complete Check-In, Finish Social Tasks",
+    "url": "https://airdrops.io/amadeus-protocol/",
     "is_new": false
   },
   {
