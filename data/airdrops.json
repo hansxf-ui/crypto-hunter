@@ -24,6 +24,30 @@
     "is_new": false
   },
   {
+    "id": "4348d2a73689b4c8",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "KOR Protocol KOR",
+    "ditemukan": "2026-11-04T15:32:16.153628+00:00",
+    "deadline": null,
+    "reward": "Whitelist/Waitlist",
+    "cara_ikut": "No active tasks · Reward Available Nov 4, 2026 · Raise $ 7.50M + 5",
+    "url": "https://cryptorank.io/drophunting/kor-protocol-activity1236",
+    "is_new": true
+  },
+  {
+    "id": "6c2027ddad538e76",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "New POV",
+    "ditemukan": "2026-11-04T15:32:16.153735+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "Predictions + 1 · Potential Nov 4, 2026 · Raise -",
+    "url": "https://cryptorank.io/drophunting/pov-market-activity1418",
+    "is_new": true
+  },
+  {
     "id": "e17761142ce44165",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
@@ -36,16 +60,16 @@
     "is_new": false
   },
   {
-    "id": "8b8958fc9d8aa862",
+    "id": "4cac3ab0bf04d932",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
-    "judul": "Upd Extended XTEN",
-    "ditemukan": "2026-11-03T19:32:15.601745+00:00",
+    "judul": "Extended XTEN",
+    "ditemukan": "2026-11-04T15:32:16.153970+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "Liquidity, Trading · Confirmed Nov 3, 2026 · Raise $ 19.00M + 6",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise $ 19.00M + 6",
     "url": "https://cryptorank.io/drophunting/x-10-activity940",
-    "is_new": false
+    "is_new": true
   },
   {
     "id": "41c633066c177986",
@@ -54,8 +78,8 @@
     "judul": "RAX Finance",
     "ditemukan": "2026-11-03T19:32:15.601834+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "Social + 2 · Potential Nov 3, 2026 · Raise $ 4.00M + 1",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise $ 4.00M + 1",
     "url": "https://cryptorank.io/drophunting/rax-finance-activity1073",
     "is_new": false
   },
@@ -213,30 +237,6 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise $ 2.97M",
     "url": "https://cryptorank.io/drophunting/jumper-exchange-activity1306",
-    "is_new": false
-  },
-  {
-    "id": "bca20a04d557271b",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Loaf",
-    "ditemukan": "2026-11-02T18:32:30.529543+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise -",
-    "url": "https://cryptorank.io/drophunting/loaf-activity1255",
-    "is_new": false
-  },
-  {
-    "id": "9c47216cfef122ef",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Vangrid",
-    "ditemukan": "2026-10-29T17:32:25.558795+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise $ 9.00M + 4",
-    "url": "https://cryptorank.io/drophunting/vangrid-activity1266",
     "is_new": false
   },
   {
@@ -480,18 +480,6 @@
     "is_new": false
   },
   {
-    "id": "896f6dd235a6c5b8",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "BULK",
-    "ditemukan": "2026-09-30T22:27:57.915298+08:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Sign up & Trade",
-    "url": "https://airdrops.io/bulk/",
-    "is_new": false
-  },
-  {
     "id": "e72ae2bede5cf67c",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -501,6 +489,18 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Accept the Terms in the app once the window opens",
     "url": "https://airdrops.io/extended/",
+    "is_new": false
+  },
+  {
+    "id": "896f6dd235a6c5b8",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "BULK",
+    "ditemukan": "2026-09-30T22:27:57.915298+08:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Sign up & Trade",
+    "url": "https://airdrops.io/bulk/",
     "is_new": false
   },
   {
