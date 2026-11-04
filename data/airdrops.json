@@ -24,14 +24,62 @@
     "is_new": false
   },
   {
+    "id": "be1c31d19437d194",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Upd 42 (prev. Alkimiya)",
+    "ditemukan": "2026-11-04T20:32:40.151618+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "Predictions + 5 · Confirmed Nov 4, 2026 · Raise $ 7.20M + 5",
+    "url": "https://cryptorank.io/drophunting/alkimiya-activity804",
+    "is_new": true
+  },
+  {
+    "id": "823352d4d9cb34ef",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "HertzFlow",
+    "ditemukan": "2026-11-04T20:32:40.152090+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "Social + 4 · Potential Nov 4, 2026 · Raise - + 10",
+    "url": "https://cryptorank.io/drophunting/hertzflow-activity1178",
+    "is_new": true
+  },
+  {
+    "id": "65bbebe2f1b7bba3",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Rome Protocol",
+    "ditemukan": "2026-11-04T20:32:40.152558+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "Testnet + 6 · Confirmed Nov 4, 2026 · Raise $ 9.00M + 14",
+    "url": "https://cryptorank.io/drophunting/rome-protocol-activity539",
+    "is_new": true
+  },
+  {
+    "id": "7373385bbfc08bfe",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Beep",
+    "ditemukan": "2026-11-04T20:32:40.155981+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise -",
+    "url": "https://cryptorank.io/drophunting/beep-lab-activity1128",
+    "is_new": true
+  },
+  {
     "id": "4348d2a73689b4c8",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
     "judul": "KOR Protocol KOR",
     "ditemukan": "2026-11-04T15:32:16.153628+00:00",
     "deadline": null,
-    "reward": "Whitelist/Waitlist",
-    "cara_ikut": "No active tasks · Reward Available Nov 4, 2026 · Raise $ 7.50M + 5",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise $ 7.50M + 5",
     "url": "https://cryptorank.io/drophunting/kor-protocol-activity1236",
     "is_new": false
   },
@@ -42,8 +90,8 @@
     "judul": "New POV",
     "ditemukan": "2026-11-04T15:32:16.153735+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "Bounty Platforms + 1 · Potential Nov 4, 2026 · Raise -",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/pov-market-activity1418",
     "is_new": false
   },
@@ -54,8 +102,8 @@
     "judul": "InfiniFi",
     "ditemukan": "2026-11-04T09:32:16.215283+00:00",
     "deadline": null,
-    "reward": "Points",
-    "cara_ikut": "No active tasks · Verification Nov 4, 2026 · Raise $ 6.00M + 13",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise $ 6.00M + 13",
     "url": "https://cryptorank.io/drophunting/infinifi-activity682",
     "is_new": false
   },
@@ -189,54 +237,6 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise $ 14.00M",
     "url": "https://cryptorank.io/drophunting/entropy-2-activity1276",
-    "is_new": false
-  },
-  {
-    "id": "dbfcea77412644cf",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Surf",
-    "ditemukan": "2026-11-02T19:32:21.725442+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise $ 15.00M",
-    "url": "https://cryptorank.io/drophunting/surf-ai-activity1026",
-    "is_new": false
-  },
-  {
-    "id": "08e43d5f9e64d47c",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "New Squeekchain",
-    "ditemukan": "2026-11-02T18:32:30.529205+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise -",
-    "url": "https://cryptorank.io/drophunting/squeekchain-activity1415",
-    "is_new": false
-  },
-  {
-    "id": "1ec88f7e9b7de63e",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Spicenet",
-    "ditemukan": "2026-11-02T18:32:30.529327+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise $ 8.40M + 19",
-    "url": "https://cryptorank.io/drophunting/spicenet-activity981",
-    "is_new": false
-  },
-  {
-    "id": "557c1cdb8179dbc3",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Jumper JUMP",
-    "ditemukan": "2026-10-29T18:32:19.966298+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise $ 2.97M",
-    "url": "https://cryptorank.io/drophunting/jumper-exchange-activity1306",
     "is_new": false
   },
   {
@@ -480,18 +480,6 @@
     "is_new": false
   },
   {
-    "id": "e72ae2bede5cf67c",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Extended",
-    "ditemukan": "2026-11-02T06:32:16.010377+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Accept the Terms in the app once the window opens",
-    "url": "https://airdrops.io/extended/",
-    "is_new": false
-  },
-  {
     "id": "896f6dd235a6c5b8",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -501,6 +489,18 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Sign up & Trade",
     "url": "https://airdrops.io/bulk/",
+    "is_new": false
+  },
+  {
+    "id": "e72ae2bede5cf67c",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Extended",
+    "ditemukan": "2026-11-02T06:32:16.010377+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Accept the Terms in the app once the window opens",
+    "url": "https://airdrops.io/extended/",
     "is_new": false
   },
   {
@@ -526,5 +526,17 @@
     "cara_ikut": "Ongoing, Confirmed — Deposit & Trade perps",
     "url": "https://airdrops.io/nado/",
     "is_new": false
+  },
+  {
+    "id": "9a70d441452dea92",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Jumper Exchange",
+    "ditemukan": "2026-11-04T20:32:41.253455+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Trade Perps to Earn xPerps",
+    "url": "https://airdrops.io/jumper-exchange/",
+    "is_new": true
   }
 ]
