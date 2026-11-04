@@ -48,6 +48,18 @@
     "is_new": false
   },
   {
+    "id": "37f4f62555538bbb",
+    "kategori": "campaign",
+    "exchange": "Pintu Promo",
+    "judul": "Khusus VIP: Cashback Biaya Trading hingga 40% di Pintu Pro & Pintu Futures!",
+    "ditemukan": "2026-11-04T04:32:23.231366+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Khusus Pintu VIP · 4 – 30 November 2026 Khusus Pintu VIP, cashback biaya trading hingga 40% di Pintu Pro dan...",
+    "url": "https://blog.pintu.co.id/id/posts/pintu-vip-cashback-trading-fee-november-2026",
+    "is_new": true
+  },
+  {
     "id": "8dcf219a29e31b05",
     "kategori": "campaign",
     "exchange": "Pintu Promo",
@@ -225,18 +237,6 @@
     "reward": "Rp5 Juta",
     "cara_ikut": "Hi Teman Pintu, Yuk ikuti giveaway FIND THE TOKENS di X dan menangkan USDT senilai Rp5 juta! Baca mekanisme dan syarat...",
     "url": "https://blog.pintu.co.id/id/posts/giveaway-find-the-tokens-x-august-2026",
-    "is_new": false
-  },
-  {
-    "id": "8b1f4cf721ebce11",
-    "kategori": "campaign",
-    "exchange": "Pintu Promo",
-    "judul": "Ikuti Giveaway ‘Fill in the Blank’, Menangkan Total Hadiah Senilai Rp1.500.000!",
-    "ditemukan": "2026-10-28T10:32:28.821112+00:00",
-    "deadline": null,
-    "reward": "Rp1.500.000",
-    "cara_ikut": "Hi Teman Pintu, Yuk ikuti giveaway 'FILL IN THE BLANK' yang dilaksanakan di X! Menangkan total hadiah senilai Rp1.500.000! Cek mekanisme...",
-    "url": "https://blog.pintu.co.id/id/posts/fill-in-the-blank-giveaway-x-september-2026",
     "is_new": false
   }
 ]
