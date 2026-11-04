@@ -420,18 +420,6 @@
     "is_new": false
   },
   {
-    "id": "de7b255a0625fc80",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Arcus",
-    "ditemukan": "2026-10-07T13:33:13.167933+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Sign Up, Trade & Collect Points",
-    "url": "https://airdrops.io/arcus/",
-    "is_new": false
-  },
-  {
     "id": "0dc45de9d5495455",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -441,6 +429,18 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Check Eligibility & Claim Airdrop",
     "url": "https://airdrops.io/axis-robotics/",
+    "is_new": false
+  },
+  {
+    "id": "de7b255a0625fc80",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Arcus",
+    "ditemukan": "2026-10-07T13:33:13.167933+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Sign Up, Trade & Collect Points",
+    "url": "https://airdrops.io/arcus/",
     "is_new": false
   },
   {
