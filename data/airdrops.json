@@ -33,7 +33,7 @@
     "reward": "Airdrop",
     "cara_ikut": "Predictions + 5 · Confirmed Nov 4, 2026 · Raise $ 7.20M + 5",
     "url": "https://cryptorank.io/drophunting/alkimiya-activity804",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "823352d4d9cb34ef",
@@ -45,7 +45,7 @@
     "reward": "Airdrop",
     "cara_ikut": "Social + 4 · Potential Nov 4, 2026 · Raise - + 10",
     "url": "https://cryptorank.io/drophunting/hertzflow-activity1178",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "65bbebe2f1b7bba3",
@@ -57,7 +57,7 @@
     "reward": "Airdrop",
     "cara_ikut": "Testnet + 6 · Confirmed Nov 4, 2026 · Raise $ 9.00M + 14",
     "url": "https://cryptorank.io/drophunting/rome-protocol-activity539",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "7373385bbfc08bfe",
@@ -69,7 +69,7 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/beep-lab-activity1128",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "4348d2a73689b4c8",
@@ -537,6 +537,6 @@
     "reward": null,
     "cara_ikut": "Ongoing — Trade Perps to Earn xPerps",
     "url": "https://airdrops.io/jumper-exchange/",
-    "is_new": true
+    "is_new": false
   }
 ]
