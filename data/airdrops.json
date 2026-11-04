@@ -24,6 +24,18 @@
     "is_new": false
   },
   {
+    "id": "e17761142ce44165",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "InfiniFi",
+    "ditemukan": "2026-11-04T09:32:16.215283+00:00",
+    "deadline": null,
+    "reward": "Points",
+    "cara_ikut": "No active tasks · Verification Nov 4, 2026 · Raise $ 6.00M + 13",
+    "url": "https://cryptorank.io/drophunting/infinifi-activity682",
+    "is_new": true
+  },
+  {
     "id": "8b8958fc9d8aa862",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
@@ -48,16 +60,16 @@
     "is_new": false
   },
   {
-    "id": "d8f4c39fe52680e0",
+    "id": "908abeef3efdb029",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
-    "judul": "Upd Hibachi",
-    "ditemukan": "2026-11-03T19:32:15.601928+00:00",
+    "judul": "Hibachi",
+    "ditemukan": "2026-11-04T09:32:16.215652+00:00",
     "deadline": null,
-    "reward": "Points",
-    "cara_ikut": "Trading, Social + 1 · Confirmed Nov 3, 2026 · Raise $ 5.00M + 2",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise $ 5.00M + 2",
     "url": "https://cryptorank.io/drophunting/hibachi-activity744",
-    "is_new": false
+    "is_new": true
   },
   {
     "id": "ea9803f36b4a4389",
@@ -225,18 +237,6 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise $ 9.00M + 4",
     "url": "https://cryptorank.io/drophunting/vangrid-activity1266",
-    "is_new": false
-  },
-  {
-    "id": "4348d2a73689b4c8",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "KOR Protocol KOR",
-    "ditemukan": "2026-11-03T16:32:12.993300+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise $ 7.50M + 5",
-    "url": "https://cryptorank.io/drophunting/kor-protocol-activity1236",
     "is_new": false
   },
   {
