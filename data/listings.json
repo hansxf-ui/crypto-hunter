@@ -480,6 +480,30 @@
     "is_new": false
   },
   {
+    "id": "bdd572995bf48430",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Velodrome Finance (VELOFIN) dan Aerodrome Finance (AERO) Merger Menjadi Aero (AERO)",
+    "ditemukan": "2026-11-04T06:32:13.442147+00:00",
+    "deadline": "2026-04-11T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/merger-velofin-aero/",
+    "is_new": true
+  },
+  {
+    "id": "6bf3c166cb4b2767",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Follow X INDODAX dan Dapatkan Total Hadiah Rp2 Juta dari INDODAX",
+    "ditemukan": "2026-11-04T06:32:13.448046+00:00",
+    "deadline": "2026-04-11T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/follow-your-heroes-x/",
+    "is_new": true
+  },
+  {
     "id": "56970260c7786ecd",
     "kategori": "listing",
     "exchange": "Indodax",
@@ -693,30 +717,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://blog.indodax.com/diskon-frame-di-optik-kasoem/",
-    "is_new": false
-  },
-  {
-    "id": "5816c0dd1d6d7a0d",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "Rebranding Avantis (AVNT) to Veranta (AVNT)",
-    "ditemukan": "2026-10-29T05:32:17.361721+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/rebranding-avantis-to-veranta/",
-    "is_new": false
-  },
-  {
-    "id": "44d7571b17d00289",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "Ikut Buy & Hold ANOA Bisa Dapat Puluhan Juta Rupiah!",
-    "ditemukan": "2026-10-29T05:32:17.362277+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/buy-hold-anoa/",
     "is_new": false
   },
   {
