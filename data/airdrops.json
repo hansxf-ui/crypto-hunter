@@ -33,7 +33,7 @@
     "reward": "Whitelist/Waitlist",
     "cara_ikut": "No active tasks · Reward Available Nov 4, 2026 · Raise $ 7.50M + 5",
     "url": "https://cryptorank.io/drophunting/kor-protocol-activity1236",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "6c2027ddad538e76",
@@ -43,9 +43,9 @@
     "ditemukan": "2026-11-04T15:32:16.153735+00:00",
     "deadline": null,
     "reward": "Airdrop",
-    "cara_ikut": "Predictions + 1 · Potential Nov 4, 2026 · Raise -",
+    "cara_ikut": "Bounty Platforms + 1 · Potential Nov 4, 2026 · Raise -",
     "url": "https://cryptorank.io/drophunting/pov-market-activity1418",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "e17761142ce44165",
@@ -69,7 +69,7 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise $ 19.00M + 6",
     "url": "https://cryptorank.io/drophunting/x-10-activity940",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "41c633066c177986",
@@ -240,6 +240,18 @@
     "is_new": false
   },
   {
+    "id": "1b09dbcc8591e604",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "StableStock",
+    "ditemukan": "2026-11-04T16:32:26.681726+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Deposit, Trade & Refer Users",
+    "url": "https://airdrops.io/stablestock/",
+    "is_new": true
+  },
+  {
     "id": "63b6394b042867c6",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -381,18 +393,6 @@
     "reward": null,
     "cara_ikut": "Ongoing — Mine GEMS and complete quests",
     "url": "https://airdrops.io/bullshot/",
-    "is_new": false
-  },
-  {
-    "id": "439a1dc75131ad60",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Soei",
-    "ditemukan": "2026-10-28T12:32:17.380820+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Use the Soei platform",
-    "url": "https://airdrops.io/soei/",
     "is_new": false
   },
   {
