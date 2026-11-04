@@ -480,6 +480,18 @@
     "is_new": false
   },
   {
+    "id": "a7f910904012ab78",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Merger Token Stargate Finance (STG) Menjadi LayerZero (ZRO)",
+    "ditemukan": "2026-11-04T08:32:13.351410+00:00",
+    "deadline": "2026-04-11T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/merger-stg-zro/",
+    "is_new": true
+  },
+  {
     "id": "bdd572995bf48430",
     "kategori": "listing",
     "exchange": "Indodax",
@@ -705,18 +717,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://blog.indodax.com/loyalty-promo-15-oktober-2026/",
-    "is_new": false
-  },
-  {
-    "id": "721f41b89089b29e",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "Diskon Frame hingga 30%, Diskon Lensa 15%, plus Layanan Gratis di Optik Kasoem",
-    "ditemukan": "2026-10-29T05:32:17.361494+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/diskon-frame-di-optik-kasoem/",
     "is_new": false
   },
   {
