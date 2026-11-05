@@ -24,14 +24,50 @@
     "is_new": false
   },
   {
-    "id": "be1c31d19437d194",
+    "id": "b1f02acffa2504f9",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
-    "judul": "Upd 42 (prev. Alkimiya)",
-    "ditemukan": "2026-11-04T20:32:40.151618+00:00",
+    "judul": "New ShieldTX",
+    "ditemukan": "2026-11-05T19:32:15.607864+00:00",
     "deadline": null,
     "reward": "Airdrop",
-    "cara_ikut": "Predictions + 5 · Confirmed Nov 4, 2026 · Raise $ 7.20M + 5",
+    "cara_ikut": "Fill The Form + 1 · Potential Nov 5, 2026 · Raise -",
+    "url": "https://cryptorank.io/drophunting/shieldtx-activity1421",
+    "is_new": false
+  },
+  {
+    "id": "a5ccabf032a6b237",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "New Backtrade",
+    "ditemukan": "2026-11-05T19:32:15.607937+00:00",
+    "deadline": null,
+    "reward": "Whitelist/Waitlist",
+    "cara_ikut": "Fill The Form · Confirmed Nov 5, 2026 · Raise -",
+    "url": "https://cryptorank.io/drophunting/backtrade-activity1420",
+    "is_new": false
+  },
+  {
+    "id": "60e6c1f61c3e2260",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "New Inverted Lambda",
+    "ditemukan": "2026-11-05T19:32:15.608028+00:00",
+    "deadline": null,
+    "reward": "Airdrop",
+    "cara_ikut": "Bounty Platforms · Potential Nov 5, 2026 · Raise -",
+    "url": "https://cryptorank.io/drophunting/inverted-lambda-activity1419",
+    "is_new": false
+  },
+  {
+    "id": "2b7e4f289d56409b",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "42 (prev. Alkimiya)",
+    "ditemukan": "2026-11-05T19:32:15.608120+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise $ 7.20M + 5",
     "url": "https://cryptorank.io/drophunting/alkimiya-activity804",
     "is_new": false
   },
@@ -42,8 +78,8 @@
     "judul": "HertzFlow",
     "ditemukan": "2026-11-04T20:32:40.152090+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "Social + 4 · Potential Nov 4, 2026 · Raise - + 10",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise - + 10",
     "url": "https://cryptorank.io/drophunting/hertzflow-activity1178",
     "is_new": false
   },
@@ -54,8 +90,8 @@
     "judul": "Rome Protocol",
     "ditemukan": "2026-11-04T20:32:40.152558+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "Testnet + 6 · Confirmed Nov 4, 2026 · Raise $ 9.00M + 14",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise $ 9.00M + 14",
     "url": "https://cryptorank.io/drophunting/rome-protocol-activity539",
     "is_new": false
   },
@@ -201,42 +237,6 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise $ 7.20M + 3",
     "url": "https://cryptorank.io/drophunting/cancore-activity1416",
-    "is_new": false
-  },
-  {
-    "id": "35de84ff10fee424",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Fungo Labs",
-    "ditemukan": "2026-11-02T19:32:21.725115+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise -",
-    "url": "https://cryptorank.io/drophunting/fungo-labs-activity1334",
-    "is_new": false
-  },
-  {
-    "id": "1f6a0295ee93e467",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "VOICE",
-    "ditemukan": "2026-11-02T20:32:23.936239+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise -",
-    "url": "https://cryptorank.io/drophunting/voice-activity1288",
-    "is_new": false
-  },
-  {
-    "id": "410f2aabde49b1df",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "entropy",
-    "ditemukan": "2026-11-02T19:32:21.725327+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise $ 14.00M",
-    "url": "https://cryptorank.io/drophunting/entropy-2-activity1276",
     "is_new": false
   },
   {
@@ -480,18 +480,6 @@
     "is_new": false
   },
   {
-    "id": "2d3a6a79ade998cc",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Amadeus Protocol",
-    "ditemukan": "2026-10-05T12:32:22.856993+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Create Wallet, Complete Check-In, Finish Social Tasks",
-    "url": "https://airdrops.io/amadeus-protocol/",
-    "is_new": false
-  },
-  {
     "id": "e72ae2bede5cf67c",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -501,6 +489,18 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Accept the Terms in the app once the window opens",
     "url": "https://airdrops.io/extended/",
+    "is_new": false
+  },
+  {
+    "id": "2d3a6a79ade998cc",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Amadeus Protocol",
+    "ditemukan": "2026-10-05T12:32:22.856993+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Create Wallet, Complete Check-In, Finish Social Tasks",
+    "url": "https://airdrops.io/amadeus-protocol/",
     "is_new": false
   },
   {
