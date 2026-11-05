@@ -480,6 +480,54 @@
     "is_new": false
   },
   {
+    "id": "d3cace685ef7f334",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Indodax Homepage",
+    "ditemukan": "2026-11-05T18:32:16.467150+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/",
+    "is_new": true
+  },
+  {
+    "id": "8d94be2b1e4027e2",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Daftar Sekarang",
+    "ditemukan": "2026-11-05T18:32:16.468323+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/register",
+    "is_new": true
+  },
+  {
+    "id": "0e8182e3c560e6c6",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Pemberitahuan Privasi",
+    "ditemukan": "2026-11-05T18:32:16.472136+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/privacy-notice",
+    "is_new": true
+  },
+  {
+    "id": "656bc9ff3ee63ad2",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Cek Status",
+    "ditemukan": "2026-11-05T18:32:16.472335+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/status",
+    "is_new": true
+  },
+  {
     "id": "c4c52dbeeae20baf",
     "kategori": "listing",
     "exchange": "Pintu",
