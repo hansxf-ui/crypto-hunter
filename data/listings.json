@@ -480,6 +480,18 @@
     "is_new": false
   },
   {
+    "id": "0bda85ff42792b15",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Kelas Sore INDODAX Academy (November 2026)",
+    "ditemukan": "2026-11-05T03:32:12.098391+00:00",
+    "deadline": "2026-05-11T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/kelas-sore-nov26/",
+    "is_new": true
+  },
+  {
     "id": "a7f910904012ab78",
     "kategori": "listing",
     "exchange": "Indodax",
@@ -705,18 +717,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://blog.indodax.com/update-perubahan-contract-address-kite/",
-    "is_new": false
-  },
-  {
-    "id": "199b06df2528e069",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "LOYALTY PROMO MINGGU INI! (15 Oktober 2026)",
-    "ditemukan": "2026-10-29T05:32:17.361159+00:00",
-    "deadline": "2026-10-15T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/loyalty-promo-15-oktober-2026/",
     "is_new": false
   },
   {
