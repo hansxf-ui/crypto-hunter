@@ -24,6 +24,18 @@
     "is_new": false
   },
   {
+    "id": "1ec88f7e9b7de63e",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "Spicenet",
+    "ditemukan": "2026-11-05T21:32:19.837898+00:00",
+    "deadline": null,
+    "reward": "Points",
+    "cara_ikut": "Social, Trading + 2 · Confirmed Nov 5, 2026 · Raise $ 8.40M + 19",
+    "url": "https://cryptorank.io/drophunting/spicenet-activity981",
+    "is_new": true
+  },
+  {
     "id": "b1f02acffa2504f9",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
@@ -54,8 +66,8 @@
     "judul": "New Inverted Lambda",
     "ditemukan": "2026-11-05T19:32:15.608028+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "Bounty Platforms · Potential Nov 5, 2026 · Raise -",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/inverted-lambda-activity1419",
     "is_new": false
   },
@@ -225,18 +237,6 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/4-d-labs-activity1303",
-    "is_new": false
-  },
-  {
-    "id": "1eeea7d026f4922a",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "New Cancore",
-    "ditemukan": "2026-11-02T19:32:21.724982+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise $ 7.20M + 3",
-    "url": "https://cryptorank.io/drophunting/cancore-activity1416",
     "is_new": false
   },
   {
@@ -480,18 +480,6 @@
     "is_new": false
   },
   {
-    "id": "e72ae2bede5cf67c",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Extended",
-    "ditemukan": "2026-11-02T06:32:16.010377+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Accept the Terms in the app once the window opens",
-    "url": "https://airdrops.io/extended/",
-    "is_new": false
-  },
-  {
     "id": "2d3a6a79ade998cc",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -501,6 +489,18 @@
     "reward": null,
     "cara_ikut": "Ongoing — Create Wallet, Complete Check-In, Finish Social Tasks",
     "url": "https://airdrops.io/amadeus-protocol/",
+    "is_new": false
+  },
+  {
+    "id": "e72ae2bede5cf67c",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Extended",
+    "ditemukan": "2026-11-02T06:32:16.010377+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Accept the Terms in the app once the window opens",
+    "url": "https://airdrops.io/extended/",
     "is_new": false
   },
   {
