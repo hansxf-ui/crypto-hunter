@@ -249,7 +249,7 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Stake SEC, Follow on X & Telegram",
     "url": "https://airdrops.io/sectora/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "1b09dbcc8591e604",
@@ -525,18 +525,6 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Deposit & Trade perps",
     "url": "https://airdrops.io/nado/",
-    "is_new": false
-  },
-  {
-    "id": "9a70d441452dea92",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Jumper Exchange",
-    "ditemukan": "2026-11-04T20:32:41.253455+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Trade Perps to Earn xPerps",
-    "url": "https://airdrops.io/jumper-exchange/",
     "is_new": false
   }
 ]
