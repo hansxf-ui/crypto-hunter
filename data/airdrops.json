@@ -240,6 +240,18 @@
     "is_new": false
   },
   {
+    "id": "889fcf1504649328",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Pond",
+    "ditemukan": "2026-11-05T16:32:24.617303+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Join Community, Refer Clients, Climb Leaderboard",
+    "url": "https://airdrops.io/pond/",
+    "is_new": true
+  },
+  {
     "id": "c26cb36de164d07c",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -381,18 +393,6 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Sign Up, Mint Passport, Complete Quests",
     "url": "https://airdrops.io/ryfinite/",
-    "is_new": false
-  },
-  {
-    "id": "32f419396b4bfb9c",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "SolMoon",
-    "ditemukan": "2026-10-28T20:32:25.448271+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Use the SolMoon platform",
-    "url": "https://airdrops.io/solmoon/",
     "is_new": false
   },
   {
