@@ -480,6 +480,30 @@
     "is_new": false
   },
   {
+    "id": "fe62e7c29e264a29",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Deposit dengan QRIS Kini Lebih Aman",
+    "ditemukan": "2026-11-05T12:32:11.799415+00:00",
+    "deadline": "2026-05-11T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/deposit-dengan-qris/",
+    "is_new": true
+  },
+  {
+    "id": "d40e3aba9062da5a",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Penutupan Layanan Direct Deposit BCA",
+    "ditemukan": "2026-11-05T12:32:11.805270+00:00",
+    "deadline": "2026-05-11T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/deposit-direct-bca/",
+    "is_new": true
+  },
+  {
     "id": "0bda85ff42792b15",
     "kategori": "listing",
     "exchange": "Indodax",
@@ -693,30 +717,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://blog.indodax.com/rebranding-migration-augur/",
-    "is_new": false
-  },
-  {
-    "id": "1d81b2cb7bbd5b3d",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "Kartu Co-Brand Bank INA x INDODAX",
-    "ditemukan": "2026-10-29T05:32:17.358856+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/binadigital-indodax/",
-    "is_new": false
-  },
-  {
-    "id": "593d902924885a32",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "Update Perubahan Contract Address Aset Kripto Kite (KITE)",
-    "ditemukan": "2026-10-29T05:32:17.359103+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/update-perubahan-contract-address-kite/",
     "is_new": false
   },
   {
