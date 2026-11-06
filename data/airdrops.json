@@ -24,26 +24,62 @@
     "is_new": false
   },
   {
+    "id": "56d1abbca880532a",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "New Pursuit Sports",
+    "ditemukan": "2026-11-06T20:32:17.865156+00:00",
+    "deadline": null,
+    "reward": "Whitelist/Waitlist",
+    "cara_ikut": "Fill The Form + 1 · Confirmed Nov 6, 2026 · Raise -",
+    "url": "https://cryptorank.io/drophunting/pursuit-sports-activity1425",
+    "is_new": true
+  },
+  {
+    "id": "90a86ce276355bcc",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "New OnePump",
+    "ditemukan": "2026-11-06T20:32:17.865234+00:00",
+    "deadline": null,
+    "reward": "Whitelist/Waitlist",
+    "cara_ikut": "Fill The Form · Confirmed Nov 6, 2026 · Raise -",
+    "url": "https://cryptorank.io/drophunting/onepump-canton-activity1424",
+    "is_new": true
+  },
+  {
+    "id": "dd58d4e37c5a836d",
+    "kategori": "airdrops",
+    "exchange": "CryptoRank",
+    "judul": "New OWNIT",
+    "ditemukan": "2026-11-06T20:32:17.865320+00:00",
+    "deadline": null,
+    "reward": "Whitelist/Waitlist",
+    "cara_ikut": "Fill The Form + 1 · Confirmed Nov 6, 2026 · Raise -",
+    "url": "https://cryptorank.io/drophunting/ownit-activity1423",
+    "is_new": true
+  },
+  {
     "id": "b6b60ab31d29bd93",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
     "judul": "New Unruggable",
     "ditemukan": "2026-11-06T19:32:22.703045+00:00",
     "deadline": null,
-    "reward": "Whitelist/Waitlist",
-    "cara_ikut": "Fill The Form · Confirmed Nov 6, 2026 · Raise $ 500.00K",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise $ 500.00K",
     "url": "https://cryptorank.io/drophunting/unruggable-activity1422",
-    "is_new": true
+    "is_new": false
   },
   {
-    "id": "25451174341f0359",
+    "id": "b041aca2c56aab79",
     "kategori": "airdrops",
     "exchange": "CryptoRank",
-    "judul": "Upd HelloTrade",
-    "ditemukan": "2026-11-06T19:32:22.703130+00:00",
+    "judul": "HelloTrade",
+    "ditemukan": "2026-11-06T20:32:17.865495+00:00",
     "deadline": null,
-    "reward": "Whitelist/Waitlist",
-    "cara_ikut": "Fill The Form · Confirmed Nov 6, 2026 · Raise $ 4.60M",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise $ 4.60M",
     "url": "https://cryptorank.io/drophunting/hellotrade-activity1048",
     "is_new": true
   },
@@ -54,10 +90,10 @@
     "judul": "Canton Network CC",
     "ditemukan": "2026-11-06T19:32:22.703241+00:00",
     "deadline": null,
-    "reward": "Airdrop",
-    "cara_ikut": "Social + 2 · Confirmed Nov 6, 2026 · Raise $ 812.20M + 48",
+    "reward": null,
+    "cara_ikut": "Sign up to view data · Raise $ 812.20M + 48",
     "url": "https://cryptorank.io/drophunting/digital-asset-activity936",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "675c1e4387b9a76d",
@@ -69,7 +105,7 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise $ 172.50M",
     "url": "https://cryptorank.io/drophunting/jupiter-stattion-activity486",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "b9dfd9edad3887c7",
@@ -81,7 +117,7 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise -",
     "url": "https://cryptorank.io/drophunting/termix-activity1281",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "8c0596324f8ebd55",
@@ -93,7 +129,7 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise $ 6.90M",
     "url": "https://cryptorank.io/drophunting/dogeos-activity795",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "1ec88f7e9b7de63e",
@@ -201,42 +237,6 @@
     "reward": null,
     "cara_ikut": "Sign up to view data · Raise $ 7.50M + 5",
     "url": "https://cryptorank.io/drophunting/kor-protocol-activity1236",
-    "is_new": false
-  },
-  {
-    "id": "6c2027ddad538e76",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "New POV",
-    "ditemukan": "2026-11-04T15:32:16.153735+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise -",
-    "url": "https://cryptorank.io/drophunting/pov-market-activity1418",
-    "is_new": false
-  },
-  {
-    "id": "e17761142ce44165",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "InfiniFi",
-    "ditemukan": "2026-11-04T09:32:16.215283+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise $ 6.00M + 13",
-    "url": "https://cryptorank.io/drophunting/infinifi-activity682",
-    "is_new": false
-  },
-  {
-    "id": "4cac3ab0bf04d932",
-    "kategori": "airdrops",
-    "exchange": "CryptoRank",
-    "judul": "Extended XTEN",
-    "ditemukan": "2026-11-04T15:32:16.153970+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Sign up to view data · Raise $ 19.00M + 6",
-    "url": "https://cryptorank.io/drophunting/x-10-activity940",
     "is_new": false
   },
   {
