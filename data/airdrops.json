@@ -228,18 +228,6 @@
     "is_new": false
   },
   {
-    "id": "896f6dd235a6c5b8",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "BULK",
-    "ditemukan": "2026-09-30T22:27:57.915298+08:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Sign up & Trade",
-    "url": "https://airdrops.io/bulk/",
-    "is_new": false
-  },
-  {
     "id": "2d3a6a79ade998cc",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -249,6 +237,18 @@
     "reward": null,
     "cara_ikut": "Ongoing — Create Wallet, Complete Check-In, Finish Social Tasks",
     "url": "https://airdrops.io/amadeus-protocol/",
+    "is_new": false
+  },
+  {
+    "id": "896f6dd235a6c5b8",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "BULK",
+    "ditemukan": "2026-09-30T22:27:57.915298+08:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Sign up & Trade",
+    "url": "https://airdrops.io/bulk/",
     "is_new": false
   },
   {
