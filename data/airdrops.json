@@ -1,5 +1,17 @@
 [
   {
+    "id": "efcf1c57719ee1eb",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Montra",
+    "ditemukan": "2026-11-09T19:32:22.744961+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Trade and Launch Your Token",
+    "url": "https://airdrops.io/montra/",
+    "is_new": true
+  },
+  {
     "id": "7b84236f044dd345",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -141,18 +153,6 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Invite valid referrals for the $10K contest",
     "url": "https://airdrops.io/voice/",
-    "is_new": false
-  },
-  {
-    "id": "70f856552394ad2f",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Metamask",
-    "ditemukan": "2026-10-30T12:32:15.791353+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Trade Perps",
-    "url": "https://airdrops.io/metamask/",
     "is_new": false
   },
   {
