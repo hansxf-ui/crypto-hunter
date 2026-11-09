@@ -1,5 +1,17 @@
 [
   {
+    "id": "7b84236f044dd345",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Rome",
+    "ditemukan": "2026-11-09T17:32:18.248905+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Join Rome Arena as an ambassador or builder and earn Laurels",
+    "url": "https://airdrops.io/rome/",
+    "is_new": true
+  },
+  {
     "id": "889fcf1504649328",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -144,30 +156,6 @@
     "is_new": false
   },
   {
-    "id": "9ef3f83639d40e1b",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Ryfinite",
-    "ditemukan": "2026-10-29T19:32:23.240291+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Sign Up, Mint Passport, Complete Quests",
-    "url": "https://airdrops.io/ryfinite/",
-    "is_new": false
-  },
-  {
-    "id": "118e4cde939b60ec",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Nullmask",
-    "ditemukan": "2026-10-23T10:32:20.783630+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Deposit, Hold, and Earn MASK Through Nullmask Season 1",
-    "url": "https://airdrops.io/nullmask/",
-    "is_new": false
-  },
-  {
     "id": "0282d7b65ee95cb6",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -204,18 +192,6 @@
     "is_new": false
   },
   {
-    "id": "896f6dd235a6c5b8",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "BULK",
-    "ditemukan": "2026-09-30T22:27:57.915298+08:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Sign up & Trade",
-    "url": "https://airdrops.io/bulk/",
-    "is_new": false
-  },
-  {
     "id": "378fa86420d03957",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -225,6 +201,18 @@
     "reward": null,
     "cara_ikut": "Ongoing — Sign Up, Enable Trading, Trade & Refer",
     "url": "https://airdrops.io/risex/",
+    "is_new": false
+  },
+  {
+    "id": "896f6dd235a6c5b8",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "BULK",
+    "ditemukan": "2026-09-30T22:27:57.915298+08:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Sign up & Trade",
+    "url": "https://airdrops.io/bulk/",
     "is_new": false
   },
   {
@@ -285,6 +273,18 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Deposit & Trade perps",
     "url": "https://airdrops.io/nado/",
+    "is_new": false
+  },
+  {
+    "id": "118e4cde939b60ec",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Nullmask",
+    "ditemukan": "2026-10-23T10:32:20.783630+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Deposit, Hold, and Earn MASK Through Nullmask Season 1",
+    "url": "https://airdrops.io/nullmask/",
     "is_new": false
   }
 ]
