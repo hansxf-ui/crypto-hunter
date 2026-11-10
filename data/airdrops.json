@@ -1,5 +1,17 @@
 [
   {
+    "id": "569e07b825744801",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "ZetaChain",
+    "ditemukan": "2026-11-10T18:32:15.471590+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Join ZetaLabs Waitlist",
+    "url": "https://airdrops.io/zetachain/",
+    "is_new": true
+  },
+  {
     "id": "9c5a21c9d2bcfe1e",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -9,7 +21,7 @@
     "reward": null,
     "cara_ikut": "Ongoing — Join Early Access and Invite Friends",
     "url": "https://airdrops.io/leap/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "0ebb389aedb22699",
@@ -21,7 +33,7 @@
     "reward": null,
     "cara_ikut": "Ongoing — Claim fan card and complete quests",
     "url": "https://airdrops.io/ipx-exchange/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "d05f29459d761c6f",
@@ -33,7 +45,7 @@
     "reward": null,
     "cara_ikut": "Ongoing",
     "url": "https://airdrops.io/june/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "efcf1c57719ee1eb",
@@ -141,18 +153,6 @@
     "reward": null,
     "cara_ikut": "Ongoing — Sign Up, Fund Wallet, Join Throne King Drop",
     "url": "https://airdrops.io/voltrade/",
-    "is_new": false
-  },
-  {
-    "id": "428aa988bf4540fe",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "ZeruAI",
-    "ditemukan": "2026-11-02T11:32:18.853789+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed",
-    "url": "https://airdrops.io/zeruai/",
     "is_new": false
   },
   {
