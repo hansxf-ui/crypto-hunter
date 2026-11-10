@@ -1,5 +1,41 @@
 [
   {
+    "id": "9c5a21c9d2bcfe1e",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Leap",
+    "ditemukan": "2026-11-10T16:32:18.252128+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Join Early Access and Invite Friends",
+    "url": "https://airdrops.io/leap/",
+    "is_new": true
+  },
+  {
+    "id": "0ebb389aedb22699",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "IPX Exchange",
+    "ditemukan": "2026-11-10T16:32:18.252214+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Claim fan card and complete quests",
+    "url": "https://airdrops.io/ipx-exchange/",
+    "is_new": true
+  },
+  {
+    "id": "d05f29459d761c6f",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "June",
+    "ditemukan": "2026-11-10T16:32:18.252235+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing",
+    "url": "https://airdrops.io/june/",
+    "is_new": true
+  },
+  {
     "id": "efcf1c57719ee1eb",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -120,39 +156,15 @@
     "is_new": false
   },
   {
-    "id": "1aea9df63a7a54e9",
+    "id": "118e4cde939b60ec",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
-    "judul": "Raflux",
-    "ditemukan": "2026-11-02T11:32:18.853818+00:00",
+    "judul": "Nullmask",
+    "ditemukan": "2026-10-23T10:32:20.783630+00:00",
     "deadline": null,
     "reward": null,
-    "cara_ikut": "Ongoing — Sign In, Complete Quests, and Invite Friends",
-    "url": "https://airdrops.io/raflux/",
-    "is_new": false
-  },
-  {
-    "id": "4356e91133473109",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Rarelist",
-    "ditemukan": "2026-11-02T11:32:18.853853+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Sign up & Collect RARS points",
-    "url": "https://airdrops.io/rarelist/",
-    "is_new": false
-  },
-  {
-    "id": "a87b929d3d009c14",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "VOICE",
-    "ditemukan": "2026-10-30T16:32:23.621166+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Invite valid referrals for the $10K contest",
-    "url": "https://airdrops.io/voice/",
+    "cara_ikut": "Ongoing, Confirmed — Deposit, Hold, and Earn MASK Through Nullmask Season 1",
+    "url": "https://airdrops.io/nullmask/",
     "is_new": false
   },
   {
@@ -180,18 +192,6 @@
     "is_new": false
   },
   {
-    "id": "f1a1a8661356f909",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Ink",
-    "ditemukan": "2026-10-07T13:33:13.167950+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Trade on Kraken Pro & Interact with Dapps",
-    "url": "https://airdrops.io/ink-chain/",
-    "is_new": false
-  },
-  {
     "id": "378fa86420d03957",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -201,6 +201,18 @@
     "reward": null,
     "cara_ikut": "Ongoing — Sign Up, Enable Trading, Trade & Refer",
     "url": "https://airdrops.io/risex/",
+    "is_new": false
+  },
+  {
+    "id": "f1a1a8661356f909",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Ink",
+    "ditemukan": "2026-10-07T13:33:13.167950+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Trade on Kraken Pro & Interact with Dapps",
+    "url": "https://airdrops.io/ink-chain/",
     "is_new": false
   },
   {
@@ -228,18 +240,6 @@
     "is_new": false
   },
   {
-    "id": "2d3a6a79ade998cc",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Amadeus Protocol",
-    "ditemukan": "2026-10-05T12:32:22.856993+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Create Wallet, Complete Check-In, Finish Social Tasks",
-    "url": "https://airdrops.io/amadeus-protocol/",
-    "is_new": false
-  },
-  {
     "id": "e72ae2bede5cf67c",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -249,6 +249,18 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Accept the Terms in the app once the window opens",
     "url": "https://airdrops.io/extended/",
+    "is_new": false
+  },
+  {
+    "id": "2d3a6a79ade998cc",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Amadeus Protocol",
+    "ditemukan": "2026-10-05T12:32:22.856993+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Trade on AMA Hub, Stay Consistent, Finish Social Tasks",
+    "url": "https://airdrops.io/amadeus-protocol/",
     "is_new": false
   },
   {
@@ -273,18 +285,6 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Deposit & Trade perps",
     "url": "https://airdrops.io/nado/",
-    "is_new": false
-  },
-  {
-    "id": "118e4cde939b60ec",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Nullmask",
-    "ditemukan": "2026-10-23T10:32:20.783630+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Deposit, Hold, and Earn MASK Through Nullmask Season 1",
-    "url": "https://airdrops.io/nullmask/",
     "is_new": false
   }
 ]
