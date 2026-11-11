@@ -1,5 +1,17 @@
 [
   {
+    "id": "b0c08e66196266ac",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Mantle",
+    "ditemukan": "2026-11-11T13:32:14.815077+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Pick a Post, Record Your View and Post on X",
+    "url": "https://airdrops.io/mantle/",
+    "is_new": true
+  },
+  {
     "id": "569e07b825744801",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -144,18 +156,6 @@
     "is_new": false
   },
   {
-    "id": "2376acece4e4be7f",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Voltrade",
-    "ditemukan": "2026-11-02T11:32:18.853729+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Sign Up, Fund Wallet, Join Throne King Drop",
-    "url": "https://airdrops.io/voltrade/",
-    "is_new": false
-  },
-  {
     "id": "118e4cde939b60ec",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -228,18 +228,6 @@
     "is_new": false
   },
   {
-    "id": "0dc45de9d5495455",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Axis Robotics",
-    "ditemukan": "2026-09-30T22:27:57.915097+08:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Check Eligibility & Claim Airdrop",
-    "url": "https://airdrops.io/axis-robotics/",
-    "is_new": false
-  },
-  {
     "id": "896f6dd235a6c5b8",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -249,6 +237,18 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Sign up & Trade",
     "url": "https://airdrops.io/bulk/",
+    "is_new": false
+  },
+  {
+    "id": "0dc45de9d5495455",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Axis Robotics",
+    "ditemukan": "2026-09-30T22:27:57.915097+08:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Check Eligibility & Claim Airdrop",
+    "url": "https://airdrops.io/axis-robotics/",
     "is_new": false
   },
   {
@@ -297,6 +297,6 @@
     "reward": null,
     "cara_ikut": "Ongoing — Trade Perps to Earn xPerps",
     "url": "https://airdrops.io/jumper-exchange/",
-    "is_new": true
+    "is_new": false
   }
 ]
