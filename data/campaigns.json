@@ -48,6 +48,18 @@
     "is_new": false
   },
   {
+    "id": "48f2980f6edb86ce",
+    "kategori": "campaign",
+    "exchange": "Pintu Promo",
+    "judul": "Hadiah Spesial Pengguna VIP: Dapatkan Voucher Cashback SPYx Senilai Rp100.000!",
+    "ditemukan": "2026-11-11T05:32:21.798734+00:00",
+    "deadline": null,
+    "reward": "Rp100.000",
+    "cara_ikut": "● Promo periode 1 – 30 November 2026 Selamat ulang tahun! Khusus untuk kamu pengguna VIP Pintu yang berulang tahun di...",
+    "url": "https://blog.pintu.co.id/id/posts/vip-benefit-birthday-treat-november-2026",
+    "is_new": true
+  },
+  {
     "id": "37f4f62555538bbb",
     "kategori": "campaign",
     "exchange": "Pintu Promo",
@@ -225,18 +237,6 @@
     "reward": "Rp150.000",
     "cara_ikut": "Promo periode 1 - 30 September 2026 Lakukan transaksi Futures pertamamu di Pintu Futures Lite, dan dapatkan bonus Rp150.000 dalam bentuk...",
     "url": "https://blog.pintu.co.id/id/posts/trading-pintu-futures-lite-bonus-september-2026",
-    "is_new": false
-  },
-  {
-    "id": "7bb08b7c2a422b98",
-    "kategori": "campaign",
-    "exchange": "Pintu Promo",
-    "judul": "Ikuti Giveaway ‘Find the Tokens’ di X, Menangkan USDT Senilai Rp5 Juta!",
-    "ditemukan": "2026-11-09T08:32:25.691859+00:00",
-    "deadline": null,
-    "reward": "Rp5 Juta",
-    "cara_ikut": "Hi Teman Pintu, Yuk ikuti giveaway FIND THE TOKENS di X dan menangkan USDT senilai Rp5 juta! Baca mekanisme dan syarat...",
-    "url": "https://blog.pintu.co.id/id/posts/giveaway-find-the-tokens-x-august-2026",
     "is_new": false
   }
 ]
