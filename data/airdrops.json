@@ -240,18 +240,6 @@
     "is_new": false
   },
   {
-    "id": "e72ae2bede5cf67c",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Extended",
-    "ditemukan": "2026-11-02T06:32:16.010377+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Accept the Terms in the app once the window opens",
-    "url": "https://airdrops.io/extended/",
-    "is_new": false
-  },
-  {
     "id": "2d3a6a79ade998cc",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -261,6 +249,18 @@
     "reward": null,
     "cara_ikut": "Ongoing — Trade on AMA Hub, Stay Consistent, Finish Social Tasks",
     "url": "https://airdrops.io/amadeus-protocol/",
+    "is_new": false
+  },
+  {
+    "id": "e72ae2bede5cf67c",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Extended",
+    "ditemukan": "2026-11-02T06:32:16.010377+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Accept the Terms in the app once the window opens",
+    "url": "https://airdrops.io/extended/",
     "is_new": false
   },
   {
