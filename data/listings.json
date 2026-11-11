@@ -1,5 +1,17 @@
 [
   {
+    "id": "70d7a59cd1edb56c",
+    "kategori": "listing",
+    "exchange": "Binance",
+    "judul": "Binance Futures Will Launch USDⓈ-Margined HYPEUSDC and TRXUSDC Perpetual Contracts (2026-11-11)",
+    "ditemukan": "2026-11-11T05:32:10.737879+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://www.binance.com/en/support/announcement/2d89a5966b174a2689ab2c2a15db1757",
+    "is_new": true
+  },
+  {
     "id": "015b0f94715eec61",
     "kategori": "listing",
     "exchange": "Binance",
@@ -225,18 +237,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://www.binance.com/en/support/announcement/172e44302d6143578e40acc48570a2e5",
-    "is_new": false
-  },
-  {
-    "id": "1488d154a65a938c",
-    "kategori": "listing",
-    "exchange": "Binance",
-    "judul": "Binance Futures Will Launch Multiple TradFi USDⓈ-Margined Perpetual Contracts (2026-09-29)",
-    "ditemukan": "2026-10-06T00:34:05.471029+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://www.binance.com/en/support/announcement/0c6ea14ba89b451db6ec9ec364045d22",
     "is_new": false
   },
   {
