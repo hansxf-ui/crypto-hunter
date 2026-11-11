@@ -1,5 +1,17 @@
 [
   {
+    "id": "ed70d8bd5eb0e7fb",
+    "kategori": "listing",
+    "exchange": "Binance",
+    "judul": "Binance Futures Will Launch Multiple TradFi USDⓈ-Margined Perpetual Contracts (2026-11-12)",
+    "ditemukan": "2026-11-11T10:32:09.281604+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://www.binance.com/en/support/announcement/e7a88ff576b541608d0845f3b666ec66",
+    "is_new": true
+  },
+  {
     "id": "ad552b388c74621c",
     "kategori": "listing",
     "exchange": "Binance",
@@ -9,7 +21,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://www.binance.com/en/support/announcement/2d89a5966b174a2689ab2c2a15db1757",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "015b0f94715eec61",
@@ -225,18 +237,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://www.binance.com/en/support/announcement/1a94597986cf476f939609c02b87ee79",
-    "is_new": false
-  },
-  {
-    "id": "27febcdf2d0bc339",
-    "kategori": "listing",
-    "exchange": "Binance",
-    "judul": "Binance Exchange Adds Adobe (ADBEB), Forward Industries (FWDIB), Hewlett Packard (HPEB), PDD Holdings (PDDB), SharonAI (SHAZB), Wendy's (WENB) and Zoom (ZMB) bStocks Trading Pairs on Binance Spot/Convert - 2026-09-30",
-    "ditemukan": "2026-10-06T00:34:05.471016+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://www.binance.com/en/support/announcement/172e44302d6143578e40acc48570a2e5",
     "is_new": false
   },
   {
