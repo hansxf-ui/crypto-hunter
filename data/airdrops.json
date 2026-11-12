@@ -139,7 +139,7 @@
     "ditemukan": "2026-11-02T18:32:31.317794+00:00",
     "deadline": null,
     "reward": null,
-    "cara_ikut": "Ongoing — Check Whitelist & Mint Genesis Squeeks",
+    "cara_ikut": "Ended — Check Whitelist & Mint Genesis Squeeks",
     "url": "https://airdrops.io/squeekchain/",
     "is_new": false
   },
@@ -180,18 +180,6 @@
     "is_new": false
   },
   {
-    "id": "f1a1a8661356f909",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Ink",
-    "ditemukan": "2026-10-07T13:33:13.167950+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Trade on Kraken Pro & Interact with Dapps",
-    "url": "https://airdrops.io/ink-chain/",
-    "is_new": false
-  },
-  {
     "id": "de7b255a0625fc80",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -204,6 +192,18 @@
     "is_new": false
   },
   {
+    "id": "f1a1a8661356f909",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Ink",
+    "ditemukan": "2026-10-07T13:33:13.167950+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Trade on Kraken Pro & Interact with Dapps",
+    "url": "https://airdrops.io/ink-chain/",
+    "is_new": false
+  },
+  {
     "id": "378fa86420d03957",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -213,6 +213,18 @@
     "reward": null,
     "cara_ikut": "Ongoing — Sign Up, Enable Trading, Trade & Refer",
     "url": "https://airdrops.io/risex/",
+    "is_new": false
+  },
+  {
+    "id": "e72ae2bede5cf67c",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Extended",
+    "ditemukan": "2026-11-02T06:32:16.010377+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Sign the XTEN Terms in the app by Dec 31 to see your allocation",
+    "url": "https://airdrops.io/extended/",
     "is_new": false
   },
   {
@@ -249,18 +261,6 @@
     "reward": null,
     "cara_ikut": "Ongoing — Trade on AMA Hub, Stay Consistent, Finish Social Tasks",
     "url": "https://airdrops.io/amadeus-protocol/",
-    "is_new": false
-  },
-  {
-    "id": "e72ae2bede5cf67c",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Extended",
-    "ditemukan": "2026-11-02T06:32:16.010377+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Accept the Terms in the app once the window opens",
-    "url": "https://airdrops.io/extended/",
     "is_new": false
   },
   {
