@@ -1,5 +1,17 @@
 [
   {
+    "id": "217712f0b4026300",
+    "kategori": "campaign",
+    "exchange": "Pintu Promo",
+    "judul": "Ikuti Giveaway di X Pintu Sepanjang November 2026, Menangkan Hadiahnya!",
+    "ditemukan": "2026-11-12T07:32:22.214048+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Hi Teman Pintu, Yuk ikutan rangkaian giveaway yang berlangsung di X @PintuID sepanjang November 2026. Menangkan hadiahnya di setiap giveaway! Cek...",
+    "url": "https://blog.pintu.co.id/id/posts/explain-giveaway-x-november-2026",
+    "is_new": true
+  },
+  {
     "id": "953985dfee0f026f",
     "kategori": "campaign",
     "exchange": "Pintu Promo",
@@ -225,18 +237,6 @@
     "reward": "Rp70.000",
     "cara_ikut": "● Promo periode 1 - 30 September 2026 Selesaikan misi trading pertamamu di Pintu dan kumpulkan bonus hingga Rp70.000 dalam bentuk...",
     "url": "https://blog.pintu.co.id/id/posts/misi-trading-bonus-emas-us-stocks-september-2026",
-    "is_new": false
-  },
-  {
-    "id": "2e650f411fcb6331",
-    "kategori": "campaign",
-    "exchange": "Pintu Promo",
-    "judul": "Transaksi Futures Pertama di Pintu Futures Lite, Dapatkan Bonus XAUT Senilai Rp150.000!",
-    "ditemukan": "2026-11-09T08:32:25.691820+00:00",
-    "deadline": null,
-    "reward": "Rp150.000",
-    "cara_ikut": "Promo periode 1 - 30 September 2026 Lakukan transaksi Futures pertamamu di Pintu Futures Lite, dan dapatkan bonus Rp150.000 dalam bentuk...",
-    "url": "https://blog.pintu.co.id/id/posts/trading-pintu-futures-lite-bonus-september-2026",
     "is_new": false
   }
 ]
