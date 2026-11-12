@@ -180,18 +180,6 @@
     "is_new": false
   },
   {
-    "id": "de7b255a0625fc80",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Arcus",
-    "ditemukan": "2026-10-07T13:33:13.167933+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Sign Up, Trade & Collect Points",
-    "url": "https://airdrops.io/arcus/",
-    "is_new": false
-  },
-  {
     "id": "f1a1a8661356f909",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -201,6 +189,18 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Trade on Kraken Pro & Interact with Dapps",
     "url": "https://airdrops.io/ink-chain/",
+    "is_new": false
+  },
+  {
+    "id": "de7b255a0625fc80",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Arcus",
+    "ditemukan": "2026-10-07T13:33:13.167933+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Sign Up, Trade & Collect Points",
+    "url": "https://airdrops.io/arcus/",
     "is_new": false
   },
   {
@@ -216,15 +216,15 @@
     "is_new": false
   },
   {
-    "id": "2d3a6a79ade998cc",
+    "id": "896f6dd235a6c5b8",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
-    "judul": "Amadeus Protocol",
-    "ditemukan": "2026-10-05T12:32:22.856993+00:00",
+    "judul": "BULK",
+    "ditemukan": "2026-09-30T22:27:57.915298+08:00",
     "deadline": null,
     "reward": null,
-    "cara_ikut": "Ongoing — Trade on AMA Hub, Stay Consistent, Finish Social Tasks",
-    "url": "https://airdrops.io/amadeus-protocol/",
+    "cara_ikut": "Ongoing, Confirmed — Sign up & Trade",
+    "url": "https://airdrops.io/bulk/",
     "is_new": false
   },
   {
@@ -240,15 +240,15 @@
     "is_new": false
   },
   {
-    "id": "896f6dd235a6c5b8",
+    "id": "2d3a6a79ade998cc",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
-    "judul": "BULK",
-    "ditemukan": "2026-09-30T22:27:57.915298+08:00",
+    "judul": "Amadeus Protocol",
+    "ditemukan": "2026-10-05T12:32:22.856993+00:00",
     "deadline": null,
     "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Sign up & Trade",
-    "url": "https://airdrops.io/bulk/",
+    "cara_ikut": "Ongoing — Trade on AMA Hub, Stay Consistent, Finish Social Tasks",
+    "url": "https://airdrops.io/amadeus-protocol/",
     "is_new": false
   },
   {
