@@ -1,5 +1,17 @@
 [
   {
+    "id": "10044f3b4c5ee166",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Panther Protocol",
+    "ditemukan": "2026-11-13T11:32:16.960439+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Use Mainnet, Earn PRP",
+    "url": "https://airdrops.io/panther-protocol/",
+    "is_new": true
+  },
+  {
     "id": "b0c08e66196266ac",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -144,18 +156,6 @@
     "is_new": false
   },
   {
-    "id": "9c236117c013fa40",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "4Dlabs",
-    "ditemukan": "2026-11-02T12:32:20.519720+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Sign Up and Complete Social Tasks",
-    "url": "https://airdrops.io/4dlabs/",
-    "is_new": false
-  },
-  {
     "id": "118e4cde939b60ec",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -216,6 +216,18 @@
     "is_new": false
   },
   {
+    "id": "896f6dd235a6c5b8",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "BULK",
+    "ditemukan": "2026-09-30T22:27:57.915298+08:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Sign up & Trade",
+    "url": "https://airdrops.io/bulk/",
+    "is_new": false
+  },
+  {
     "id": "e72ae2bede5cf67c",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -237,18 +249,6 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Check Eligibility & Claim Airdrop",
     "url": "https://airdrops.io/axis-robotics/",
-    "is_new": false
-  },
-  {
-    "id": "896f6dd235a6c5b8",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "BULK",
-    "ditemukan": "2026-09-30T22:27:57.915298+08:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Sign up & Trade",
-    "url": "https://airdrops.io/bulk/",
     "is_new": false
   },
   {
