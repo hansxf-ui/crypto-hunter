@@ -1,5 +1,41 @@
 [
   {
+    "id": "6ba1e376f1b3c0cf",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Antseed",
+    "ditemukan": "2026-11-13T17:32:18.444813+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing",
+    "url": "https://airdrops.io/antseed/",
+    "is_new": true
+  },
+  {
+    "id": "01786f8660c005c7",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "Flint Trade",
+    "ditemukan": "2026-11-13T17:32:18.444922+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Register for Competition, Lend USDC and Submit Feedback",
+    "url": "https://airdrops.io/flint-trade/",
+    "is_new": true
+  },
+  {
+    "id": "64271518eda26fe6",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "OWNIT",
+    "ditemukan": "2026-11-13T17:32:18.444951+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Join Waitlist, Request Beta Access and Pass Evaluation",
+    "url": "https://airdrops.io/ownit/",
+    "is_new": true
+  },
+  {
     "id": "10044f3b4c5ee166",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -117,42 +153,6 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Stake SEC, Follow on X & Telegram",
     "url": "https://airdrops.io/sectora/",
-    "is_new": false
-  },
-  {
-    "id": "1b09dbcc8591e604",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "StableStock",
-    "ditemukan": "2026-11-04T16:32:26.681726+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Deposit, Trade & Refer Users",
-    "url": "https://airdrops.io/stablestock/",
-    "is_new": false
-  },
-  {
-    "id": "63b6394b042867c6",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Vana",
-    "ditemukan": "2026-11-03T17:32:16.441123+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Earn XP",
-    "url": "https://airdrops.io/vana/",
-    "is_new": false
-  },
-  {
-    "id": "f3bffbd52f2e239f",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Squeekchain",
-    "ditemukan": "2026-11-02T18:32:31.317794+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ended — Check Whitelist & Mint Genesis Squeeks",
-    "url": "https://airdrops.io/squeekchain/",
     "is_new": false
   },
   {
