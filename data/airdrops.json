@@ -216,18 +216,6 @@
     "is_new": false
   },
   {
-    "id": "896f6dd235a6c5b8",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "BULK",
-    "ditemukan": "2026-09-30T22:27:57.915298+08:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Sign up & Trade",
-    "url": "https://airdrops.io/bulk/",
-    "is_new": false
-  },
-  {
     "id": "e72ae2bede5cf67c",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -237,6 +225,18 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Sign the XTEN Terms in the app by Dec 31 to see your allocation",
     "url": "https://airdrops.io/extended/",
+    "is_new": false
+  },
+  {
+    "id": "896f6dd235a6c5b8",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "BULK",
+    "ditemukan": "2026-09-30T22:27:57.915298+08:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing, Confirmed — Sign up & Trade",
+    "url": "https://airdrops.io/bulk/",
     "is_new": false
   },
   {
