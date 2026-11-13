@@ -528,12 +528,36 @@
     "is_new": false
   },
   {
+    "id": "d8992e34fa1c46ed",
+    "kategori": "listing",
+    "exchange": "Pintu",
+    "judul": "Pintu Listing Aset Tokenized Baru, 13 November 2026",
+    "ditemukan": "2026-11-13T10:32:12.709362+00:00",
+    "deadline": "2026-11-13T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://pintu.co.id/blog/pintu-listing-aset-tokenized-baru-13-november-2026",
+    "is_new": true
+  },
+  {
+    "id": "22f36f5c664ca0c9",
+    "kategori": "listing",
+    "exchange": "Pintu",
+    "judul": "Market Stats Kini Hadir di Aplikasi Pintu: Cek Kondisi Pasar Crypto dan Saham AS",
+    "ditemukan": "2026-11-13T10:32:12.714506+00:00",
+    "deadline": "2026-11-13T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://pintu.co.id/blog/market-stats-cara-cek-kondisi-market-pintu",
+    "is_new": true
+  },
+  {
     "id": "c4c52dbeeae20baf",
     "kategori": "listing",
     "exchange": "Pintu",
     "judul": "Pintu Listing Aset Tokenized Baru, 29 Oktober 2026",
     "ditemukan": "2026-10-29T18:32:18.480604+00:00",
-    "deadline": "2026-10-29T00:00:00",
+    "deadline": "2026-11-13T00:00:00",
     "reward": null,
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/pintu-listing-aset-tokenized-baru-29-oktober-2026",
@@ -621,30 +645,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/pembaruan-alamat-kontrak-usdt-jaringan-optimism-di-pintu",
-    "is_new": false
-  },
-  {
-    "id": "d4a63a3e87e3071e",
-    "kategori": "listing",
-    "exchange": "Pintu",
-    "judul": "Market Signal Telah Hadir di Pintu, Cek di Halaman Jelajah Sekarang",
-    "ditemukan": "2026-10-07T05:32:19.776127+00:00",
-    "deadline": "2026-10-06T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://pintu.co.id/blog/fitur-baru-market-signal-pintu-2026",
-    "is_new": false
-  },
-  {
-    "id": "22653eb698728510",
-    "kategori": "listing",
-    "exchange": "Pintu",
-    "judul": "Biaya CFX untuk Transaksi Spot di Pintu Turun 50% Mulai 1 Oktober 2026",
-    "ditemukan": "2026-10-01T06:32:13.207163+00:00",
-    "deadline": "2026-10-06T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://pintu.co.id/blog/pengumuman-update-biaya-cfx-turun-2026",
     "is_new": false
   }
 ]
