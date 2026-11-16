@@ -9,7 +9,7 @@
     "reward": null,
     "cara_ikut": "Ongoing",
     "url": "https://airdrops.io/antseed/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "01786f8660c005c7",
@@ -21,7 +21,7 @@
     "reward": null,
     "cara_ikut": "Ongoing — Register for Competition, Lend USDC and Submit Feedback",
     "url": "https://airdrops.io/flint-trade/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "64271518eda26fe6",
@@ -33,7 +33,7 @@
     "reward": null,
     "cara_ikut": "Ongoing — Join Waitlist, Request Beta Access and Pass Evaluation",
     "url": "https://airdrops.io/ownit/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "10044f3b4c5ee166",
@@ -180,52 +180,16 @@
     "is_new": false
   },
   {
-    "id": "de7b255a0625fc80",
+    "id": "49d969b580a4b6d1",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
-    "judul": "Arcus",
-    "ditemukan": "2026-10-07T13:33:13.167933+00:00",
+    "judul": "River",
+    "ditemukan": "2026-11-16T15:32:16.665153+00:00",
     "deadline": null,
     "reward": null,
-    "cara_ikut": "Ongoing — Sign Up, Trade & Collect Points",
-    "url": "https://airdrops.io/arcus/",
-    "is_new": false
-  },
-  {
-    "id": "f1a1a8661356f909",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Ink",
-    "ditemukan": "2026-10-07T13:33:13.167950+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Trade on Kraken Pro & Interact with Dapps",
-    "url": "https://airdrops.io/ink-chain/",
-    "is_new": false
-  },
-  {
-    "id": "378fa86420d03957",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "RISEx",
-    "ditemukan": "2026-09-30T22:27:57.915118+08:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Sign Up, Enable Trading, Trade & Refer",
-    "url": "https://airdrops.io/risex/",
-    "is_new": false
-  },
-  {
-    "id": "e72ae2bede5cf67c",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Extended",
-    "ditemukan": "2026-11-02T06:32:16.010377+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Sign the XTEN Terms in the app by Dec 31 to see your allocation",
-    "url": "https://airdrops.io/extended/",
-    "is_new": false
+    "cara_ikut": "Ongoing, Confirmed — Post on River4FUN, Mint satUSD and Stake RIVER",
+    "url": "https://airdrops.io/river/",
+    "is_new": true
   },
   {
     "id": "0dc45de9d5495455",
@@ -240,51 +204,27 @@
     "is_new": false
   },
   {
-    "id": "896f6dd235a6c5b8",
+    "id": "9ef3f83639d40e1b",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
-    "judul": "BULK",
-    "ditemukan": "2026-09-30T22:27:57.915298+08:00",
+    "judul": "Ryfinite",
+    "ditemukan": "2026-11-16T15:32:16.665239+00:00",
     "deadline": null,
     "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Sign up & Trade",
-    "url": "https://airdrops.io/bulk/",
-    "is_new": false
+    "cara_ikut": "Ongoing, Confirmed — Sign Up, Mint Passport, Complete Quests",
+    "url": "https://airdrops.io/ryfinite/",
+    "is_new": true
   },
   {
-    "id": "2d3a6a79ade998cc",
+    "id": "02bbf547255f9ae1",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
-    "judul": "Amadeus Protocol",
-    "ditemukan": "2026-10-05T12:32:22.856993+00:00",
+    "judul": "Elysium",
+    "ditemukan": "2026-11-16T15:32:16.665256+00:00",
     "deadline": null,
     "reward": null,
-    "cara_ikut": "Ongoing — Trade on AMA Hub, Stay Consistent, Finish Social Tasks",
-    "url": "https://airdrops.io/amadeus-protocol/",
-    "is_new": false
-  },
-  {
-    "id": "b2c900f4ac3ab494",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Variational",
-    "ditemukan": "2026-10-30T16:32:23.621779+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Trade perps & refer friends",
-    "url": "https://airdrops.io/variational/",
-    "is_new": false
-  },
-  {
-    "id": "9a70d441452dea92",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Jumper Exchange",
-    "ditemukan": "2026-11-11T12:32:13.524090+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing — Trade Perps to Earn xPerps",
-    "url": "https://airdrops.io/jumper-exchange/",
-    "is_new": false
+    "cara_ikut": "Ongoing — Bridge HYPE, trade on launchpads and use mainnet dApps",
+    "url": "https://airdrops.io/elysium/",
+    "is_new": true
   }
 ]
