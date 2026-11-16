@@ -528,24 +528,12 @@
     "is_new": false
   },
   {
-    "id": "e2d7f7f6ce8c315b",
-    "kategori": "listing",
-    "exchange": "Pintu",
-    "judul": "Pengumuman: Maintenance Aplikasi Pintu pada 26 November 2026",
-    "ditemukan": "2026-11-16T20:32:16.724640+00:00",
-    "deadline": "2026-11-26T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://pintu.co.id/blog/pengumuman-maintenance-aplikasi-pintu-pada-26-november-2026",
-    "is_new": true
-  },
-  {
     "id": "d8992e34fa1c46ed",
     "kategori": "listing",
     "exchange": "Pintu",
     "judul": "Pintu Listing Aset Tokenized Baru, 13 November 2026",
     "ditemukan": "2026-11-13T16:32:14.003022+00:00",
-    "deadline": "2026-11-26T00:00:00",
+    "deadline": "2026-11-13T00:00:00",
     "reward": null,
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/pintu-listing-aset-tokenized-baru-13-november-2026",
@@ -646,5 +634,17 @@
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/perubahan-metode-deposit-melalui-bri",
     "is_new": false
+  },
+  {
+    "id": "fd8c799de87e6934",
+    "kategori": "listing",
+    "exchange": "Pintu",
+    "judul": "Pengumuman: Pembaruan Alamat Kontrak USDT Jaringan Optimism di Pintu",
+    "ditemukan": "2026-11-16T21:32:15.004839+00:00",
+    "deadline": "2026-10-06T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://pintu.co.id/blog/pembaruan-alamat-kontrak-usdt-jaringan-optimism-di-pintu",
+    "is_new": true
   }
 ]
