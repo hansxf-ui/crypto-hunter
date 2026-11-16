@@ -1,5 +1,17 @@
 [
   {
+    "id": "663ee226bff37481",
+    "kategori": "airdrops",
+    "exchange": "Airdrops.io",
+    "judul": "De1",
+    "ditemukan": "2026-11-16T16:32:19.294204+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": "Ongoing — Join Waitlist, Fund Wallet, Execute Swaps",
+    "url": "https://airdrops.io/de1/",
+    "is_new": true
+  },
+  {
     "id": "6ba1e376f1b3c0cf",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -144,18 +156,6 @@
     "is_new": false
   },
   {
-    "id": "c26cb36de164d07c",
-    "kategori": "airdrops",
-    "exchange": "Airdrops.io",
-    "judul": "Sectora",
-    "ditemukan": "2026-11-05T14:32:19.857271+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": "Ongoing, Confirmed — Stake SEC, Follow on X & Telegram",
-    "url": "https://airdrops.io/sectora/",
-    "is_new": false
-  },
-  {
     "id": "118e4cde939b60ec",
     "kategori": "airdrops",
     "exchange": "Airdrops.io",
@@ -189,7 +189,7 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Post on River4FUN, Mint satUSD and Stake RIVER",
     "url": "https://airdrops.io/river/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "0dc45de9d5495455",
@@ -213,7 +213,7 @@
     "reward": null,
     "cara_ikut": "Ongoing, Confirmed — Sign Up, Mint Passport, Complete Quests",
     "url": "https://airdrops.io/ryfinite/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "02bbf547255f9ae1",
@@ -225,6 +225,6 @@
     "reward": null,
     "cara_ikut": "Ongoing — Bridge HYPE, trade on launchpads and use mainnet dApps",
     "url": "https://airdrops.io/elysium/",
-    "is_new": true
+    "is_new": false
   }
 ]
