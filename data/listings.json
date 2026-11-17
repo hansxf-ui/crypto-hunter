@@ -480,52 +480,148 @@
     "is_new": false
   },
   {
-    "id": "d3cace685ef7f334",
+    "id": "fe62e7c29e264a29",
     "kategori": "listing",
     "exchange": "Indodax",
-    "judul": "Indodax Homepage",
-    "ditemukan": "2026-11-05T18:32:16.467150+00:00",
-    "deadline": null,
+    "judul": "Deposit dengan QRIS Kini Lebih Aman",
+    "ditemukan": "2026-11-17T12:32:13.451197+00:00",
+    "deadline": "2026-11-05T00:00:00",
     "reward": null,
     "cara_ikut": null,
-    "url": "https://blog.indodax.com/",
-    "is_new": false
+    "url": "https://blog.indodax.com/deposit-dengan-qris/",
+    "is_new": true
   },
   {
-    "id": "8d94be2b1e4027e2",
+    "id": "d40e3aba9062da5a",
     "kategori": "listing",
     "exchange": "Indodax",
-    "judul": "Daftar Sekarang",
-    "ditemukan": "2026-11-05T18:32:16.468323+00:00",
-    "deadline": null,
+    "judul": "Penutupan Layanan Direct Deposit BCA",
+    "ditemukan": "2026-11-17T12:32:13.454778+00:00",
+    "deadline": "2026-11-05T00:00:00",
     "reward": null,
     "cara_ikut": null,
-    "url": "https://blog.indodax.com/register",
-    "is_new": false
+    "url": "https://blog.indodax.com/deposit-direct-bca/",
+    "is_new": true
   },
   {
-    "id": "0e8182e3c560e6c6",
+    "id": "0bda85ff42792b15",
     "kategori": "listing",
     "exchange": "Indodax",
-    "judul": "Pemberitahuan Privasi",
-    "ditemukan": "2026-11-05T18:32:16.472136+00:00",
-    "deadline": null,
+    "judul": "Kelas Sore INDODAX Academy (November 2026)",
+    "ditemukan": "2026-11-17T12:32:13.454973+00:00",
+    "deadline": "2026-11-05T00:00:00",
     "reward": null,
     "cara_ikut": null,
-    "url": "https://blog.indodax.com/privacy-notice",
-    "is_new": false
+    "url": "https://blog.indodax.com/kelas-sore-nov26/",
+    "is_new": true
   },
   {
-    "id": "656bc9ff3ee63ad2",
+    "id": "a7f910904012ab78",
     "kategori": "listing",
     "exchange": "Indodax",
-    "judul": "Cek Status",
-    "ditemukan": "2026-11-05T18:32:16.472335+00:00",
+    "judul": "Merger Token Stargate Finance (STG) Menjadi LayerZero (ZRO)",
+    "ditemukan": "2026-11-17T12:32:13.455130+00:00",
+    "deadline": "2026-11-04T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/merger-stg-zro/",
+    "is_new": true
+  },
+  {
+    "id": "bdd572995bf48430",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Velodrome Finance (VELOFIN) dan Aerodrome Finance (AERO) Merger Menjadi Aero (AERO)",
+    "ditemukan": "2026-11-17T12:32:13.455293+00:00",
+    "deadline": "2026-11-04T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/merger-velofin-aero/",
+    "is_new": true
+  },
+  {
+    "id": "6bf3c166cb4b2767",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Follow X INDODAX dan Dapatkan Total Hadiah Rp2 Juta dari INDODAX",
+    "ditemukan": "2026-11-17T12:32:13.455441+00:00",
+    "deadline": "2026-11-04T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/follow-your-heroes-x/",
+    "is_new": true
+  },
+  {
+    "id": "56970260c7786ecd",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Giveaway Sobat SuperDAX: Total Hadiah Rp6 Juta dalam Bentuk USDT!",
+    "ditemukan": "2026-11-17T12:32:13.455586+00:00",
+    "deadline": "2026-11-03T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/sobatsuperdax-nov26/",
+    "is_new": true
+  },
+  {
+    "id": "b86b9e059b00ffbf",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Mulai Investasi Kripto &#038; Dapatkan 100% Cashback hingga Rp100.000 di INDODAX!",
+    "ditemukan": "2026-11-17T12:32:13.455746+00:00",
+    "deadline": "2026-11-02T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/cashback-btc-nov26/",
+    "is_new": true
+  },
+  {
+    "id": "c006410b5f20b18a",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "LOYALTY PROMO MINGGU INI! &#8211; 2 November 2026",
+    "ditemukan": "2026-11-17T12:32:13.455877+00:00",
+    "deadline": "2026-11-02T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/loyalty-promo-2-november-2026/",
+    "is_new": true
+  },
+  {
+    "id": "4d40bd82b2dc731e",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Gratis Butter Kaya Toast di Laoban Nusantara untuk Pengguna INDODAX Terverifikasi",
+    "ditemukan": "2026-11-17T12:32:13.456721+00:00",
+    "deadline": "2026-11-02T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/promo-indodax-x-laoban-nusantara-butter-kaya-toast/",
+    "is_new": true
+  },
+  {
+    "id": "8b2f3eb199fa8da7",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Check Status",
+    "ditemukan": "2026-11-17T12:32:13.457700+00:00",
     "deadline": null,
     "reward": null,
     "cara_ikut": null,
     "url": "https://blog.indodax.com/status",
-    "is_new": false
+    "is_new": true
+  },
+  {
+    "id": "66911b8a278edafe",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Pertanyaan Media",
+    "ditemukan": "2026-11-17T12:32:13.457875+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/#m-iq",
+    "is_new": true
   },
   {
     "id": "d8992e34fa1c46ed",
@@ -645,6 +741,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/pembaruan-alamat-kontrak-usdt-jaringan-optimism-di-pintu",
-    "is_new": true
+    "is_new": false
   }
 ]
