@@ -489,7 +489,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://blog.indodax.com/deposit-dengan-qris/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "d40e3aba9062da5a",
@@ -501,7 +501,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://blog.indodax.com/deposit-direct-bca/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "0bda85ff42792b15",
@@ -513,7 +513,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://blog.indodax.com/kelas-sore-nov26/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "a7f910904012ab78",
@@ -525,7 +525,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://blog.indodax.com/merger-stg-zro/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "bdd572995bf48430",
@@ -537,7 +537,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://blog.indodax.com/merger-velofin-aero/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "6bf3c166cb4b2767",
@@ -549,7 +549,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://blog.indodax.com/follow-your-heroes-x/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "56970260c7786ecd",
@@ -561,7 +561,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://blog.indodax.com/sobatsuperdax-nov26/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "b86b9e059b00ffbf",
@@ -573,7 +573,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://blog.indodax.com/cashback-btc-nov26/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "c006410b5f20b18a",
@@ -585,7 +585,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://blog.indodax.com/loyalty-promo-2-november-2026/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "4d40bd82b2dc731e",
@@ -597,7 +597,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://blog.indodax.com/promo-indodax-x-laoban-nusantara-butter-kaya-toast/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "8b2f3eb199fa8da7",
@@ -609,7 +609,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://blog.indodax.com/status",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "66911b8a278edafe",
@@ -621,6 +621,18 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://blog.indodax.com/#m-iq",
+    "is_new": false
+  },
+  {
+    "id": "e2d7f7f6ce8c315b",
+    "kategori": "listing",
+    "exchange": "Pintu",
+    "judul": "Pengumuman: Maintenance Aplikasi Pintu pada 26 November 2026",
+    "ditemukan": "2026-11-17T15:32:17.397912+00:00",
+    "deadline": "2026-11-26T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://pintu.co.id/blog/pengumuman-maintenance-aplikasi-pintu-pada-26-november-2026",
     "is_new": true
   },
   {
@@ -629,7 +641,7 @@
     "exchange": "Pintu",
     "judul": "Pintu Listing Aset Tokenized Baru, 13 November 2026",
     "ditemukan": "2026-11-13T16:32:14.003022+00:00",
-    "deadline": "2026-11-13T00:00:00",
+    "deadline": "2026-11-26T00:00:00",
     "reward": null,
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/pintu-listing-aset-tokenized-baru-13-november-2026",
@@ -729,18 +741,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/perubahan-metode-deposit-melalui-bri",
-    "is_new": false
-  },
-  {
-    "id": "fd8c799de87e6934",
-    "kategori": "listing",
-    "exchange": "Pintu",
-    "judul": "Pengumuman: Pembaruan Alamat Kontrak USDT Jaringan Optimism di Pintu",
-    "ditemukan": "2026-11-17T09:32:13.004309+00:00",
-    "deadline": "2026-10-06T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://pintu.co.id/blog/pembaruan-alamat-kontrak-usdt-jaringan-optimism-di-pintu",
     "is_new": false
   }
 ]
