@@ -1,5 +1,17 @@
 [
   {
+    "id": "3a7450a22920b6ca",
+    "kategori": "listing",
+    "exchange": "Binance",
+    "judul": "Binance Futures Will Launch Multiple TradFi USDⓈ-Margined Perpetual Contracts (2026-11-18)",
+    "ditemukan": "2026-11-18T09:32:10.388790+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://www.binance.com/en/support/announcement/e881bca4de484755b172ec53141bd422",
+    "is_new": true
+  },
+  {
     "id": "13efb749037f82bd",
     "kategori": "listing",
     "exchange": "Binance",
@@ -225,18 +237,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://www.binance.com/en/support/announcement/9c34999b27234dfe9c43d2ac33cebde4",
-    "is_new": false
-  },
-  {
-    "id": "3de0139fa162552d",
-    "kategori": "listing",
-    "exchange": "Binance",
-    "judul": "Binance Futures Will Launch Multiple TradFi USDⓈ-Margined Perpetual Contracts (2026-10-06)",
-    "ditemukan": "2026-10-06T06:32:13.768585+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://www.binance.com/en/support/announcement/ea19450f515843098a5d5e55fc6e3589",
     "is_new": false
   },
   {
@@ -624,16 +624,40 @@
     "is_new": false
   },
   {
+    "id": "4ffbf4be534eaeef",
+    "kategori": "listing",
+    "exchange": "Pintu",
+    "judul": "Pintu Futures Listing Aset Tokenized Baru, 18 November 2026",
+    "ditemukan": "2026-11-18T09:32:15.427616+00:00",
+    "deadline": "2026-11-18T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://pintu.co.id/blog/pintu-futures-listing-aset-tokenized-baru-18-november-2026",
+    "is_new": true
+  },
+  {
+    "id": "f2e0d715b3612a38",
+    "kategori": "listing",
+    "exchange": "Pintu",
+    "judul": "Pengumuman: Token Rebranding CPOOL Menjadi CLEAR",
+    "ditemukan": "2026-11-18T09:32:15.427878+00:00",
+    "deadline": "2026-11-18T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://pintu.co.id/blog/pengumuman-token-rebranding-cpool-menjadi-clear",
+    "is_new": true
+  },
+  {
     "id": "e2d7f7f6ce8c315b",
     "kategori": "listing",
     "exchange": "Pintu",
     "judul": "Pengumuman: Maintenance Aplikasi Pintu pada 26 November 2026",
     "ditemukan": "2026-11-18T07:32:15.498672+00:00",
-    "deadline": "2026-11-26T00:00:00",
+    "deadline": "2026-11-18T00:00:00",
     "reward": null,
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/pengumuman-maintenance-aplikasi-pintu-pada-26-november-2026",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "d8992e34fa1c46ed",
@@ -717,30 +741,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/pintu-listing-aset-tokenized-baru-15oktober2026",
-    "is_new": false
-  },
-  {
-    "id": "4c55d7f756c1d7c9",
-    "kategori": "listing",
-    "exchange": "Pintu",
-    "judul": "Pengumuman: Delisting Token BLAST di Pintu",
-    "ditemukan": "2026-10-09T02:32:23.275964+00:00",
-    "deadline": "2026-10-15T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://pintu.co.id/blog/pengumuman-delisting-token-blast-di-pintu",
-    "is_new": false
-  },
-  {
-    "id": "d192ed6027394c17",
-    "kategori": "listing",
-    "exchange": "Pintu",
-    "judul": "Pengumuman: Perubahan Metode Deposit melalui BRI",
-    "ditemukan": "2026-10-08T21:32:30.715284+00:00",
-    "deadline": "2026-10-07T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://pintu.co.id/blog/perubahan-metode-deposit-melalui-bri",
     "is_new": false
   }
 ]
