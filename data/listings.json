@@ -1,5 +1,17 @@
 [
   {
+    "id": "13efb749037f82bd",
+    "kategori": "listing",
+    "exchange": "Binance",
+    "judul": "Binance Will Add 7 bStocks Tokenized Securities as Collateral Asset - 2026-11-18",
+    "ditemukan": "2026-11-18T04:32:11.564515+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://www.binance.com/en/support/announcement/e559d54271c748e080ba4180d453ea1b",
+    "is_new": true
+  },
+  {
     "id": "8708309e521b0c4e",
     "kategori": "listing",
     "exchange": "Binance",
@@ -9,7 +21,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://www.binance.com/en/support/announcement/a3ffb6df9de942a9bb40e19f904041e6",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ed70d8bd5eb0e7fb",
@@ -225,18 +237,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://www.binance.com/en/support/announcement/ea19450f515843098a5d5e55fc6e3589",
-    "is_new": false
-  },
-  {
-    "id": "3d4c941d56582638",
-    "kategori": "listing",
-    "exchange": "Binance",
-    "judul": "Binance Futures Will Launch USDⓈ-Margined CTUSDT Perpetual Contract (2026-10-01)",
-    "ditemukan": "2026-10-06T00:34:05.470933+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://www.binance.com/en/support/announcement/6bd26adeb6f742fe88eb72faca183566",
     "is_new": false
   },
   {
@@ -624,12 +624,24 @@
     "is_new": false
   },
   {
+    "id": "e2d7f7f6ce8c315b",
+    "kategori": "listing",
+    "exchange": "Pintu",
+    "judul": "Pengumuman: Maintenance Aplikasi Pintu pada 26 November 2026",
+    "ditemukan": "2026-11-18T04:32:16.698863+00:00",
+    "deadline": "2026-11-26T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://pintu.co.id/blog/pengumuman-maintenance-aplikasi-pintu-pada-26-november-2026",
+    "is_new": true
+  },
+  {
     "id": "d8992e34fa1c46ed",
     "kategori": "listing",
     "exchange": "Pintu",
     "judul": "Pintu Listing Aset Tokenized Baru, 13 November 2026",
     "ditemukan": "2026-11-13T16:32:14.003022+00:00",
-    "deadline": "2026-11-13T00:00:00",
+    "deadline": "2026-11-26T00:00:00",
     "reward": null,
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/pintu-listing-aset-tokenized-baru-13-november-2026",
@@ -729,18 +741,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/perubahan-metode-deposit-melalui-bri",
-    "is_new": false
-  },
-  {
-    "id": "fd8c799de87e6934",
-    "kategori": "listing",
-    "exchange": "Pintu",
-    "judul": "Pengumuman: Pembaruan Alamat Kontrak USDT Jaringan Optimism di Pintu",
-    "ditemukan": "2026-11-18T02:32:16.577443+00:00",
-    "deadline": "2026-10-06T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://pintu.co.id/blog/pembaruan-alamat-kontrak-usdt-jaringan-optimism-di-pintu",
     "is_new": false
   }
 ]
