@@ -1,5 +1,17 @@
 [
   {
+    "id": "8708309e521b0c4e",
+    "kategori": "listing",
+    "exchange": "Binance",
+    "judul": "Binance Exchange Adds New bStocks Trading Pairs on Binance Spot/Convert - 2026-11-18",
+    "ditemukan": "2026-11-18T03:32:10.532858+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://www.binance.com/en/support/announcement/a3ffb6df9de942a9bb40e19f904041e6",
+    "is_new": true
+  },
+  {
     "id": "ed70d8bd5eb0e7fb",
     "kategori": "listing",
     "exchange": "Binance",
@@ -225,18 +237,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://www.binance.com/en/support/announcement/6bd26adeb6f742fe88eb72faca183566",
-    "is_new": false
-  },
-  {
-    "id": "69b2412c321b4e5a",
-    "kategori": "listing",
-    "exchange": "Binance",
-    "judul": "Binance Will Add 7 bStocks Tokenized Securities as Collateral Asset - 2026-09-30",
-    "ditemukan": "2026-10-06T00:34:05.470997+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://www.binance.com/en/support/announcement/1a94597986cf476f939609c02b87ee79",
     "is_new": false
   },
   {
@@ -741,6 +741,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/pembaruan-alamat-kontrak-usdt-jaringan-optimism-di-pintu",
-    "is_new": true
+    "is_new": false
   }
 ]
