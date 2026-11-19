@@ -480,6 +480,18 @@
     "is_new": false
   },
   {
+    "id": "2eaf0b13058ab9ac",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Informasi Delisting FUN, HOT, ISLM, dan MASK Aset Kripto",
+    "ditemukan": "2026-11-19T08:32:17.209040+00:00",
+    "deadline": "2026-11-19T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/informasi-delisting-26-november-2026/",
+    "is_new": true
+  },
+  {
     "id": "fe62e7c29e264a29",
     "kategori": "listing",
     "exchange": "Indodax",
@@ -588,18 +600,6 @@
     "is_new": false
   },
   {
-    "id": "4d40bd82b2dc731e",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "Gratis Butter Kaya Toast di Laoban Nusantara untuk Pengguna INDODAX Terverifikasi",
-    "ditemukan": "2026-11-17T12:32:13.456721+00:00",
-    "deadline": "2026-11-02T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/promo-indodax-x-laoban-nusantara-butter-kaya-toast/",
-    "is_new": false
-  },
-  {
     "id": "8b2f3eb199fa8da7",
     "kategori": "listing",
     "exchange": "Indodax",
@@ -633,7 +633,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/pengumuman-maintenance-aplikasi-pintu-pada-26-november-2026",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "d8992e34fa1c46ed",
