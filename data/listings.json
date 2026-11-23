@@ -624,12 +624,36 @@
     "is_new": false
   },
   {
+    "id": "19a7f873e0543eab",
+    "kategori": "listing",
+    "exchange": "Pintu",
+    "judul": "Pintu Futures Listing Aset Tokenized Baru: Anthropic (ANTXUSDT-PERP)",
+    "ditemukan": "2026-11-23T09:32:17.418000+00:00",
+    "deadline": "2026-11-20T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://pintu.co.id/blog/pintu-futures-listing-aset-tokenized-baru-20-november-2026",
+    "is_new": true
+  },
+  {
+    "id": "592c7167f7ce4c9f",
+    "kategori": "listing",
+    "exchange": "Pintu",
+    "judul": "Winner Announcement Pintu Odyssey Chapter I!",
+    "ditemukan": "2026-11-23T09:32:17.418263+00:00",
+    "deadline": "2026-11-20T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://pintu.co.id/blog/winner-announcement-pintu-odyssey-chapter-1",
+    "is_new": true
+  },
+  {
     "id": "4cecab2cf8e8f0ee",
     "kategori": "listing",
     "exchange": "Pintu",
     "judul": "Pintu Listing Aset Tokenized Baru, 19 November 2026",
     "ditemukan": "2026-11-19T18:32:16.376321+00:00",
-    "deadline": "2026-11-19T00:00:00",
+    "deadline": "2026-11-20T00:00:00",
     "reward": null,
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/pintu-listing-aset-tokenized-baru-19-november-2026",
@@ -718,29 +742,5 @@
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/pengumuman-limit-deposit-bank-ina-bank-nobu-naik-hingga-rp10-miliar-per-transaksi",
     "is_new": false
-  },
-  {
-    "id": "7b52b64d89c2eb9e",
-    "kategori": "listing",
-    "exchange": "Pintu",
-    "judul": "Pintu Listing Aset Tokenized Baru, 21 Oktober 2026",
-    "ditemukan": "2026-11-23T08:32:20.695561+00:00",
-    "deadline": "2026-10-27T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://pintu.co.id/blog/pintu-listing-aset-tokenized-baru-21oktober2026",
-    "is_new": true
-  },
-  {
-    "id": "50b8e595ce3ab780",
-    "kategori": "listing",
-    "exchange": "Pintu",
-    "judul": "TWAP Order Kini Hadir di Aplikasi Pintu, Cek Cara Pakai-nya Sekarang!",
-    "ditemukan": "2026-11-23T08:32:20.695672+00:00",
-    "deadline": "2026-10-21T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://pintu.co.id/blog/fitur-twap-order-telah-hadir-di-pintu",
-    "is_new": true
   }
 ]
