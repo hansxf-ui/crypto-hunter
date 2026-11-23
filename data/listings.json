@@ -1,5 +1,17 @@
 [
   {
+    "id": "ea5a69d57be305df",
+    "kategori": "listing",
+    "exchange": "Binance",
+    "judul": "Binance Will Launch Stock Options on Anthropic (ANT)",
+    "ditemukan": "2026-11-23T14:32:14.556666+00:00",
+    "deadline": null,
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://www.binance.com/en/support/announcement/b3eb06ad744b4398911a103d94d288c6",
+    "is_new": true
+  },
+  {
     "id": "f9a797113308b38d",
     "kategori": "listing",
     "exchange": "Binance",
@@ -225,18 +237,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://www.binance.com/en/support/announcement/927d3a7b5d6c43fb888e38f110005906",
-    "is_new": false
-  },
-  {
-    "id": "428da749c9f2bd08",
-    "kategori": "listing",
-    "exchange": "Binance",
-    "judul": "Binance Will List RWUSD and Introduce RWUSD Zero Trading Fee Promotion",
-    "ditemukan": "2026-10-13T03:32:16.919382+00:00",
-    "deadline": null,
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://www.binance.com/en/support/announcement/1dfe10f0e0fb4e7ab0eb8874e9fdab0e",
     "is_new": false
   },
   {
@@ -633,7 +633,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/pintu-futures-listing-aset-tokenized-baru-20-november-2026",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "592c7167f7ce4c9f",
@@ -645,7 +645,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/winner-announcement-pintu-odyssey-chapter-1",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "4cecab2cf8e8f0ee",
