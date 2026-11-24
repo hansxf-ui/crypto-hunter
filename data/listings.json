@@ -480,6 +480,30 @@
     "is_new": false
   },
   {
+    "id": "8b44eda9d216acea",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Informasi Penyesuaian Biaya Bursa",
+    "ditemukan": "2026-11-24T21:32:21.363883+00:00",
+    "deadline": "2026-11-25T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/id_ID/informasi-biaya-bursa/",
+    "is_new": true
+  },
+  {
+    "id": "b1fce5507660db69",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "ASK ME ANYTHING (AMA) – CRYPTO & LAW",
+    "ditemukan": "2026-11-24T21:32:21.375475+00:00",
+    "deadline": "2026-11-24T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/id_ID/ama-crypto-law/",
+    "is_new": true
+  },
+  {
     "id": "2eaf0b13058ab9ac",
     "kategori": "listing",
     "exchange": "Indodax",
@@ -574,30 +598,6 @@
     "cara_ikut": null,
     "url": "https://blog.indodax.com/id_ID/sobatsuperdax-nov26/",
     "is_new": false
-  },
-  {
-    "id": "b86b9e059b00ffbf",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "Mulai Investasi Kripto &#038; Dapatkan 100% Cashback hingga Rp100.000 di INDODAX!",
-    "ditemukan": "2026-11-24T20:32:15.614852+00:00",
-    "deadline": "2026-11-02T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/id_ID/cashback-btc-nov26/",
-    "is_new": true
-  },
-  {
-    "id": "c006410b5f20b18a",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "LOYALTY PROMO MINGGU INI! &#8211; 2 November 2026",
-    "ditemukan": "2026-11-24T20:32:15.615030+00:00",
-    "deadline": "2026-11-02T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/id_ID/loyalty-promo-2-november-2026/",
-    "is_new": true
   },
   {
     "id": "8b2f3eb199fa8da7",
