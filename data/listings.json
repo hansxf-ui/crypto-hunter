@@ -480,6 +480,30 @@
     "is_new": false
   },
   {
+    "id": "b1fce5507660db69",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "ASK ME ANYTHING (AMA) – CRYPTO & LAW",
+    "ditemukan": "2026-11-24T21:32:21.375475+00:00",
+    "deadline": "2026-11-25T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/id_ID/ask-me-anything-crypto-law/",
+    "is_new": false
+  },
+  {
+    "id": "54b8de7fe89fa284",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Trading Competition OneLink (ONL)",
+    "ditemukan": "2026-11-25T07:32:13.804280+00:00",
+    "deadline": "2026-11-25T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/id_ID/trading-competition-onelink-onl/",
+    "is_new": true
+  },
+  {
     "id": "f567dc667a16308a",
     "kategori": "listing",
     "exchange": "Indodax",
@@ -489,7 +513,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://blog.indodax.com/id_ID/temporary-transition-of-indodax-customer-services-at-the-millenium-centennial-center-office/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "8b44eda9d216acea",
@@ -501,18 +525,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://blog.indodax.com/id_ID/informasi-biaya-bursa/",
-    "is_new": false
-  },
-  {
-    "id": "b1fce5507660db69",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "ASK ME ANYTHING (AMA) – CRYPTO & LAW",
-    "ditemukan": "2026-11-24T21:32:21.375475+00:00",
-    "deadline": "2026-11-24T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/id_ID/ama-crypto-law/",
     "is_new": false
   },
   {
@@ -585,18 +597,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://blog.indodax.com/id_ID/merger-velofin-aero/",
-    "is_new": false
-  },
-  {
-    "id": "6bf3c166cb4b2767",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "Follow X INDODAX dan Dapatkan Total Hadiah Rp2 Juta dari INDODAX",
-    "ditemukan": "2026-11-17T12:32:13.455441+00:00",
-    "deadline": "2026-11-04T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/id_ID/follow-your-heroes-x/",
     "is_new": false
   },
   {
