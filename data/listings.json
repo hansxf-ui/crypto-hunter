@@ -480,6 +480,18 @@
     "is_new": false
   },
   {
+    "id": "7f9b35a3bd908517",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Network Migration Vexanium (VEX) Mainnet to ERC20",
+    "ditemukan": "2026-11-25T10:32:15.475252+00:00",
+    "deadline": "2026-11-25T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/id_ID/network-migration-vexanium-vex-mainnet-to-erc20/",
+    "is_new": true
+  },
+  {
     "id": "b1fce5507660db69",
     "kategori": "listing",
     "exchange": "Indodax",
@@ -501,7 +513,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://blog.indodax.com/id_ID/trading-competition-onelink-onl/",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "f567dc667a16308a",
@@ -585,18 +597,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://blog.indodax.com/id_ID/merger-stg-zro/",
-    "is_new": false
-  },
-  {
-    "id": "bdd572995bf48430",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "Velodrome Finance (VELOFIN) dan Aerodrome Finance (AERO) Merger Menjadi Aero (AERO)",
-    "ditemukan": "2026-11-17T12:32:13.455293+00:00",
-    "deadline": "2026-11-04T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/id_ID/merger-velofin-aero/",
     "is_new": false
   },
   {
