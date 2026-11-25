@@ -9,7 +9,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://www.binance.com/en/support/announcement/bbad3eb0d13f4a90954a38797b9077de",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "edee133512a5e0af",
@@ -21,7 +21,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://www.binance.com/en/support/announcement/94eb40096c2d44179a3e48fd4e5bf3d4",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "ea5a69d57be305df",
@@ -480,6 +480,18 @@
     "is_new": false
   },
   {
+    "id": "f567dc667a16308a",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Temporary Transition of INDODAX Customer Services at the Millenium Centennial Center Office",
+    "ditemukan": "2026-11-25T05:32:14.255962+00:00",
+    "deadline": "2026-11-25T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/id_ID/temporary-transition-of-indodax-customer-services-at-the-millenium-centennial-center-office/",
+    "is_new": true
+  },
+  {
     "id": "8b44eda9d216acea",
     "kategori": "listing",
     "exchange": "Indodax",
@@ -585,18 +597,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://blog.indodax.com/id_ID/follow-your-heroes-x/",
-    "is_new": false
-  },
-  {
-    "id": "56970260c7786ecd",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "Giveaway Sobat SuperDAX: Total Hadiah Rp6 Juta dalam Bentuk USDT!",
-    "ditemukan": "2026-11-17T12:32:13.455586+00:00",
-    "deadline": "2026-11-03T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/id_ID/sobatsuperdax-nov26/",
     "is_new": false
   },
   {
