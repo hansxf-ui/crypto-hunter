@@ -9,7 +9,7 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://www.binance.com/en/support/announcement/81280e617df24bf7a35ac5f109b1065a",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "e8017253b132bc58",
@@ -480,6 +480,30 @@
     "is_new": false
   },
   {
+    "id": "07310300e8e61af8",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Informasi Aset Fusionist (ACE)",
+    "ditemukan": "2026-11-26T07:32:13.623765+00:00",
+    "deadline": "2026-11-26T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/id_ID/informasi-aset-fusionist-ace/",
+    "is_new": true
+  },
+  {
+    "id": "f08c473bd9410ec0",
+    "kategori": "listing",
+    "exchange": "Indodax",
+    "judul": "Informasi Aset CyberConnect (CYBER)",
+    "ditemukan": "2026-11-26T07:32:13.627330+00:00",
+    "deadline": "2026-11-26T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://blog.indodax.com/id_ID/informasi-aset-cyberconnect-cyber/",
+    "is_new": true
+  },
+  {
     "id": "7f9b35a3bd908517",
     "kategori": "listing",
     "exchange": "Indodax",
@@ -573,30 +597,6 @@
     "reward": null,
     "cara_ikut": null,
     "url": "https://blog.indodax.com/id_ID/deposit-direct-bca/",
-    "is_new": false
-  },
-  {
-    "id": "0bda85ff42792b15",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "Kelas Sore INDODAX Academy (November 2026)",
-    "ditemukan": "2026-11-17T12:32:13.454973+00:00",
-    "deadline": "2026-11-05T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/id_ID/kelas-sore-nov26/",
-    "is_new": false
-  },
-  {
-    "id": "a7f910904012ab78",
-    "kategori": "listing",
-    "exchange": "Indodax",
-    "judul": "Merger Token Stargate Finance (STG) Menjadi LayerZero (ZRO)",
-    "ditemukan": "2026-11-17T12:32:13.455130+00:00",
-    "deadline": "2026-11-04T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://blog.indodax.com/id_ID/merger-stg-zro/",
     "is_new": false
   },
   {
