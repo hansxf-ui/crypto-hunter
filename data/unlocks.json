@@ -1,1 +1,146 @@
-[]
+[
+  {
+    "id": "2a365319cb7c3bed",
+    "kategori": "unlocks",
+    "exchange": "CryptoRank",
+    "judul": "HOPR Token HOPR",
+    "ditemukan": "2026-11-27T13:32:24.148505+00:00",
+    "deadline": "2026-11-27T00:00:00",
+    "reward": "$99.34K",
+    "cara_ikut": "HOPR 10.00M · 1.25% of M. Cap",
+    "url": "https://cryptorank.io/price/hopr-token/vesting",
+    "is_new": true
+  },
+  {
+    "id": "973c55318a763bd1",
+    "kategori": "unlocks",
+    "exchange": "CryptoRank",
+    "judul": "Bware Labs INFRA",
+    "ditemukan": "2026-11-27T13:32:24.148655+00:00",
+    "deadline": "2026-11-27T00:00:00",
+    "reward": "$2.11K",
+    "cara_ikut": "INFRA 50.15K · 1.00% of M. Cap",
+    "url": "https://cryptorank.io/price/bware-labs/vesting",
+    "is_new": true
+  },
+  {
+    "id": "3db9c7fbb7664ff3",
+    "kategori": "unlocks",
+    "exchange": "CryptoRank",
+    "judul": "KiloEx KILO",
+    "ditemukan": "2026-11-27T13:32:24.148807+00:00",
+    "deadline": "2026-11-27T00:00:00",
+    "reward": "$35.37K",
+    "cara_ikut": "KILO 17.24M · 8.15% of M. Cap",
+    "url": "https://cryptorank.io/price/kiloex/vesting",
+    "is_new": true
+  },
+  {
+    "id": "2f630958bd9591bf",
+    "kategori": "unlocks",
+    "exchange": "CryptoRank",
+    "judul": "NFPrompt NFP",
+    "ditemukan": "2026-11-27T13:32:24.148907+00:00",
+    "deadline": "2026-11-27T00:00:00",
+    "reward": "$2.17K",
+    "cara_ikut": "NFP 14.51M · 1.45% of M. Cap",
+    "url": "https://cryptorank.io/price/nfprompt/vesting",
+    "is_new": true
+  },
+  {
+    "id": "d12894a33d24b26e",
+    "kategori": "unlocks",
+    "exchange": "CryptoRank",
+    "judul": "Bitlight Labs LIGHT",
+    "ditemukan": "2026-11-27T13:32:24.149013+00:00",
+    "deadline": "2026-11-27T00:00:00",
+    "reward": "$719.09K",
+    "cara_ikut": "LIGHT 3.52M · 8.18% of M. Cap",
+    "url": "https://cryptorank.io/price/bitlight-labs/vesting",
+    "is_new": true
+  },
+  {
+    "id": "04c6fa54604cc092",
+    "kategori": "unlocks",
+    "exchange": "CryptoRank",
+    "judul": "Camp Network CAMP",
+    "ditemukan": "2026-11-27T13:32:24.149165+00:00",
+    "deadline": "2026-11-27T00:00:00",
+    "reward": "$2.11K",
+    "cara_ikut": "CAMP 172.21M · 1.72% of M. Cap",
+    "url": "https://cryptorank.io/price/camp-network/vesting",
+    "is_new": true
+  },
+  {
+    "id": "a585fca81cba2462",
+    "kategori": "unlocks",
+    "exchange": "CryptoRank",
+    "judul": "Blum BLUM",
+    "ditemukan": "2026-11-27T13:32:24.149251+00:00",
+    "deadline": "2026-11-27T00:00:00",
+    "reward": "$16.11K",
+    "cara_ikut": "BLUM 23.40M · 13.2% of M. Cap",
+    "url": "https://cryptorank.io/price/blum/vesting",
+    "is_new": true
+  },
+  {
+    "id": "2934fc244b006028",
+    "kategori": "unlocks",
+    "exchange": "CryptoRank",
+    "judul": "Otherworld OWN",
+    "ditemukan": "2026-11-27T13:32:24.149333+00:00",
+    "deadline": "2026-11-27T00:00:00",
+    "reward": "$15.87K",
+    "cara_ikut": "OWN 537.50K · 1.52% of M. Cap",
+    "url": "https://cryptorank.io/price/otherworld/vesting",
+    "is_new": true
+  },
+  {
+    "id": "2de703706019a0d8",
+    "kategori": "unlocks",
+    "exchange": "CryptoRank",
+    "judul": "GameOn Forge GO4",
+    "ditemukan": "2026-11-27T13:32:24.149415+00:00",
+    "deadline": "2026-11-27T00:00:00",
+    "reward": "$5.75K",
+    "cara_ikut": "GO4 68.59K · 3.31% of M. Cap",
+    "url": "https://cryptorank.io/price/gameon-forge/vesting",
+    "is_new": true
+  },
+  {
+    "id": "f9edebf1d52f7adb",
+    "kategori": "unlocks",
+    "exchange": "CryptoRank",
+    "judul": "Resolv RESOLV",
+    "ditemukan": "2026-11-27T13:32:24.149497+00:00",
+    "deadline": "2026-11-27T00:00:00",
+    "reward": "$426.45K",
+    "cara_ikut": "RESOLV 30.44M · 21.6% of M. Cap",
+    "url": "https://cryptorank.io/price/resolv/vesting",
+    "is_new": true
+  },
+  {
+    "id": "2dff3e7a4b797647",
+    "kategori": "unlocks",
+    "exchange": "CryptoRank",
+    "judul": "Metropolis METRO",
+    "ditemukan": "2026-11-27T13:32:24.149580+00:00",
+    "deadline": "2026-11-27T00:00:00",
+    "reward": "$533.57",
+    "cara_ikut": "METRO 67.93K · 1.36% of M. Cap",
+    "url": "https://cryptorank.io/price/metropolis-exchange/vesting",
+    "is_new": true
+  },
+  {
+    "id": "6212a7da1a470a82",
+    "kategori": "unlocks",
+    "exchange": "CryptoRank",
+    "judul": "XMAQUINA DEUS",
+    "ditemukan": "2026-11-27T13:32:24.149660+00:00",
+    "deadline": "2026-11-27T00:00:00",
+    "reward": "$264.42K",
+    "cara_ikut": "DEUS 23.36M · 2.34% of M. Cap",
+    "url": "https://cryptorank.io/price/xmaquina/vesting",
+    "is_new": true
+  }
+]
