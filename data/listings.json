@@ -624,12 +624,48 @@
     "is_new": false
   },
   {
+    "id": "dd8d385516998324",
+    "kategori": "listing",
+    "exchange": "Pintu",
+    "judul": "Pintu Listing Aset Tokenized Baru, 27 November 2026",
+    "ditemukan": "2026-11-28T14:32:22.669123+00:00",
+    "deadline": "2026-11-27T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://pintu.co.id/blog/pintu-listing-aset-tokenized-baru-27-november-2026",
+    "is_new": true
+  },
+  {
+    "id": "55c9ccd27a6187b0",
+    "kategori": "listing",
+    "exchange": "Pintu",
+    "judul": "Panduan Lengkap Mengisi Data Pajak (TIN) untuk Pengguna Pintu",
+    "ditemukan": "2026-11-28T14:32:22.670462+00:00",
+    "deadline": "2026-11-27T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://pintu.co.id/blog/panduan-mengisi-data-pajak-tin",
+    "is_new": true
+  },
+  {
+    "id": "8953f143a9e9192a",
+    "kategori": "listing",
+    "exchange": "Pintu",
+    "judul": "Pengumuman: Token Delisting VIC",
+    "ditemukan": "2026-11-28T14:32:22.670703+00:00",
+    "deadline": "2026-11-27T00:00:00",
+    "reward": null,
+    "cara_ikut": null,
+    "url": "https://pintu.co.id/blog/pengumuman-token-delisting-vic",
+    "is_new": true
+  },
+  {
     "id": "19a7f873e0543eab",
     "kategori": "listing",
     "exchange": "Pintu",
     "judul": "Pintu Futures Listing Aset Tokenized Baru: Anthropic (ANTXUSDT-PERP)",
     "ditemukan": "2026-11-23T09:32:17.418000+00:00",
-    "deadline": "2026-11-20T00:00:00",
+    "deadline": "2026-11-27T00:00:00",
     "reward": null,
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/pintu-futures-listing-aset-tokenized-baru-20-november-2026",
@@ -684,11 +720,11 @@
     "is_new": false
   },
   {
-    "id": "e2d7f7f6ce8c315b",
+    "id": "bded1a30642f72a1",
     "kategori": "listing",
     "exchange": "Pintu",
-    "judul": "Pengumuman: Maintenance Aplikasi Pintu pada 26 November 2026",
-    "ditemukan": "2026-11-28T13:32:18.151713+00:00",
+    "judul": "Maintenance Aplikasi Pintu Telah Selesai",
+    "ditemukan": "2026-11-28T14:32:22.672183+00:00",
     "deadline": "2026-11-18T00:00:00",
     "reward": null,
     "cara_ikut": null,
@@ -701,46 +737,10 @@
     "exchange": "Pintu",
     "judul": "Pintu Listing Aset Tokenized Baru, 13 November 2026",
     "ditemukan": "2026-11-13T16:32:14.003022+00:00",
-    "deadline": "2026-11-26T00:00:00",
+    "deadline": "2026-11-16T00:00:00",
     "reward": null,
     "cara_ikut": null,
     "url": "https://pintu.co.id/blog/pintu-listing-aset-tokenized-baru-13-november-2026",
     "is_new": false
-  },
-  {
-    "id": "22f36f5c664ca0c9",
-    "kategori": "listing",
-    "exchange": "Pintu",
-    "judul": "Market Stats Kini Hadir di Aplikasi Pintu: Cek Kondisi Pasar Crypto dan Saham AS",
-    "ditemukan": "2026-11-28T13:32:18.152105+00:00",
-    "deadline": "2026-11-13T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://pintu.co.id/blog/market-stats-cara-cek-kondisi-market-pintu",
-    "is_new": true
-  },
-  {
-    "id": "c4c52dbeeae20baf",
-    "kategori": "listing",
-    "exchange": "Pintu",
-    "judul": "Pintu Listing Aset Tokenized Baru, 29 Oktober 2026",
-    "ditemukan": "2026-11-28T13:32:18.152328+00:00",
-    "deadline": "2026-11-13T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://pintu.co.id/blog/pintu-listing-aset-tokenized-baru-29-oktober-2026",
-    "is_new": true
-  },
-  {
-    "id": "27a8ecbbad50c313",
-    "kategori": "listing",
-    "exchange": "Pintu",
-    "judul": "Pengumuman: Limit Deposit Bank INA & Bank Nobu Naik hingga Rp10 Miliar per Transaksi",
-    "ditemukan": "2026-11-28T13:32:18.160579+00:00",
-    "deadline": "2026-10-29T00:00:00",
-    "reward": null,
-    "cara_ikut": null,
-    "url": "https://pintu.co.id/blog/pengumuman-limit-deposit-bank-ina-bank-nobu-naik-hingga-rp10-miliar-per-transaksi",
-    "is_new": true
   }
 ]
